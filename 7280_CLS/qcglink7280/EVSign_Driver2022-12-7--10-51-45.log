@@ -1,0 +1,13 @@
+ EV Signer LogFile.
+	 FileName : qcglink7280.cat - Signing = Success
+Success Message 
+The following certificates were considered:    Issued to: 97722d39-2e96-4ad8-8d40-cc2dae37307f    Issued by: MS-Organization-Access    Expires:   Tue Dec 24 10:23:39 2030    SHA1 hash: BAD9738F5197326EB0F531F07730404BB5EF3F77    Issued to: QUALCOMM Inc.    Issued by: DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1    Expires:   Sat Mar 29 05:29:59 2025    SHA1 hash: 541CFCCBF187CB189320A0ECC628ECC268E504FFAfter EKU filter, 1 certs were left.After expiry filter, 1 certs were left.After Hash filter, 1 certs were left.After Private Key filter, 1 certs were left.The following certificate was selected:    Issued to: QUALCOMM Inc.    Issued by: DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1    Expires:   Sat Mar 29 05:29:59 2025    SHA1 hash: 541CFCCBF187CB189320A0ECC628ECC268E504FFDone Adding Additional StoreSuccessfully signed: C:\PS_Drivers\7280\03600\4_HLKLogsAndDrivers\Common3\qcglink7280\Driver\qcglink7280.catNumber of files successfully Signed: 1Number of warnings: 0Number of errors: 0
+
+	 FileName : qcglink7280.sys - Signing = Success
+Success Message 
+The following certificates were considered:    Issued to: 97722d39-2e96-4ad8-8d40-cc2dae37307f    Issued by: MS-Organization-Access    Expires:   Tue Dec 24 10:23:39 2030    SHA1 hash: BAD9738F5197326EB0F531F07730404BB5EF3F77    Issued to: QUALCOMM Inc.    Issued by: DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1    Expires:   Sat Mar 29 05:29:59 2025    SHA1 hash: 541CFCCBF187CB189320A0ECC628ECC268E504FFAfter EKU filter, 1 certs were left.After expiry filter, 1 certs were left.After Hash filter, 1 certs were left.After Private Key filter, 1 certs were left.The following certificate was selected:    Issued to: QUALCOMM Inc.    Issued by: DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1    Expires:   Sat Mar 29 05:29:59 2025    SHA1 hash: 541CFCCBF187CB189320A0ECC628ECC268E504FFDone Adding Additional StoreSuccessfully signed: C:\PS_Drivers\7280\03600\4_HLKLogsAndDrivers\Common3\qcglink7280\Driver\qcglink7280.sysNumber of files successfully Signed: 1Number of warnings: 0Number of errors: 0
+
+	 FileName : qcglink7280.sys - Signing = Success
+Sign Result 
+ Pass:  2
+ Fail : 0

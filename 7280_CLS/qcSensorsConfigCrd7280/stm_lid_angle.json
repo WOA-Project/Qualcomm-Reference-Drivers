@@ -1,0 +1,36 @@
+{
+  "config":{
+    "hw_platform": ["CRD"],
+    "soc_id": ["488","475"]
+  },
+  "hingeangle_0_platform":{
+    "owner": "hingeangle",
+    ".hingeangle":{
+      "owner": "hingeangle",
+      ".config":{
+        "owner": "hingeangle",
+        "gpio_high_angle":{ "type": "flt", "ver": "0",
+            "data": "190.0"
+        },
+        "gpio_low_angle":{ "type": "flt", "ver": "0",
+            "data": "170.0"
+        },
+        "gpio":{ "type": "int", "ver": "0",
+            "data": "174"
+        },
+        "key_board_idx":{ "type": "int", "ver": "0",
+            "data": "1"
+        },
+        "orient":{ "type": "int", "ver": "0",
+            "data": "0"
+        },
+        "stream_data":{ "type": "int", "ver": "0",
+            "data": "1"
+        },
+        "resolution":{ "type": "flt", "ver": "0",
+            "data": "5.0"
+        }
+      }
+    }
+  }
+}

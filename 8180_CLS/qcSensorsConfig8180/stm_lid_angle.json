@@ -1,0 +1,36 @@
+{
+  "config":{
+    "hw_platform": ["CLS","CLSC"],
+    "soc_id": ["340"]
+  },
+  "lidangle_0_platform":{
+    "owner": "lidangle",
+    ".lidangle":{
+      "owner": "lidangle",
+      ".config":{
+        "owner": "lidangle",
+        "max_angle":{ "type": "flt", "ver": "0",
+            "data": "360"
+        },
+        "gpio_high_angle":{ "type": "flt", "ver": "0",
+            "data": "190.0"
+        },
+        "gpio_low_angle":{ "type": "flt", "ver": "0",
+            "data": "172.0"
+        },
+        "gpio":{ "type": "int", "ver": "0",
+            "data": "119"
+        },
+        "orient":{ "type": "int", "ver": "0",
+            "data": "0"
+        },
+        "stream_data":{ "type": "int", "ver": "0",
+            "data": "0"
+        },
+        "key_board_idx":{ "type": "int", "ver": "0",
+            "data": "1"
+        }
+      }
+    }
+  }
+}

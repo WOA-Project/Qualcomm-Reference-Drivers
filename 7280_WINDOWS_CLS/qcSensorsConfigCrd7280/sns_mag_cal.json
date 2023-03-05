@@ -1,0 +1,15 @@
+{
+  "config": {
+    "hw_platform": ["IDP", "CRD"],
+    "soc_id": ["488","475"]
+  },
+  "sns_mag_cal_config": {
+    "owner": "sns_mag_cal",
+    "anomaly_threshold": {"type": "flt","ver": "0",
+      "data": "200.0"
+    },
+    "sample_rate": { "type": "flt", "ver": "0",
+        "data": "25.0"
+    }
+  }
+}

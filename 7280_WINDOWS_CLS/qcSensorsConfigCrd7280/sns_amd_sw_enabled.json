@@ -1,0 +1,11 @@
+{
+  "config": {
+    "hw_platform": [ "IDP", "CRD"],
+    "soc_id": ["488","475"]
+  },
+  "sns_amd": {
+    "owner": "sns_amd",
+    "enabled": {"ver": "0","type": "int", "data": "1"
+    }
+  }
+}

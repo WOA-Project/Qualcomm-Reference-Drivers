@@ -1,0 +1,5 @@
+../../build/ms/dynamic_modules/kodiak.adsp.prod/libsysmon_skel.so
+../../build/ms/dynamic_modules/kodiak.adsp.prod/libsysmondomain_skel.so
+../../build/ms/dynamic_modules/kodiak.adsp.prod/libstabilitydomain_skel.so
+../../build/ms/dynamic_modules/kodiak.adsp.prod/libsysmonquery_skel.so
+../../build/ms/dynamic_modules/kodiak.adsp.prod/fastrpc_shell_0

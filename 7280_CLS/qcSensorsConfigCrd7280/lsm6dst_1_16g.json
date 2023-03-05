@@ -1,0 +1,20 @@
+{
+  "config":
+  {
+    "hw_platform": ["CRD"],
+    "soc_id": ["488","475"]
+  },
+  "lsm6dst_1":{
+    "owner": "lsm6dst",
+    ".accel":{
+      "owner": "lsm6dst",
+      ".config":{
+        "owner": "lsm6dst",
+        "res_idx":{ "type": "int", "ver": "0",
+          "data": "3"
+        }
+      }
+    }
+  }
+}
+

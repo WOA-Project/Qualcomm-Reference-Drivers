@@ -1,0 +1,11 @@
+{
+  "config": {
+    "hw_platform": [ "MTP", "QRD"],
+    "soc_id": []
+  },
+  "sns_amd": {
+    "owner": "sns_amd",
+    "enabled": {"ver": "0","type": "int", "data": "0"
+    }
+  }
+}

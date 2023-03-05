@@ -1,0 +1,2 @@
+../../ssc/sensors/bring_to_ear/build/sensor_img/qdsp6/rennell.adsp.prod/sns_bring_to_ear.so
+

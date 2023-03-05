@@ -1,0 +1,16 @@
+../../chre/chre/build/chre_shared_libs/qdsp6/rennell.adsp.prod/libchre_slpi_skel.so
+
+../../chre/chre_app_oem/build/chre_shared_libs/qdsp6/rennell.adsp.prod/chre_app_oem.so
+
+../../chre/chre_app_sensor_cfg/build/chre_shared_libs/qdsp6/rennell.adsp.prod/chre_app_sensor_cfg.so
+
+../../chre/chre_drv_loc/build/chre_shared_libs/qdsp6/rennell.adsp.prod/chre_drv_loc.so
+
+../../chre/chre_drv_modem/build/chre_shared_libs/qdsp6/rennell.adsp.prod/chre_drv_modem.so
+
+../../chre/chre_drv_wifi/build/chre_shared_libs/qdsp6/rennell.adsp.prod/chre_drv_wifi.so
+
+../../chre/chre_pal/build/chre_shared_libs/qdsp6/rennell.adsp.prod/chre_pal.so
+
+../../chre/lowi_client/build/chre_shared_libs/qdsp6/rennell.adsp.prod/lowi_client.so
+
