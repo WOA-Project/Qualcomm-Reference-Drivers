@@ -1,5 +1,0 @@
-../../build/ms/dynamic_modules/makena.slpi.prod/libsysmon_skel.so
-../../build/ms/dynamic_modules/makena.slpi.prod/libsysmondomain_skel.so
-../../build/ms/dynamic_modules/makena.slpi.prod/libstabilitydomain_skel.so
-../../build/ms/dynamic_modules/makena.slpi.prod/libsysmonquery_skel.so
-../../build/ms/dynamic_modules/makena.slpi.prod/fastrpc_shell_2
