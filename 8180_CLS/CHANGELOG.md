@@ -3115,3 +3115,32 @@
 ## Qualcomm - System Hardware Update - 2/14/2023 - 200.0.86.0
 
 ## Qualcomm - System Hardware Update - 2/16/2023 - 200.0.87.0
+
+## Qualcomm - System Hardware Update - 4/26/2023 - 200.0.88.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1960.0 | mcfg_subsys_ext8180.cab |
+| 1.0.1960.0 | qcacsp_cls8180.cab |
+| 1.0.1960.0 | qcaudminiport_Base8180.cab |
+| 1.0.1960.0 | qcaudminiportCLS_Extension8180.cab |
+| 1.0.1960.0 | QCListenSM_swc_ext8180.cab |
+| 1.0.1960.0 | QCListenSM_swc8180.cab |
+| 1.0.1960.0 | QCListenSM8180.cab |
+| 1.0.1960.0 | qcmbb8180.cab |
+| 1.0.1960.0 | qcSensors8180.cab |
+| 1.0.1960.0 | qcSensorsConfigCls8180.cab |
+| 1.0.1960.0 | qcSensorsConfigClsc8180.cab |
+| 1.0.1960.0 | qcsubsys_ext_adsp8180.cab |
+| 1.0.1960.0 | qcsubsys_ext_cdsp8180.cab |
+| 1.0.1960.0 | qcsubsys_ext_mpss8180.cab |
+| 1.0.1960.0 | qcsubsys_ext_scss8180.cab |
+| 1.0.1960.0 | qcsubsys8180.cab |
+| 1.0.1960.0 | QcTrEE8180.cab |
+| 1.0.1960.0 | qcwlan6800sc8180.cab |
+| 1.0.1960.0 | qcwlan8180.cab |
+| 27.20.1960.0 | qcdx8180.cab |
+
+## Qualcomm - System Hardware Update - 4/27/2023 - 200.0.89.0
