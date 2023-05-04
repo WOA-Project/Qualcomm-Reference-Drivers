@@ -542,3 +542,22 @@
 | 1.0.960.0 | qcwlan7180.cab |
 | 1.0.960.0 | QcXhciFilter7180.cab |
 | 27.20.960.0 | qcdx7180.cab |
+
+## Qualcomm - System Hardware Update - 4/26/2023 - 200.0.20.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.970.0 | mcfg_subsys_ext7180.cab |
+| 1.0.970.0 | QcLteCoexMgr7180.cab |
+| 1.0.970.0 | qcrevrmnet7180.cab |
+| 1.0.970.0 | qcsubsys_ext_adsp7180.cab |
+| 1.0.970.0 | qcsubsys_ext_cdsp7180.cab |
+| 1.0.970.0 | qcsubsys_ext_mpss7180.cab |
+| 1.0.970.0 | qcsubsys7180.cab |
+| 1.0.970.0 | QcTrEE7180.cab |
+| 1.0.970.0 | qcwlan7180.cab |
+| 27.20.970.0 | qcdx7180.cab |
+
+## Qualcomm - System Hardware Update - 4/27/2023 - 200.0.21.0
