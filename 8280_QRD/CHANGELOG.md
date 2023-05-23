@@ -2772,3 +2772,77 @@
 | 30.0.3726.4700 | qcdxext_qrd8280.cab |
 
 ## Qualcomm - System Hardware Update - 4/27/2023 - 200.0.39.0
+
+## Qualcomm - System Hardware Update - 5/18/2023 - 200.0.40.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1180.0 | qcfirmware8280_NVME.cab |
+| 1.0.1180.0 | qcfirmware8280_UFS.cab |
+| 1.0.3741.8500 | qcacsp_qrd8280.cab |
+| 1.0.3741.8500 | qcadc8280.cab |
+| 1.0.3741.8500 | qcadcm8280.cab |
+| 1.0.3741.8500 | qcaudminiport_Base8280.cab |
+| 1.0.3741.8500 | qcaudminiportQRD_Extension8280.cab |
+| 1.0.3741.8500 | qcbtaddvscregistry8280.cab |
+| 1.0.3741.8500 | qcbtfmuart_ext8280.cab |
+| 1.0.3741.8500 | qcbtfmuart_hsp8280.cab |
+| 1.0.3741.8500 | qccamauxsensor_extension8280.cab |
+| 1.0.3741.8500 | qccamauxsensor8280.cab |
+| 1.0.3741.8500 | qccamavs8280.cab |
+| 1.0.3741.8500 | qccamavsqrd_ext8280.cab |
+| 1.0.3741.8500 | qccamflash_ext8280.cab |
+| 1.0.3741.8500 | qccamflash8280.cab |
+| 1.0.3741.8500 | qccamfrontsensor_extension8280.cab |
+| 1.0.3741.8500 | qccamfrontsensor8280.cab |
+| 1.0.3741.8500 | qccamisp_ext8280.cab |
+| 1.0.3741.8500 | qccamisp8280.cab |
+| 1.0.3741.8500 | qccamjpege_ext8280.cab |
+| 1.0.3741.8500 | qccamjpege8280.cab |
+| 1.0.3741.8500 | qccammipicsi_ext8280.cab |
+| 1.0.3741.8500 | qccammipicsi8280.cab |
+| 1.0.3741.8500 | qccamplatform_ext8280.cab |
+| 1.0.3741.8500 | qccamplatform8280.cab |
+| 1.0.3741.8500 | qccamrearsensor_extension8280.cab |
+| 1.0.3741.8500 | qccamrearsensor8280.cab |
+| 1.0.3741.8500 | QCDiagBridge.cab |
+| 1.0.3741.8500 | qcfgbcl8280.cab |
+| 1.0.3741.8500 | qcfgbclext8280.cab |
+| 1.0.3741.8500 | qcglink8280.cab |
+| 1.0.3741.8500 | QCListenSM_swc_ext8280.cab |
+| 1.0.3741.8500 | QCListenSM_swc8280.cab |
+| 1.0.3741.8500 | QCListenSM8280.cab |
+| 1.0.3741.8500 | qcpdsr.cab |
+| 1.0.3741.8500 | qcpep.wd8280.cab |
+| 1.0.3741.8500 | qcpil.cab |
+| 1.0.3741.8500 | qcpilEXT8280.cab |
+| 1.0.3741.8500 | qcpilfilterext.cab |
+| 1.0.3741.8500 | qcpmic8280.cab |
+| 1.0.3741.8500 | qcpmicext8280.cab |
+| 1.0.3741.8500 | qcpmicgpio8280.cab |
+| 1.0.3741.8500 | qcscm.cab |
+| 1.0.3741.8500 | qcsecapp.cab |
+| 1.0.3741.8500 | qcSensors.cab |
+| 1.0.3741.8500 | qcSensorsConfigQrd8280.cab |
+| 1.0.3741.8500 | QcSkExt8280.cab |
+| 1.0.3741.8500 | QcSOCPartition.cab |
+| 1.0.3741.8500 | qcsp8280.cab |
+| 1.0.3741.8500 | qcSSGServicesUMD.cab |
+| 1.0.3741.8500 | qcsubsys_ext_adsp8280.cab |
+| 1.0.3741.8500 | qcsubsys_ext_cdsp18280.cab |
+| 1.0.3741.8500 | qcsubsys_ext_cdsp8280.cab |
+| 1.0.3741.8500 | qcsubsys_ext_scss8280.cab |
+| 1.0.3741.8500 | qcsubsys_ext_spss8280.cab |
+| 1.0.3741.8500 | qcsubsys8280.cab |
+| 1.0.3741.8500 | qcSubsysThermalMgr.cab |
+| 1.0.3741.8500 | QcTrEE.cab |
+| 1.0.3741.8500 | QcTreeExtOem8280.cab |
+| 1.0.3741.8500 | QcTreeExtQcom8280.cab |
+| 1.0.3741.8500 | qcursext.cab |
+| 1.0.3741.8500 | QcUsbFnSsFilter8280.cab |
+| 1.0.3741.8500 | qcwlan_ext8280.cab |
+| 1.0.3741.8500 | qcwlan8280.cab |
+| 30.0.3741.8500 | qcdx8280.cab |
+| 30.0.3741.8500 | qcdxext_qrd8280.cab |
