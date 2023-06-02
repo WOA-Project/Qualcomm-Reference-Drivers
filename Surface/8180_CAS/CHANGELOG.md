@@ -267,7 +267,7 @@
 | 6.81.139.0 | surfaceoempanel.cab |
 | 9.109.139.0 | surfaceserialhubdriver.cab |
 
-## Microsoft Corporation - System Hardware Update - 9/6/2022 - 200.0.7.0
+## Microsoft Corporation - System Hardware Update - 9/6/2022 - 200.0.7.0 (Pulled)
 
 ### Updated
 
@@ -282,3 +282,11 @@
 | 3.99.139.0 | surfacepowermeter.cab |
 | 35.15.139.0 | surfaceintegrationdriver.cab |
 | 9.122.139.0 | surfaceserialhubdriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 5/26/2023 - 200.0.9.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 35.12.139.1 | SurfaceIntegrationDriver.cab |
