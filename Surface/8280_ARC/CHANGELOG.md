@@ -268,3 +268,129 @@
 | 71.59.139.0 | SurfaceIntegrationDriver.cab |
 | 8.72.139.0 | SurfaceThermalPolicy.cab |
 | 9.140.139.0 | SurfaceSerialHubDriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 5/25/2023 - 200.0.9.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.173.2.0 | SurfaceIhvCpuSmfClient.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3513.8501 | surface_pro_acsp_arc8280.cab |
+| 1.0.3551.9400 | qcabd.cab |
+| 1.0.3551.9400 | qcconnectionsecurity8280.cab |
+| 1.0.3551.9400 | qcdiagrouter8280.cab |
+| 1.0.3551.9400 | qcgpi8280.cab |
+| 1.0.3551.9400 | qcipcrouter8280.cab |
+| 1.0.3551.9400 | qckmbam8280.cab |
+| 1.0.3551.9400 | qcspmi8280.cab |
+| 1.0.3551.9400 | qcSSGServicesUMD.cab |
+| 1.0.3551.9400 | qcuart8280.cab |
+| 1.0.3551.9400 | qcWlanSleepMgr8280.cab |
+| 1.0.3564.4300 | qcspi8280.cab |
+| 1.0.3586.6600 | SurfacePro_i2cext_arc8280.cab |
+| 1.0.3600.9600 | qcipcc8280.cab |
+| 1.0.3611.3300 | qci2c8280.cab |
+| 1.0.3638.8100 | qcadc8280.cab |
+| 1.0.3638.8100 | qcadsprpc8280.cab |
+| 1.0.3638.8100 | qcadsprpcd8280.cab |
+| 1.0.3638.8100 | qccdi8280.cab |
+| 1.0.3638.8100 | qcfgbcl8280.cab |
+| 1.0.3638.8100 | qcgpio8280.cab |
+| 1.0.3638.8100 | qcpdsr.cab |
+| 1.0.3638.8100 | qcpmic8280.cab |
+| 1.0.3638.8100 | QcPmicApps8280.cab |
+| 1.0.3638.8100 | qcpmicext8280.cab |
+| 1.0.3638.8100 | qcrpen.cab |
+| 1.0.3638.8100 | qcscm.cab |
+| 1.0.3638.8100 | qcslimbus8280.cab |
+| 1.0.3638.8100 | qcsmmu8280.cab |
+| 1.0.3638.8100 | qcSubsysThermalMgr.cab |
+| 1.0.3638.8100 | qcsyscache8280.cab |
+| 1.0.3638.8100 | surfacepro_ext_cdsp8280.cab |
+| 1.0.3681.5800 | qcadcm8280.cab |
+| 1.0.3681.5800 | qcaucd8280.cab |
+| 1.0.3681.5800 | qcaudminiport_Base8280.cab |
+| 1.0.3681.5800 | qcbtaddvscregistry8280.cab |
+| 1.0.3681.5800 | qcbtfmuart_hsp8280.cab |
+| 1.0.3681.5800 | qccamflash_ext8280.cab |
+| 1.0.3681.5800 | qccamflash8280.cab |
+| 1.0.3681.5800 | qccamisp_ext8280.cab |
+| 1.0.3681.5800 | qccamisp8280.cab |
+| 1.0.3681.5800 | qccamjpege8280.cab |
+| 1.0.3681.5800 | qccammipicsi_ext8280.cab |
+| 1.0.3681.5800 | qccammipicsi8280.cab |
+| 1.0.3681.5800 | qccamplatform8280.cab |
+| 1.0.3681.5800 | qcglink8280.cab |
+| 1.0.3681.5800 | qciommu.cab |
+| 1.0.3681.5800 | qciommuext8280.cab |
+| 1.0.3681.5800 | qcpep.wd8280.cab |
+| 1.0.3681.5800 | qcpil.cab |
+| 1.0.3681.5800 | qcpilEXT8280.cab |
+| 1.0.3681.5800 | qcpilfilterext.cab |
+| 1.0.3681.5800 | QcPmicGlink8280.cab |
+| 1.0.3681.5800 | qcpmicgpio8280.cab |
+| 1.0.3681.5800 | qcppx8280.cab |
+| 1.0.3681.5800 | qcsecapp.cab |
+| 1.0.3681.5800 | QcSkExt8280.cab |
+| 1.0.3681.5800 | QcSOCPartition.cab |
+| 1.0.3681.5800 | qcsp8280.cab |
+| 1.0.3681.5800 | qcsubsys_ext_cdsp18280.cab |
+| 1.0.3681.5800 | qcsubsys_ext_spss8280.cab |
+| 1.0.3681.5800 | qcsubsys8280.cab |
+| 1.0.3681.5800 | QcTftpKmdf.cab |
+| 1.0.3681.5800 | QcTrEE.cab |
+| 1.0.3681.5800 | qcursext.cab |
+| 1.0.3681.5800 | qcusbcucsi8280.cab |
+| 1.0.3681.5800 | QcUsbFnSsFilter8280.cab |
+| 1.0.3681.5800 | qcwwanpowerdown.cab |
+| 1.0.3681.5800 | QcXhciFilter8280.cab |
+| 1.0.3681.5800 | surface_pro_aucdext_arc8280.cab |
+| 1.0.3681.5800 | surfacepro_ext_adsp8280.cab |
+| 1.0.3681.5801 | qcwlan_ext8280.cab |
+| 1.0.3681.5801 | qcwlan8280.cab |
+| 1.0.3681.5801 | surfacepro_ext_QCTree8280.cab |
+| 1.0.3681.5803 | surfacecamauxsensor_extension8280.cab |
+| 1.0.3681.5803 | surfacecamauxsensor8280.cab |
+| 1.0.3681.5803 | surfacecamavs_ext8280.cab |
+| 1.0.3681.5803 | surfacecamavs8280.cab |
+| 1.0.3681.5803 | surfacecamfrontsensor_extension8280.cab |
+| 1.0.3681.5803 | surfacecamfrontsensor8280.cab |
+| 1.0.3681.5803 | surfacecamplatform_ext8280.cab |
+| 1.0.3681.5803 | surfacecamrearsensor_extension8280.cab |
+| 1.0.3681.5803 | surfacecamrearsensor8280.cab |
+| 1.0.7.0 | mep_audio_component.cab |
+| 1.0.7.0 | mep_camera_component.cab |
+| 1.0.7.0 | mep_priorityarbiter_component.cab |
+| 1.0.7.0 | MicrosoftEffectPack_extension.cab |
+| 1.112.139.0 | SurfaceTypeCoverV7FprUdeDriver.cab |
+| 1.1696.137.0 | SurfaceTouchG6FwUpdateExtnPackage.cab |
+| 1.42.137.0 | SurfaceTimeAlarmAcpiFilter.cab |
+| 1.49.5.0 | SurfaceEeprom.cab |
+| 15.1.139.0 | Surface_UEFI.cab |
+| 18.52.1.16 | QcMbbFWUpdateDriver.cab |
+| 18.52.1.3 | MhiHost.cab |
+| 18.52.1.8 | QmuxMdm.cab |
+| 2.128.139.0 | SurfaceTypeCoverV7FwUpdate.cab |
+| 2.129.139.0 | SurfaceBattery.cab |
+| 2.136.139.0 | SurfacePowerTrackerCore.cab |
+| 3.13.137.0 | SurfaceOemPanelCustomization.cab |
+| 3.204.3.0 | SurfaceHotPlug.cab |
+| 3.49.139.0 | SurfacePenBleLcAddrAdaptationDriver.cab |
+| 3.95.139.0 | SurfaceHidMiniDriver.cab |
+| 30.0.3681.5802 | qcdx8280.cab |
+| 30.0.3702.9605 | surfacepro_dxext_arc8280.cab |
+| 4.15.12412.20015 | WbfUsbDriver.cab |
+| 4.90.139.0 | SurfaceTconDriver.cab |
+| 4.95.139.0 | SurfaceButton.cab |
+| 5.43.139.0 | SurfaceSAM.cab |
+| 6.170.139.0 | SurfaceOemPanel.cab |
+| 6.213.2.0 | SurfaceServiceNullDriver.cab |
+| 71.62.9.0 | SurfaceIntegrationDriver.cab |
+| 8.150.139.0 | SurfaceSmfClient.cab |
+| 8.89.139.0 | SurfaceThermalPolicy.cab |
