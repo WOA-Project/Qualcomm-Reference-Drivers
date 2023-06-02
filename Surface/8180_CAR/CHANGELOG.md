@@ -381,3 +381,11 @@
 | 3.30202.224.0 | dax3_swc_aposvc_arm64.cab |
 | 35.8.139.0 | surfaceintegrationdriver.cab |
 | 9.122.139.0 | surfaceserialhubdriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 5/26/2023 - 200.0.21.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 35.8.139.1 | SurfaceIntegrationDriver.cab |
