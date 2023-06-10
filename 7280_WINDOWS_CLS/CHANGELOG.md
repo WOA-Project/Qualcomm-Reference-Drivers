@@ -567,3 +567,50 @@
 | 2.0.3710.9700 | qcsubsys7280.cab |
 | 30.0.3710.9700 | qcdx7280.cab |
 | 30.0.3710.9700 | qcdxext_crd7280.cab |
+
+## Qualcomm - System Hardware Update - 6/5/2023 - 200.0.9.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3747.9200 | qcacsp_crd7280.cab |
+| 1.0.3747.9200 | qcadcm7280.cab |
+| 1.0.3747.9200 | qcadspdaemon7280.cab |
+| 1.0.3747.9200 | qcadsprpc7280.cab |
+| 1.0.3747.9200 | qcadsprpcd7280.cab |
+| 1.0.3747.9200 | qcaucd_ext_crd7280.cab |
+| 1.0.3747.9200 | qcaucd7280.cab |
+| 1.0.3747.9200 | qcaudminiport_Base7280.cab |
+| 1.0.3747.9200 | qcaudminiportCRD_Extension7280.cab |
+| 1.0.3747.9200 | qcbtaddvscregistry7280.cab |
+| 1.0.3747.9200 | qcbtfmuart_ext7280.cab |
+| 1.0.3747.9200 | qcbtfmuart_hsp7280.cab |
+| 1.0.3747.9200 | QCDiagBridge.cab |
+| 1.0.3747.9200 | qci2c7280.cab |
+| 1.0.3747.9200 | QCListenSM_swc_ext7280.cab |
+| 1.0.3747.9200 | QCListenSM_swc7280.cab |
+| 1.0.3747.9200 | QCListenSM7280.cab |
+| 1.0.3747.9200 | qcpil.cab |
+| 1.0.3747.9200 | qcpilfilterext.cab |
+| 1.0.3747.9200 | qcscm.cab |
+| 1.0.3747.9200 | qcsecapp.cab |
+| 1.0.3747.9200 | qcshutdownsvc.cab |
+| 1.0.3747.9200 | qcslimbus7280.cab |
+| 1.0.3747.9200 | QcSOCPartition.cab |
+| 1.0.3747.9200 | qcSubsysThermalMgr.cab |
+| 1.0.3747.9200 | qcwlan_ext_wpss7280.cab |
+| 1.0.3747.9200 | qcwlan_ext7280.cab |
+| 1.0.3747.9200 | qcwlan7280.cab |
+| 1.0.5400.0 | qcfirmware7280_EMMC.cab |
+| 1.0.5400.0 | qcfirmware7280_NVME.cab |
+| 1.0.5400.0 | qcfirmware7280_UFS.cab |
+| 2.0.3747.9200 | mcfg_subsys_ext7280.cab |
+| 2.0.3747.9200 | qcpilEXT7280.cab |
+| 2.0.3747.9200 | qcsubsys_ext_adsp7280.cab |
+| 2.0.3747.9200 | qcsubsys_ext_cdsp7280.cab |
+| 2.0.3747.9200 | qcsubsys_ext_mpss7280.cab |
+| 2.0.3747.9200 | qcsubsys_ext_wpss7280.cab |
+| 2.0.3747.9200 | qcsubsys7280.cab |
+| 30.0.3747.9200 | qcdx7280.cab |
+| 30.0.3747.9200 | qcdxext_crd7280.cab |
