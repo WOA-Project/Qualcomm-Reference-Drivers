@@ -290,3 +290,17 @@
 | Driver version | Package |
 |----------------|---------|
 | 35.12.139.1 | SurfaceIntegrationDriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 6/16/2023 - 200.0.10.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1660.5 | surfaceprox_camavs.cab |
+
+### Modified
+
+| Driver version | Package |
+|----------------|---------|
+| 10400.1.22.0 | SurfaceProX_wpextwapi8180.cab |
