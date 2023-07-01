@@ -9,3 +9,4 @@ Surface/8280_ARC_1997/200.0.4.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merg
 Surface/8280_ARC_1997/200.0.9.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8280_BLK/200.0.2.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8280_BLK/200.0.5.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8280_BLK/200.0.6.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text

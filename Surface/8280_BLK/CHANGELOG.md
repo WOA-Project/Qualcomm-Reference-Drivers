@@ -198,3 +198,43 @@
 | 30.0.3542.2200 | qcdx8280.cab |
 | 5.63.139.0 | SurfaceCFUOverHid.cab |
 | 7.31.139.0 | Surface_UEFI.cab |
+
+## Microsoft Corporation - System Hardware Update - 6/14/2023 - 200.0.6.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3502.9900 | qcadcm8280.cab |
+| 1.0.3504.600 | qcuart8280.cab |
+| 1.0.3505.2300 | qcSSGServicesUMD.cab |
+| 1.0.3509.8000 | qcpilEXT8280.cab |
+| 1.0.3510.700 | qcabd.cab |
+| 1.0.3510.700 | qcadc8280.cab |
+| 1.0.3510.700 | qccdi8280.cab |
+| 1.0.3510.700 | qcconnectionsecurity8280.cab |
+| 1.0.3510.700 | qcfgbcl8280.cab |
+| 1.0.3510.700 | qcglink8280.cab |
+| 1.0.3510.700 | qcgpi8280.cab |
+| 1.0.3510.700 | qcgpio8280.cab |
+| 1.0.3510.700 | qcipcc8280.cab |
+| 1.0.3510.700 | qcipcrouter8280.cab |
+| 1.0.3510.700 | qckmbam8280.cab |
+| 1.0.3510.700 | qcpdsr.cab |
+| 1.0.3510.700 | qcpil.cab |
+| 1.0.3510.700 | qcpilfilterext.cab |
+| 1.0.3510.700 | qcpmic8280.cab |
+| 1.0.3510.700 | qcpmicext8280.cab |
+| 1.0.3510.700 | qcpmicgpio8280.cab |
+| 1.0.3510.700 | qcrpen.cab |
+| 1.0.3510.700 | qcslimbus8280.cab |
+| 1.0.3510.700 | qcsmmu8280.cab |
+| 1.0.3510.700 | qcspi8280.cab |
+| 1.0.3510.700 | qcspmi8280.cab |
+| 1.0.3510.700 | qcsyscache8280.cab |
+| 1.0.3510.700 | QcTftpKmdf.cab |
+| 1.0.3510.700 | qcursext.cab |
+| 1.0.3510.700 | qcWlanSleepMgr8280.cab |
+| 1.0.3520.900 | QcPmicGlink8280.cab |
+| 255.31.3.0 | SurfaceIntegrationDriver.cab |
+| 30.0.3681.5802 | qcdx8280.cab |
