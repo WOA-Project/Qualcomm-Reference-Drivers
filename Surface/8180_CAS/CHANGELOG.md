@@ -304,3 +304,12 @@
 | Driver version | Package |
 |----------------|---------|
 | 10400.1.22.0 | SurfaceProX_wpextwapi8180.cab |
+
+## Microsoft Corporation - System Hardware Update - 7/6/2023 - 200.0.11.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 10.610.140.0 | surface_uefi.cab |
+| 27.20.1960.0 | qcdx8180.cab |
