@@ -3180,3 +3180,5 @@
 | 1.0.1980.0 | qcsubsys8180.cab |
 | 1.0.1980.0 | qcwlan6800sc8180.cab |
 | 1.0.1980.0 | qcwlan8180.cab |
+
+## Qualcomm - System Hardware Update - 7/3/2023 - 200.0.92.0
