@@ -561,3 +561,19 @@
 | 27.20.970.0 | qcdx7180.cab |
 
 ## Qualcomm - System Hardware Update - 4/27/2023 - 200.0.21.0
+
+## Qualcomm - System Hardware Update - 7/12/2023 - 200.0.22.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.980.0 | mcfg_subsys_ext7180.cab |
+| 1.0.980.0 | qcglink7180.cab |
+| 1.0.980.0 | qcpep.wd7180.cab |
+| 1.0.980.0 | qcsubsys_ext_adsp7180.cab |
+| 1.0.980.0 | qcsubsys_ext_cdsp7180.cab |
+| 1.0.980.0 | qcsubsys_ext_mpss7180.cab |
+| 1.0.980.0 | qcsubsys7180.cab |
+| 1.0.980.0 | QcTrEE7180.cab |
+| 1.0.980.0 | qcwlan7180.cab |
