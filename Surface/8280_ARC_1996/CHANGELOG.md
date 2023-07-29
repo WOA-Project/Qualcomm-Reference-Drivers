@@ -394,3 +394,11 @@
 | 71.62.9.0 | SurfaceIntegrationDriver.cab |
 | 8.150.139.0 | SurfaceSmfClient.cab |
 | 8.89.139.0 | SurfaceThermalPolicy.cab |
+
+## Microsoft Corporation - System Hardware Update - 7/13/2023 - 200.0.5.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 30.0.3741.8500 | qcdx8280.cab |
