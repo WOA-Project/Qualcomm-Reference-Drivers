@@ -563,7 +563,7 @@
 |----------------|---------|
 | 35.8.139.1 | SurfaceIntegrationDriver.cab |
 
-## Microsoft Corporation - System Hardware Update - 6/16/2023 - 200.0.38.0
+## Microsoft Corporation - System Hardware Update - 6/16/2023 - 200.0.38.0 (Pulled)
 
 ### Added
 
@@ -581,6 +581,27 @@
 | 2.114.139.0 | surfacetypecoverv7fwupdate.cab |
 | 2.127.139.0 | surfacebattery.cab |
 | 27.20.1960.0 | qcdx8180.cab |
+| 4.15.12412.20015 | wbfusbdriver.cab |
+| 6.13.137.0 | surfacedock2fwupdate.cab |
+| 6.204.139.0 | surfaceservicenulldriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 7/13/2023 - 200.0.40.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 3.99.139.0 | surfacepowermeter.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1660.5 | surfaceprox_camavs.cab |
+| 1.94.139.0 | surfacetypecoverv7fprudedriver.cab |
+| 10.95.137.0 | surfacesystemtelemetrydriver.cab |
+| 2.114.139.0 | surfacetypecoverv7fwupdate.cab |
+| 2.127.139.0 | surfacebattery.cab |
 | 4.15.12412.20015 | wbfusbdriver.cab |
 | 6.13.137.0 | surfacedock2fwupdate.cab |
 | 6.204.139.0 | surfaceservicenulldriver.cab |
