@@ -305,7 +305,9 @@
 |----------------|---------|
 | 10400.1.22.0 | SurfaceProX_wpextwapi8180.cab |
 
-## Microsoft Corporation - System Hardware Update - 7/6/2023 - 200.0.11.0
+## Microsoft Corporation - System Hardware Update - 7/6/2023 - 200.0.11.0 (Pulled)
+
+## Microsoft Corporation - System Hardware Update - 7/28/2023 - 200.0.13.0
 
 ### Updated
 
