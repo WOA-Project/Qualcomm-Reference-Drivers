@@ -238,3 +238,11 @@
 | 1.0.3520.900 | QcPmicGlink8280.cab |
 | 255.31.3.0 | SurfaceIntegrationDriver.cab |
 | 30.0.3681.5802 | qcdx8280.cab |
+
+## Microsoft Corporation - System Hardware Update - 7/13/2023 - 200.0.7.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 30.0.3741.8500 | qcdx8280.cab |
