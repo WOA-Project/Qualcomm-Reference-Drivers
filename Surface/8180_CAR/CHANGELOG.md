@@ -433,7 +433,7 @@
 | 6.13.137.0 | surfacedock2fwupdate.cab |
 | 6.204.139.0 | surfaceservicenulldriver.cab |
 
-## Microsoft Corporation - System Hardware Update - 7/28/2023 - 200.0.26.0
+## Microsoft Corporation - System Hardware Update - 7/28/2023 - 200.0.26.0 (Pulled)
 
 ### Updated
 
@@ -442,3 +442,12 @@
 | 1.0.1960.0 | qcwlan8180.cab |
 | 27.20.1960.0 | qcdx8180.cab |
 | 7.610.140.0 | surface_uefi.cab |
+
+## Microsoft Corporation - System Hardware Update - 8/9/2023 - 200.0.27.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1960.0 | qcwlan8180.cab |
+| 27.20.1960.0 | qcdx8180.cab |
