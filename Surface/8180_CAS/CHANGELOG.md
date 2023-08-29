@@ -307,11 +307,19 @@
 
 ## Microsoft Corporation - System Hardware Update - 7/6/2023 - 200.0.11.0 (Pulled)
 
-## Microsoft Corporation - System Hardware Update - 7/28/2023 - 200.0.13.0
+## Microsoft Corporation - System Hardware Update - 7/28/2023 - 200.0.13.0 (Pulled)
 
 ### Updated
 
 | Driver version | Package |
 |----------------|---------|
 | 10.610.140.0 | surface_uefi.cab |
+| 27.20.1960.0 | qcdx8180.cab |
+
+## Microsoft Corporation - System Hardware Update - 8/9/2023 - 200.0.14.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
 | 27.20.1960.0 | qcdx8180.cab |
