@@ -402,3 +402,28 @@
 | Driver version | Package |
 |----------------|---------|
 | 30.0.3741.8500 | qcdx8280.cab |
+
+## Microsoft Corporation - System Hardware Update - 8/23/2023 - 200.0.11.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3726.4700 | QcPmicApps8280.cab |
+| 1.0.3726.4700 | QcPmicGlink8280.cab |
+| 1.0.3726.4700 | qcusbcucsi8280.cab |
+| 1.0.3741.8500 | qcbtaddvscregistry8280.cab |
+| 1.0.3741.8500 | qcbtfmuart_hsp8280.cab |
+| 1.0.3741.8500 | qcscm.cab |
+| 1.0.3741.8500 | qcsecapp.cab |
+| 1.0.3741.8500 | qcsp8280.cab |
+| 1.0.3741.8500 | qcsubsys_ext_cdsp18280.cab |
+| 1.0.3741.8500 | qcsubsys_ext_spss8280.cab |
+| 1.0.3741.8500 | qcSubsysThermalMgr.cab |
+| 1.0.3741.8500 | qcwlan_ext8280.cab |
+| 1.0.3741.8500 | qcwlan8280.cab |
+| 1.0.3741.8500 | surfacepro_ext_adsp8280.cab |
+| 1.0.3741.8500 | surfacepro_ext_cdsp8280.cab |
+| 10.95.137.0 | SurfaceSystemTelemetryDriver.cab |
+| 5.65.139.0 | SurfaceCFUOverHid.cab |
+| 6.13.137.0 | SurfaceDock2FwUpdate.cab |
