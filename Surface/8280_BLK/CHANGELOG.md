@@ -246,3 +246,88 @@
 | Driver version | Package |
 |----------------|---------|
 | 30.0.3741.8500 | qcdx8280.cab |
+
+## Microsoft Corporation - System Hardware Update - 8/30/2023 - 200.0.8.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 2.26.4.0 | SurfaceThunderbolt4DockFwUpdate.cab |
+| 6.196.139.0 | DevicesTelemetryServiceDriver.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3551.9400 | qcabd.cab |
+| 1.0.3551.9400 | qcconnectionsecurity8280.cab |
+| 1.0.3551.9400 | qcdiagrouter8280.cab |
+| 1.0.3551.9400 | qcgpi8280.cab |
+| 1.0.3551.9400 | qcipcrouter8280.cab |
+| 1.0.3551.9400 | qckmbam8280.cab |
+| 1.0.3551.9400 | qcspmi8280.cab |
+| 1.0.3551.9400 | qcSSGServicesUMD.cab |
+| 1.0.3551.9400 | qcuart8280.cab |
+| 1.0.3551.9400 | qcWlanSleepMgr8280.cab |
+| 1.0.3564.4300 | qcspi8280.cab |
+| 1.0.3586.6600 | SurfacePro_i2cext_arc8280.cab |
+| 1.0.3600.9600 | qcipcc8280.cab |
+| 1.0.3611.3300 | qci2c8280.cab |
+| 1.0.3638.8100 | qcadsprpc8280.cab |
+| 1.0.3638.8100 | qccdi8280.cab |
+| 1.0.3638.8100 | qcfgbcl8280.cab |
+| 1.0.3638.8100 | qcgpio8280.cab |
+| 1.0.3638.8100 | qcpdsr.cab |
+| 1.0.3638.8100 | qcpmic8280.cab |
+| 1.0.3638.8100 | qcpmicext8280.cab |
+| 1.0.3638.8100 | qcrpen.cab |
+| 1.0.3638.8100 | qcslimbus8280.cab |
+| 1.0.3638.8100 | qcsmmu8280.cab |
+| 1.0.3638.8100 | qcsyscache8280.cab |
+| 1.0.3681.5800 | qcglink8280.cab |
+| 1.0.3681.5800 | qciommu.cab |
+| 1.0.3681.5800 | qciommuext8280.cab |
+| 1.0.3681.5800 | qcpep.wd8280.cab |
+| 1.0.3681.5800 | qcpil.cab |
+| 1.0.3681.5800 | qcpilEXT8280.cab |
+| 1.0.3681.5800 | qcpilfilterext.cab |
+| 1.0.3681.5800 | qcpmicgpio8280.cab |
+| 1.0.3681.5800 | qcppx8280.cab |
+| 1.0.3681.5800 | QcSkExt8280.cab |
+| 1.0.3681.5800 | QcSOCPartition.cab |
+| 1.0.3681.5800 | QcTftpKmdf.cab |
+| 1.0.3681.5800 | QcTrEE.cab |
+| 1.0.3681.5800 | qcursext.cab |
+| 1.0.3681.5800 | QcUsbFnSsFilter8280.cab |
+| 1.0.3681.5800 | QcXhciFilter8280.cab |
+| 1.0.3681.5801 | surfacepro_ext_QCTree8280.cab |
+| 1.0.3726.4700 | QcPmicApps8280.cab |
+| 1.0.3726.4700 | QcPmicGlink8280.cab |
+| 1.0.3726.4700 | qcusbcucsi8280.cab |
+| 1.0.3741.8500 | qcbtaddvscregistry8280.cab |
+| 1.0.3741.8500 | qcbtfmuart_hsp8280.cab |
+| 1.0.3741.8500 | qcscm.cab |
+| 1.0.3741.8500 | qcsecapp.cab |
+| 1.0.3741.8500 | qcsp8280.cab |
+| 1.0.3741.8500 | qcsubsys_ext_cdsp18280.cab |
+| 1.0.3741.8500 | qcsubsys_ext_spss8280.cab |
+| 1.0.3741.8500 | qcsubsys8280.cab |
+| 1.0.3741.8500 | qcSubsysThermalMgr.cab |
+| 1.0.3741.8500 | qcwlan_ext8280.cab |
+| 1.0.3741.8500 | qcwlan8280.cab |
+| 1.0.3741.8500 | surfacepro_ext_cdsp8280.cab |
+| 1.42.137.0 | SurfaceTimeAlarmAcpiFilter.cab |
+| 10.95.137.0 | SurfaceSystemTelemetryDriver.cab |
+| 11.1.235.0 | Surface_UEFI.cab |
+| 18.52.1.16 | QcMbbFWUpdateDriver.cab |
+| 18.52.1.8 | QmuxMdm.cab |
+| 2.136.139.0 | SurfacePowerTrackerCore.cab |
+| 30.0.3741.8500 | surfacepro_dxext_arc8280.cab |
+| 30.0.3776.300 | qcdx8280.cab |
+| 4.15.12412.20015 | WbfUsbDriver.cab |
+| 4.95.139.0 | SurfaceButton.cab |
+| 6.213.2.0 | SurfaceServiceNullDriver.cab |
+| 8.150.139.0 | SurfaceSmfClient.cab |
+| 8.89.139.0 | SurfaceThermalPolicy.cab |
+| 9.140.139.0 | SurfaceSerialHubDriver.cab |
