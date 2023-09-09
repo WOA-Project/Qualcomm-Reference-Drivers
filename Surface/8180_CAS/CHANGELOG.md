@@ -323,3 +323,26 @@
 | Driver version | Package |
 |----------------|---------|
 | 27.20.1960.0 | qcdx8180.cab |
+
+## Microsoft Corporation - System Hardware Update - 9/1/2023 - 200.0.15.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1940.0 | qcauddev8180.cab |
+| 1.0.1960.0 | qcwlan8180.cab |
+| 1.0.1980.0 | qclistensm_swc8180.cab |
+| 1.0.1980.0 | surfaceprox_acsp.cab |
+| 1.0.1980.0 | surfaceprox_auddevext.cab |
+| 1.0.1980.0 | surfaceprox_audminiext.cab |
+| 1.0.1980.0 | surfaceprox_listenext.cab |
+| 1.0.1980.0 | surfaceprox_listensm.cab |
+| 1.0.1980.1 | surfaceprox_subextadsp.cab |
+| 1.94.139.0 | surfacetypecoverv7fprudedriver.cab |
+| 2.114.139.0 | surfacetypecoverv7fwupdate.cab |
+| 3.30201.210.0 | dax3_swc_hsa_arm64.cab |
+| 3.30508.581.0 | dax3_swc_aposvc_arm64.cab |
+| 4.15.12412.20015 | wbfusbdriver.cab |
+| 6.13.137.0 | surfacedock2fwupdate.cab |
+| 6.204.139.0 | surfaceservicenulldriver.cab |
