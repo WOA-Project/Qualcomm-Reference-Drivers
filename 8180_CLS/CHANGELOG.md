@@ -3221,3 +3221,5 @@
 | 1.0.2000.0 | QcTrEE8180.cab |
 | 1.0.2000.0 | qcwlan6800sc8180.cab |
 | 27.20.2000.0 | qcdx8180.cab |
+
+## Qualcomm - System Hardware Update - 9/20/2023 - 200.0.95.0
