@@ -452,7 +452,7 @@
 | 1.0.1960.0 | qcwlan8180.cab |
 | 27.20.1960.0 | qcdx8180.cab |
 
-## Microsoft Corporation - System Hardware Update - 9/14/2023 - 200.0.28.0
+## Microsoft Corporation - System Hardware Update - 9/14/2023 - 200.0.28.0 (Pulled)
 
 ### Updated
 
@@ -465,6 +465,27 @@
 | 1.0.1960.1 | surfaceprox_subsys.cab |
 | 1.0.1980.0 | qcadsprpc8180.cab |
 | 1.0.1980.0 | qcadsprpcd8180.cab |
+| 1.0.1980.0 | qclistensm_swc8180.cab |
+| 1.0.1980.0 | surfaceprox_acsp.cab |
+| 1.0.1980.0 | surfaceprox_auddevext.cab |
+| 1.0.1980.0 | surfaceprox_audminiext.cab |
+| 1.0.1980.0 | surfaceprox_listenext.cab |
+| 1.0.1980.0 | surfaceprox_listensm.cab |
+| 1.0.1980.1 | surfaceprox_subextadsp.cab |
+| 3.30508.581.0 | dax3_swc_aposvc_arm64.cab |
+| 7.620.140.0 | surface_uefi.cab |
+
+## Microsoft Corporation - System Hardware Update - 9/28/2023 - 200.0.29.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1940.0 | qcauddev8180.cab |
+| 1.0.1940.0 | qcbtaddvscregistry8180.cab |
+| 1.0.1940.0 | qcbtfmuart8180.cab |
+| 1.0.1960.1 | surfaceprox_pep.cab |
+| 1.0.1960.1 | surfaceprox_subsys.cab |
 | 1.0.1980.0 | qclistensm_swc8180.cab |
 | 1.0.1980.0 | surfaceprox_acsp.cab |
 | 1.0.1980.0 | surfaceprox_auddevext.cab |
