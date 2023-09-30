@@ -3225,3 +3225,36 @@
 ## Qualcomm - System Hardware Update - 9/20/2023 - 200.0.95.0
 
 ## Qualcomm - System Hardware Update - 9/22/2023 - 200.0.96.0
+
+## Qualcomm - System Hardware Update - 9/27/2023 - 200.0.97.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.2020.0 | mcfg_subsys_ext8180.cab |
+| 1.0.2020.0 | qcacsp_cls8180.cab |
+| 1.0.2020.0 | qcaudminiport_Base8180.cab |
+| 1.0.2020.0 | qcaudminiportCLS_Extension8180.cab |
+| 1.0.2020.0 | qcbtaddvscregistry_hst8180.cab |
+| 1.0.2020.0 | qcbtaddvscregistry8180.cab |
+| 1.0.2020.0 | qcbtfmuart_ext8180.cab |
+| 1.0.2020.0 | qcbtfmuart_hst_ext_SwiftPairEnable8180.cab |
+| 1.0.2020.0 | qcbtfmuart_hst_ext8180.cab |
+| 1.0.2020.0 | qcbtfmuart_hst8180.cab |
+| 1.0.2020.0 | qcbtfmuart8180.cab |
+| 1.0.2020.0 | QCListenSM_swc_ext8180.cab |
+| 1.0.2020.0 | QCListenSM_swc8180.cab |
+| 1.0.2020.0 | QCListenSM8180.cab |
+| 1.0.2020.0 | qcSensors8180.cab |
+| 1.0.2020.0 | qcSensorsConfigCls8180.cab |
+| 1.0.2020.0 | qcSensorsConfigClsc8180.cab |
+| 1.0.2020.0 | qcsubsys_ext_adsp8180.cab |
+| 1.0.2020.0 | qcsubsys_ext_cdsp8180.cab |
+| 1.0.2020.0 | qcsubsys_ext_mpss8180.cab |
+| 1.0.2020.0 | qcsubsys_ext_scss8180.cab |
+| 1.0.2020.0 | qcsubsys8180.cab |
+| 1.0.2020.0 | QcTrEE8180.cab |
+| 1.0.2020.0 | qcwlan6800sc8180.cab |
+| 1.0.2020.0 | qcwlan8180.cab |
+| 27.20.2020.0 | qcdx8180.cab |
