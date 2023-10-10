@@ -579,3 +579,22 @@
 | 1.0.980.0 | qcwlan7180.cab |
 
 ## Qualcomm - System Hardware Update - 7/13/2023 - 200.0.23.0
+
+## Qualcomm - System Hardware Update - 10/9/2023 - 200.0.24.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.990.0 | mcfg_subsys_ext7180.cab |
+| 1.0.990.0 | qcbtaddvscregistry7180.cab |
+| 1.0.990.0 | qcbtfmuart_ext_SwiftPairEnable7180.cab |
+| 1.0.990.0 | qcbtfmuart_ext7180.cab |
+| 1.0.990.0 | qcbtfmuart7180.cab |
+| 1.0.990.0 | qcsubsys_ext_adsp7180.cab |
+| 1.0.990.0 | qcsubsys_ext_cdsp7180.cab |
+| 1.0.990.0 | qcsubsys_ext_mpss7180.cab |
+| 1.0.990.0 | qcsubsys7180.cab |
+| 1.0.990.0 | QcTrEE7180.cab |
+| 1.0.990.0 | qcwlan7180.cab |
+| 27.20.990.0 | qcdx7180.cab |
