@@ -3044,3 +3044,110 @@
 | Driver version | Package |
 |----------------|---------|
 | 1.0.3820.3000 | qcWlanSleepMgr8280.cab |
+
+## Qualcomm - System Hardware Update - 10/15/2023 - 200.0.48.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3851.4800 | qdcmlib8280.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1240.0 | qcfirmware8280_NVME.cab |
+| 1.0.1240.0 | qcfirmware8280_UFS.cab |
+| 1.0.3851.4800 | qcabd.cab |
+| 1.0.3851.4800 | qcacsp_qrd8280.cab |
+| 1.0.3851.4800 | qcadc8280.cab |
+| 1.0.3851.4800 | qcadcm8280.cab |
+| 1.0.3851.4800 | qcadsprpc8280.cab |
+| 1.0.3851.4800 | qcadsprpcd8280.cab |
+| 1.0.3851.4800 | qcAlwaysOnCVSensor_ext8280.cab |
+| 1.0.3851.4800 | qcAlwaysOnCVSensor.cab |
+| 1.0.3851.4800 | qcaucd_ext_qrd8280.cab |
+| 1.0.3851.4800 | qcaucd8280.cab |
+| 1.0.3851.4800 | qcaudminiport_Base8280.cab |
+| 1.0.3851.4800 | qcaudminiportQRD_Extension8280.cab |
+| 1.0.3851.4800 | qcbattminiclass8280.cab |
+| 1.0.3851.4800 | qcbtaddvscregistry8280.cab |
+| 1.0.3851.4800 | qcbtfmuart_ext8280.cab |
+| 1.0.3851.4800 | qcbtfmuart_hsp8280.cab |
+| 1.0.3851.4800 | qccamauxsensor_extension8280.cab |
+| 1.0.3851.4800 | qccamauxsensor8280.cab |
+| 1.0.3851.4800 | qccamavs8280.cab |
+| 1.0.3851.4800 | qccamavsqrd_ext8280.cab |
+| 1.0.3851.4800 | qccamflash_ext8280.cab |
+| 1.0.3851.4800 | qccamflash8280.cab |
+| 1.0.3851.4800 | qccamfrontsensor_extension8280.cab |
+| 1.0.3851.4800 | qccamfrontsensor8280.cab |
+| 1.0.3851.4800 | qccamisp_ext8280.cab |
+| 1.0.3851.4800 | qccamisp8280.cab |
+| 1.0.3851.4800 | qccamjpege_ext8280.cab |
+| 1.0.3851.4800 | qccamjpege8280.cab |
+| 1.0.3851.4800 | qccammipicsi_ext8280.cab |
+| 1.0.3851.4800 | qccammipicsi8280.cab |
+| 1.0.3851.4800 | qccamplatform_ext8280.cab |
+| 1.0.3851.4800 | qccamplatform8280.cab |
+| 1.0.3851.4800 | qccamrearsensor_extension8280.cab |
+| 1.0.3851.4800 | qccamrearsensor8280.cab |
+| 1.0.3851.4800 | qccdi8280.cab |
+| 1.0.3851.4800 | QCDiagBridge.cab |
+| 1.0.3851.4800 | qcdiagrouter8280.cab |
+| 1.0.3851.4800 | qcfgbcl8280.cab |
+| 1.0.3851.4800 | qcfgbclext8280.cab |
+| 1.0.3851.4800 | qcHumanPresenceSensor.cab |
+| 1.0.3851.4800 | qchwnled8280.cab |
+| 1.0.3851.4800 | qci2c8280.cab |
+| 1.0.3851.4800 | qciommu.cab |
+| 1.0.3851.4800 | qciommuext8280.cab |
+| 1.0.3851.4800 | QCListenSM_swc_ext8280.cab |
+| 1.0.3851.4800 | QCListenSM_swc8280.cab |
+| 1.0.3851.4800 | QCListenSM8280.cab |
+| 1.0.3851.4800 | qcpdsr.cab |
+| 1.0.3851.4800 | qcpep.wd8280.cab |
+| 1.0.3851.4800 | qcpil.cab |
+| 1.0.3851.4800 | qcpilEXT8280.cab |
+| 1.0.3851.4800 | qcpilfilterext.cab |
+| 1.0.3851.4800 | qcpmic8280.cab |
+| 1.0.3851.4800 | QcPmicApps8280.cab |
+| 1.0.3851.4800 | qcpmicext8280.cab |
+| 1.0.3851.4800 | QcPmicGlink8280.cab |
+| 1.0.3851.4800 | qcpmicgpio8280.cab |
+| 1.0.3851.4800 | qcrpen.cab |
+| 1.0.3851.4800 | qcscm.cab |
+| 1.0.3851.4800 | qcsecapp.cab |
+| 1.0.3851.4800 | qcSensors.cab |
+| 1.0.3851.4800 | qcSensorsConfigQrd8280.cab |
+| 1.0.3851.4800 | qcslimbus8280.cab |
+| 1.0.3851.4800 | qcsmmu8280.cab |
+| 1.0.3851.4800 | QcSOCPartition.cab |
+| 1.0.3851.4800 | qcsp8280.cab |
+| 1.0.3851.4800 | qcspi8280.cab |
+| 1.0.3851.4800 | qcsubsys_ext_adsp8280.cab |
+| 1.0.3851.4800 | qcsubsys_ext_cdsp18280.cab |
+| 1.0.3851.4800 | qcsubsys_ext_cdsp8280.cab |
+| 1.0.3851.4800 | qcsubsys_ext_scss8280.cab |
+| 1.0.3851.4800 | qcsubsys_ext_spss8280.cab |
+| 1.0.3851.4800 | qcsubsys8280.cab |
+| 1.0.3851.4800 | qcSubsysThermalMgr.cab |
+| 1.0.3851.4800 | qcsyscache8280.cab |
+| 1.0.3851.4800 | QcTftpKmdf.cab |
+| 1.0.3851.4800 | QcTrEE.cab |
+| 1.0.3851.4800 | QcTreeExtOem8280.cab |
+| 1.0.3851.4800 | QcTreeExtQcom8280.cab |
+| 1.0.3851.4800 | qcuart8280.cab |
+| 1.0.3851.4800 | qcursext.cab |
+| 1.0.3851.4800 | QcUsb4Bus8280.cab |
+| 1.0.3851.4800 | QcUsb4Filter8280.cab |
+| 1.0.3851.4800 | qcusbcucsi8280.cab |
+| 1.0.3851.4800 | QcUsbFnSsFilter8280.cab |
+| 1.0.3851.4800 | qcwlan_ext8280.cab |
+| 1.0.3851.4800 | qcwlan8280.cab |
+| 1.0.3851.4800 | QcXhciFilter8280.cab |
+| 1.0.3851.4800 | qsarconfig8280.cab |
+| 1.0.3851.4800 | qSarMgr.cab |
+| 30.0.3851.4800 | qcdx8280.cab |
+| 30.0.3851.4800 | qcdxext_qrd8280.cab |
