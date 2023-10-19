@@ -3151,3 +3151,11 @@
 | 1.0.3851.4800 | qSarMgr.cab |
 | 30.0.3851.4800 | qcdx8280.cab |
 | 30.0.3851.4800 | qcdxext_qrd8280.cab |
+
+## Qualcomm - System Hardware Update - 10/17/2023 - 200.0.49.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3820.3000 | qcWlanSleepMgr8280.cab |
