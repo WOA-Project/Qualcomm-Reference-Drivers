@@ -654,3 +654,55 @@
 | 2.0.3782.9200 | qcsubsys7280.cab |
 | 30.0.3782.9200 | qcdx7280.cab |
 | 30.0.3782.9200 | qcdxext_crd7280.cab |
+
+## Qualcomm - System Hardware Update - 10/11/2023 - 200.0.11.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3842.8000 | qcabd.cab |
+| 1.0.3842.8000 | qcbtaddvscregistry7280.cab |
+| 1.0.3842.8000 | qcbtfmuart_ext7280.cab |
+| 1.0.3842.8000 | qcbtfmuart_hsp7280.cab |
+| 1.0.3842.8000 | qccamauxsensor_extension7280.cab |
+| 1.0.3842.8000 | qccamauxsensor7280.cab |
+| 1.0.3842.8000 | qccamavs7280.cab |
+| 1.0.3842.8000 | qccamavsqrd_ext7280.cab |
+| 1.0.3842.8000 | qccamflash7280.cab |
+| 1.0.3842.8000 | qccamfrontsensor_extension7280.cab |
+| 1.0.3842.8000 | qccamfrontsensor7280.cab |
+| 1.0.3842.8000 | qccamisp_ext7280.cab |
+| 1.0.3842.8000 | qccamisp7280.cab |
+| 1.0.3842.8000 | qccamjpege_ext7280.cab |
+| 1.0.3842.8000 | qccamjpege7280.cab |
+| 1.0.3842.8000 | qccammipicsi_ext7280.cab |
+| 1.0.3842.8000 | qccammipicsi7280.cab |
+| 1.0.3842.8000 | qccamplatform_ext7280.cab |
+| 1.0.3842.8000 | qccamplatform7280.cab |
+| 1.0.3842.8000 | qciommu.cab |
+| 1.0.3842.8000 | qciommuext7280.cab |
+| 1.0.3842.8000 | qcmbbnetadapter_ext7280.cab |
+| 1.0.3842.8000 | qcmbbnetadapter7280.cab |
+| 1.0.3842.8000 | qcpdsr.cab |
+| 1.0.3842.8000 | qcpil.cab |
+| 1.0.3842.8000 | qcpilfilterext.cab |
+| 1.0.3842.8000 | qcscm.cab |
+| 1.0.3842.8000 | qcsecapp.cab |
+| 1.0.3842.8000 | QcSkExt7280.cab |
+| 1.0.3842.8000 | qcthermalmdm7280.cab |
+| 1.0.3842.8000 | qcwlan_ext_wpss7280.cab |
+| 1.0.3842.8000 | qcwlan_ext7280.cab |
+| 1.0.3842.8000 | qcwlan7280.cab |
+| 1.0.5800.0 | qcfirmware7280_EMMC.cab |
+| 1.0.5800.0 | qcfirmware7280_NVME.cab |
+| 1.0.5800.0 | qcfirmware7280_UFS.cab |
+| 2.0.3842.8000 | mcfg_subsys_ext7280.cab |
+| 2.0.3842.8000 | qcpilEXT7280.cab |
+| 2.0.3842.8000 | qcsubsys_ext_adsp7280.cab |
+| 2.0.3842.8000 | qcsubsys_ext_cdsp7280.cab |
+| 2.0.3842.8000 | qcsubsys_ext_mpss7280.cab |
+| 2.0.3842.8000 | qcsubsys_ext_wpss7280.cab |
+| 2.0.3842.8000 | qcsubsys7280.cab |
+| 30.0.3842.8000 | qcdx7280.cab |
+| 30.0.3842.8000 | qcdxext_crd7280.cab |
