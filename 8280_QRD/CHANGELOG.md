@@ -3036,3 +3036,11 @@
 | 1.0.3821.500 | QcTreeExtQcom8280.cab |
 | 30.0.3820.3000 | qcdx8280.cab |
 | 30.0.3820.3000 | qcdxext_qrd8280.cab |
+
+## Qualcomm - System Hardware Update - 10/12/2023 - 200.0.45.0
+
+### Removed
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3820.3000 | qcWlanSleepMgr8280.cab |
