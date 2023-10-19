@@ -495,3 +495,26 @@
 | 1.0.1980.1 | surfaceprox_subextadsp.cab |
 | 3.30508.581.0 | dax3_swc_aposvc_arm64.cab |
 | 7.620.140.0 | surface_uefi.cab |
+
+## Microsoft Corporation - System Hardware Update - 10/13/2023 - 200.0.30.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1380.0 | surfaceprox_subsys.cab |
+| 1.0.1600.1000 | qcadsprpc8180.cab |
+| 1.0.1640.1000 | qcadsprpcd8180.cab |
+| 1.0.1660.0 | qcbtaddvscregistry8180.cab |
+| 1.0.1660.0 | qcbtfmuart8180.cab |
+| 1.0.1660.0 | surfaceprox_pep.cab |
+| 1.0.700.0 | surfaceprox_auddevext.cab |
+| 1.0.710.0 | qclistensm_swc8180.cab |
+| 1.0.710.0 | surfaceprox_listenext.cab |
+| 1.0.710.0 | surfaceprox_listensm.cab |
+| 1.0.710.0 | surfaceprox_subextadsp.cab |
+| 1.0.770.0 | qcauddev8180.cab |
+| 1.0.820.3000 | surfaceprox_audminiext.cab |
+| 3.30202.224.0 | dax3_swc_aposvc_arm64.cab |
+| 4.0.710.0 | surfaceprox_acsp.cab |
+| 7.590.140.0 | surface_uefi.cab |
