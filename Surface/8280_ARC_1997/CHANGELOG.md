@@ -428,12 +428,27 @@
 | 5.65.139.0 | SurfaceCFUOverHid.cab |
 | 6.13.137.0 | SurfaceDock2FwUpdate.cab |
 
-## Microsoft Corporation - System Hardware Update - 10/16/2023 - 200.0.12.0
+## Microsoft Corporation - System Hardware Update - 10/16/2023 - 200.0.12.0 (Pulled)
 
 ### Updated
 
 | Driver version | Package |
 |----------------|---------|
+| 1.0.3851.4800 | qcwlan8280.cab |
+| 17.4.235.0 | Surface_UEFI.cab |
+| 3.118.11.0 | SurfaceSarManager.cab |
+| 30.0.3741.8500 | surfacepro_dxext_arc8280.cab |
+| 30.0.3820.3000 | qcdx8280.cab |
+| 71.0.0.40 | SurfaceSMF.cab |
+
+
+## Microsoft Corporation - System Hardware Update - 10/23/2023 - 200.0.13.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3741.8500 | qcsubsys8280.cab |
 | 1.0.3851.4800 | qcwlan8280.cab |
 | 17.4.235.0 | Surface_UEFI.cab |
 | 3.118.11.0 | SurfaceSarManager.cab |
