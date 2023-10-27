@@ -496,7 +496,7 @@
 | 3.30508.581.0 | dax3_swc_aposvc_arm64.cab |
 | 7.620.140.0 | surface_uefi.cab |
 
-## Microsoft Corporation - System Hardware Update - 10/13/2023 - 200.0.30.0
+## Microsoft Corporation - System Hardware Update - 10/13/2023 - 200.0.30.0 (Pulled)
 
 ### Updated
 
@@ -518,3 +518,18 @@
 | 3.30202.224.0 | dax3_swc_aposvc_arm64.cab |
 | 4.0.710.0 | surfaceprox_acsp.cab |
 | 7.590.140.0 | surface_uefi.cab |
+
+## Microsoft Corporation - System Hardware Update - 10/26/2023 - 200.0.31.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1600.1000 | qcadsprpc8180.cab |
+| 1.0.1640.1000 | qcadsprpcd8180.cab |
+| 1.0.1960.1 | surfaceprox_tree.cab |
+| 1.0.2000.0 | qciommu8180.cab |
+| 1.0.2020.0 | qcwlan8180.cab |
+| 1.22.139.0 | surfacepen0c0fcfuoverblelcextnpackage.cab |
+| 1.22.139.0 | surfacepen0c0ffirmwareupdate.cab |
+| 27.20.2020.0 | qcdx8180.cab |
