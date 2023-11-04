@@ -14,3 +14,17 @@ These are drivers published on Windows Update for various Qualcomm Reference Lap
 | 8280_QRD    | Snapdragon 8cx gen 3 (SC8280X) | Qualcomm Clamshell reference design (CRD) with SC8280X |
 
 NOTE: __Some of the target device information are educated guesses from publicly available knowledge and may be wrong or slightly off__
+
+## Other folders
+
+Due to a lack of reference device driver publishing on Windows Update for select Qualcomm Windows Platforms (namely, Snapdragon 835 and Snapdragon 850) as well as a focus on Microsoft devices, we chose to include select devices as well into this repository. We may add others in the future but please understand we have no will to add random OEM devices to this repository if there is no useful value for the purpose of the WOA-Project organisation goals. This repository remains a reference to work on porting to Surface devices, and other devices. It is not a general backup for OEM devices of all kinds.
+
+Currently, we selected the following devices:
+
+| Folder Name | Target Silicon | Target Device |
+|-------------|----------------|---------------|
+| Asus\NovaGo | Snapdragon 835 (MSM8998) | Asus Nova Go |
+| HP\EnvyX2   | Snapdragon 835 (MSM8998) | HP Envy X2 |
+| Lenovo\YogaC630 | Snapdragon 850 (SDM850) | Lenovo Yoga C630 |
+| Samsung\GalaxyBook2Legacy | Snapdragon 850 (SDM850) | Samsung Galaxy Book 2 (Original targeting ID, pre-hypervisor enablement update) |
+| Samsung\GalaxyBook2 | Snapdragon 850 (SDM850) | Samsung Galaxy Book 2 |
