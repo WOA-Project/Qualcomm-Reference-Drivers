@@ -3159,3 +3159,56 @@
 | Driver version | Package |
 |----------------|---------|
 | 1.0.3820.3000 | qcWlanSleepMgr8280.cab |
+
+## Qualcomm - System Hardware Update - 11/7/2023 - 200.0.50.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1260.0 | qcfirmware8280_NVME.cab |
+| 1.0.1260.0 | qcfirmware8280_UFS.cab |
+| 1.0.3875.7400 | qcadsprpc8280.cab |
+| 1.0.3875.7400 | qcadsprpcd8280.cab |
+| 1.0.3875.7400 | qcAlwaysOnCVSensor_ext8280.cab |
+| 1.0.3875.7400 | qcAlwaysOnCVSensor.cab |
+| 1.0.3875.7400 | qcaudminiport_Base8280.cab |
+| 1.0.3875.7400 | qcaudminiportQRD_Extension8280.cab |
+| 1.0.3875.7400 | qccamauxsensor_extension8280.cab |
+| 1.0.3875.7400 | qccamauxsensor8280.cab |
+| 1.0.3875.7400 | qccamavs8280.cab |
+| 1.0.3875.7400 | qccamavsqrd_ext8280.cab |
+| 1.0.3875.7400 | qccamflash_ext8280.cab |
+| 1.0.3875.7400 | qccamflash8280.cab |
+| 1.0.3875.7400 | qccamfrontsensor_extension8280.cab |
+| 1.0.3875.7400 | qccamfrontsensor8280.cab |
+| 1.0.3875.7400 | qccamisp_ext8280.cab |
+| 1.0.3875.7400 | qccamisp8280.cab |
+| 1.0.3875.7400 | qccamjpege_ext8280.cab |
+| 1.0.3875.7400 | qccamjpege8280.cab |
+| 1.0.3875.7400 | qccammipicsi_ext8280.cab |
+| 1.0.3875.7400 | qccammipicsi8280.cab |
+| 1.0.3875.7400 | qccamplatform_ext8280.cab |
+| 1.0.3875.7400 | qccamplatform8280.cab |
+| 1.0.3875.7400 | qccamrearsensor_extension8280.cab |
+| 1.0.3875.7400 | qccamrearsensor8280.cab |
+| 1.0.3875.7400 | qcHumanPresenceSensor.cab |
+| 1.0.3875.7400 | QCListenSM_swc_ext8280.cab |
+| 1.0.3875.7400 | QCListenSM_swc8280.cab |
+| 1.0.3875.7400 | QCListenSM8280.cab |
+| 1.0.3875.7400 | qcpil.cab |
+| 1.0.3875.7400 | qcpilEXT8280.cab |
+| 1.0.3875.7400 | qcpilfilterext.cab |
+| 1.0.3875.7400 | qcsecapp.cab |
+| 1.0.3875.7400 | QcSkExt8280.cab |
+| 1.0.3875.7400 | qcsp8280.cab |
+| 1.0.3875.7400 | QcTrEE.cab |
+| 1.0.3875.7400 | QcTreeExtOem8280.cab |
+| 1.0.3875.7400 | QcTreeExtQcom8280.cab |
+| 1.0.3875.7400 | qcwlan_ext8280.cab |
+| 1.0.3875.7400 | qcwlan8280.cab |
+| 1.0.3875.7400 | qcWlanSleepMgr8280.cab |
+| 1.0.3875.7400 | qsarconfig8280.cab |
+| 1.0.3875.7400 | qSarMgr.cab |
+| 30.0.3875.7400 | qcdx8280.cab |
+| 30.0.3875.7400 | qcdxext_qrd8280.cab |
