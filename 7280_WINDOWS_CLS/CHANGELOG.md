@@ -706,3 +706,41 @@
 | 2.0.3842.8000 | qcsubsys7280.cab |
 | 30.0.3842.8000 | qcdx7280.cab |
 | 30.0.3842.8000 | qcdxext_crd7280.cab |
+
+## Qualcomm - System Hardware Update - 11/7/2023 - 200.0.12.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3869.9900 | qcabd.cab |
+| 1.0.3869.9900 | QCDiagBridge.cab |
+| 1.0.3869.9900 | qcipa7280.cab |
+| 1.0.3869.9900 | qcipaext7280.cab |
+| 1.0.3869.9900 | qcmbbnetadapter_ext7280.cab |
+| 1.0.3869.9900 | qcmbbnetadapter7280.cab |
+| 1.0.3869.9900 | qcpdsr.cab |
+| 1.0.3869.9900 | qcpil.cab |
+| 1.0.3869.9900 | qcpilfilterext.cab |
+| 1.0.3869.9900 | qcrpen.cab |
+| 1.0.3869.9900 | qcsecapp.cab |
+| 1.0.3869.9900 | QcSkExt7280.cab |
+| 1.0.3869.9900 | qcSubsysThermalMgr.cab |
+| 1.0.3869.9900 | QcTrEE.cab |
+| 1.0.3869.9900 | QcTreeExtOem7280.cab |
+| 1.0.3869.9900 | QcTreeExtQcom7280.cab |
+| 1.0.3869.9900 | qcuart7280.cab |
+| 1.0.3869.9900 | qsarconfig7280.cab |
+| 1.0.3869.9900 | qSarMgr.cab |
+| 1.0.6001.0 | qcfirmware7280_EMMC.cab |
+| 1.0.6001.0 | qcfirmware7280_NVME.cab |
+| 1.0.6001.0 | qcfirmware7280_UFS.cab |
+| 2.0.3869.9900 | mcfg_subsys_ext7280.cab |
+| 2.0.3869.9900 | qcpilEXT7280.cab |
+| 2.0.3869.9900 | qcsubsys_ext_adsp7280.cab |
+| 2.0.3869.9900 | qcsubsys_ext_cdsp7280.cab |
+| 2.0.3869.9900 | qcsubsys_ext_mpss7280.cab |
+| 2.0.3869.9900 | qcsubsys_ext_wpss7280.cab |
+| 2.0.3869.9900 | qcsubsys7280.cab |
+| 30.0.3871.9800 | qcdx7280.cab |
+| 30.0.3871.9800 | qcdxext_crd7280.cab |
