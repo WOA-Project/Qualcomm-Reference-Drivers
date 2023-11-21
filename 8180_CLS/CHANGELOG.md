@@ -3300,3 +3300,5 @@
 | 1.0.2040.0 | qcwlan8180.cab |
 
 ## Qualcomm - System Hardware Update - 11/8/2023 - 200.0.101.0
+
+## Qualcomm - System Hardware Update - 11/9/2023 - 200.0.102.0
