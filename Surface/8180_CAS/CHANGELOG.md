@@ -371,7 +371,7 @@
 | 3.99.139.0 | surfacepowermeter.cab |
 | 9.122.139.0 | surfaceserialhubdriver.cab |
 
-## Microsoft Corporation - System Hardware Update - 11/1/2023 - 200.0.17.0
+## Microsoft Corporation - System Hardware Update - 11/1/2023 - 200.0.17.0 (Pulled)
 
 ### Updated
 
@@ -393,4 +393,39 @@
 | 27.20.2020.0 | qcdx8180.cab |
 | 3.100.139.0 | surfacesarmanager.cab |
 | 3.99.139.0 | surfacepowermeter.cab |
+| 9.122.139.0 | surfaceserialhubdriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 11/27/2023 - 200.0.18.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1940.0 | qcbtaddvscregistry8180.cab |
+| 1.0.1940.0 | qcbtfmuart8180.cab |
+| 1.0.1960.1 | surfaceprox_pep.cab |
+| 1.0.1960.1 | surfaceprox_subsys.cab |
+| 1.0.1960.1 | surfaceprox_tree.cab |
+| 1.0.2000.0 | qccamisp8180.cab |
+| 1.0.2000.0 | qccamjpege8180.cab |
+| 1.0.2000.0 | qccammipicsi8180.cab |
+| 1.0.2000.0 | qccamplatform8180.cab |
+| 1.0.2000.0 | qciommu8180.cab |
+| 1.0.2020.0 | qcwlan8180.cab |
+| 1.0.2020.11 | surfaceprox_camaux.cab |
+| 1.0.2020.11 | surfaceprox_camauxext.cab |
+| 1.0.2020.11 | surfaceprox_camavs.cab |
+| 1.0.2020.11 | surfaceprox_camfront.cab |
+| 1.0.2020.11 | surfaceprox_camfrontext.cab |
+| 1.0.2020.11 | surfaceprox_camrear.cab |
+| 1.0.2020.11 | surfaceprox_camrearext.cab |
+| 1.22.139.0 | surfacepen0c0fcfuoverblelcextnpackage.cab |
+| 1.22.139.0 | surfacepen0c0ffirmwareupdate.cab |
+| 10.95.137.0 | surfacesystemtelemetrydriver.cab |
+| 2.103.139.0 | surfacesam.cab |
+| 2.127.139.0 | surfacebattery.cab |
+| 27.20.2020.0 | qcdx8180.cab |
+| 3.100.139.0 | surfacesarmanager.cab |
+| 3.99.139.0 | surfacepowermeter.cab |
+| 6.16.5.0 | surfacedock2fwupdate.cab |
 | 9.122.139.0 | surfaceserialhubdriver.cab |
