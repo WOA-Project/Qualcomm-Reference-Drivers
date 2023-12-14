@@ -3214,3 +3214,76 @@
 | 30.0.3875.7400 | qcdxext_qrd8280.cab |
 
 ## Qualcomm - System Hardware Update - 11/8/2023 - 200.0.51.0
+
+## Qualcomm - System Hardware Update - 12/13/2023 - 200.0.52.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1280.0 | qcfirmware8280_NVME.cab |
+| 1.0.1280.0 | qcfirmware8280_UFS.cab |
+| 1.0.3902.9400 | qcabd.cab |
+| 1.0.3902.9400 | qcadcm8280.cab |
+| 1.0.3902.9400 | qcadsprpc8280.cab |
+| 1.0.3902.9400 | qcadsprpcd8280.cab |
+| 1.0.3902.9400 | qcAlwaysOnCVSensor_ext8280.cab |
+| 1.0.3902.9400 | qcAlwaysOnCVSensor.cab |
+| 1.0.3902.9400 | qcaucd_ext_qrd8280.cab |
+| 1.0.3902.9400 | qcaucd8280.cab |
+| 1.0.3902.9400 | qcbtaddvscregistry8280.cab |
+| 1.0.3902.9400 | qcbtfmuart_ext8280.cab |
+| 1.0.3902.9400 | qcbtfmuart_hsp8280.cab |
+| 1.0.3902.9400 | qccamauxsensor_extension8280.cab |
+| 1.0.3902.9400 | qccamauxsensor8280.cab |
+| 1.0.3902.9400 | qccamavs8280.cab |
+| 1.0.3902.9400 | qccamavsqrd_ext8280.cab |
+| 1.0.3902.9400 | qccamflash_ext8280.cab |
+| 1.0.3902.9400 | qccamflash8280.cab |
+| 1.0.3902.9400 | qccamfrontsensor_extension8280.cab |
+| 1.0.3902.9400 | qccamfrontsensor8280.cab |
+| 1.0.3902.9400 | qccamisp_ext8280.cab |
+| 1.0.3902.9400 | qccamisp8280.cab |
+| 1.0.3902.9400 | qccamjpege_ext8280.cab |
+| 1.0.3902.9400 | qccamjpege8280.cab |
+| 1.0.3902.9400 | qccammipicsi_ext8280.cab |
+| 1.0.3902.9400 | qccammipicsi8280.cab |
+| 1.0.3902.9400 | qccamplatform_ext8280.cab |
+| 1.0.3902.9400 | qccamplatform8280.cab |
+| 1.0.3902.9400 | qccamrearsensor_extension8280.cab |
+| 1.0.3902.9400 | qccamrearsensor8280.cab |
+| 1.0.3902.9400 | qccdi8280.cab |
+| 1.0.3902.9400 | QCDiagBridge.cab |
+| 1.0.3902.9400 | qcdiagrouter8280.cab |
+| 1.0.3902.9400 | qcglink8280.cab |
+| 1.0.3902.9400 | qcgpi8280.cab |
+| 1.0.3902.9400 | qcHumanPresenceSensor.cab |
+| 1.0.3902.9400 | qciommu.cab |
+| 1.0.3902.9400 | qciommuext8280.cab |
+| 1.0.3902.9400 | qcpep.wd8280.cab |
+| 1.0.3902.9400 | qcpil.cab |
+| 1.0.3902.9400 | qcpilEXT8280.cab |
+| 1.0.3902.9400 | qcpilfilterext.cab |
+| 1.0.3902.9400 | qcppx8280.cab |
+| 1.0.3902.9400 | qcscm.cab |
+| 1.0.3902.9400 | qcsecapp.cab |
+| 1.0.3902.9400 | QcSkExt8280.cab |
+| 1.0.3902.9400 | qcsmmu8280.cab |
+| 1.0.3902.9400 | qcsp8280.cab |
+| 1.0.3902.9400 | qcspi8280.cab |
+| 1.0.3902.9400 | qcSSGServicesUMD.cab |
+| 1.0.3902.9400 | QcTrEE.cab |
+| 1.0.3902.9400 | QcTreeExtOem8280.cab |
+| 1.0.3902.9400 | QcTreeExtQcom8280.cab |
+| 1.0.3902.9400 | qcursext.cab |
+| 1.0.3902.9400 | QcUsb4Filter8280.cab |
+| 1.0.3902.9400 | qcusbcucsi8280.cab |
+| 1.0.3902.9400 | QcUsbFnSsFilter8280.cab |
+| 1.0.3902.9400 | qcwlan_ext8280.cab |
+| 1.0.3902.9400 | qcwlan8280.cab |
+| 1.0.3902.9400 | QcXhciFilter8280.cab |
+| 1.0.3902.9400 | qdcmlib8280.cab |
+| 1.0.3902.9400 | qsarconfig8280.cab |
+| 1.0.3902.9400 | qSarMgr.cab |
+| 30.0.3902.9400 | qcdx8280.cab |
+| 30.0.3902.9400 | qcdxext_qrd8280.cab |
