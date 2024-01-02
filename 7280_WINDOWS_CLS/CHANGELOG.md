@@ -744,3 +744,62 @@
 | 2.0.3869.9900 | qcsubsys7280.cab |
 | 30.0.3871.9800 | qcdx7280.cab |
 | 30.0.3871.9800 | qcdxext_crd7280.cab |
+
+## Qualcomm - System Hardware Update - 12/18/2023 - 200.0.13.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3905.8700 | qcadspdaemon7280.cab |
+| 1.0.3905.8700 | qcadsprpc7280.cab |
+| 1.0.3905.8700 | qcadsprpcd7280.cab |
+| 1.0.3905.8700 | qcbtaddvscregistry7280.cab |
+| 1.0.3905.8700 | qcbtfmuart_ext7280.cab |
+| 1.0.3905.8700 | qcbtfmuart_hsp7280.cab |
+| 1.0.3905.8700 | qccamauxsensor_extension7280.cab |
+| 1.0.3905.8700 | qccamauxsensor7280.cab |
+| 1.0.3905.8700 | qccamavs7280.cab |
+| 1.0.3905.8700 | qccamavsqrd_ext7280.cab |
+| 1.0.3905.8700 | qccamflash7280.cab |
+| 1.0.3905.8700 | qccamfrontsensor_extension7280.cab |
+| 1.0.3905.8700 | qccamfrontsensor7280.cab |
+| 1.0.3905.8700 | qccamisp_ext7280.cab |
+| 1.0.3905.8700 | qccamisp7280.cab |
+| 1.0.3905.8700 | qccamjpege_ext7280.cab |
+| 1.0.3905.8700 | qccamjpege7280.cab |
+| 1.0.3905.8700 | qccammipicsi_ext7280.cab |
+| 1.0.3905.8700 | qccammipicsi7280.cab |
+| 1.0.3905.8700 | qccamplatform_ext7280.cab |
+| 1.0.3905.8700 | qccamplatform7280.cab |
+| 1.0.3905.8700 | QCDiagBridge.cab |
+| 1.0.3905.8700 | qciommu.cab |
+| 1.0.3905.8700 | qciommuext7280.cab |
+| 1.0.3905.8700 | qcmbbnetadapter_ext7280.cab |
+| 1.0.3905.8700 | qcmbbnetadapter7280.cab |
+| 1.0.3905.8700 | qcpil.cab |
+| 1.0.3905.8700 | qcpilfilterext.cab |
+| 1.0.3905.8700 | qcscm.cab |
+| 1.0.3905.8700 | qcsecapp.cab |
+| 1.0.3905.8700 | QcSkExt7280.cab |
+| 1.0.3905.8700 | qcSubsysThermalMgr.cab |
+| 1.0.3905.8700 | QcTrEE.cab |
+| 1.0.3905.8700 | QcTreeExtOem7280.cab |
+| 1.0.3905.8700 | QcTreeExtQcom7280.cab |
+| 1.0.3905.8700 | qcwlan_ext_wpss7280.cab |
+| 1.0.3905.8700 | qcwlan_ext7280.cab |
+| 1.0.3905.8700 | qcwlan7280.cab |
+| 1.0.3905.8700 | qsarconfig7280.cab |
+| 1.0.3905.8700 | qSarMgr.cab |
+| 1.0.6200.0 | qcfirmware7280_EMMC.cab |
+| 1.0.6200.0 | qcfirmware7280_NVME.cab |
+| 1.0.6200.0 | qcfirmware7280_UFS.cab |
+| 2.0.3905.8700 | mcfg_subsys_ext7280.cab |
+| 2.0.3905.8700 | qcpilEXT7280.cab |
+| 2.0.3905.8700 | qcsubsys_ext_adsp7280.cab |
+| 2.0.3905.8700 | qcsubsys_ext_cdsp7280.cab |
+| 2.0.3905.8700 | qcsubsys_ext_mpss7280.cab |
+| 2.0.3905.8700 | qcsubsys_ext_wpss7280.cab |
+| 2.0.3905.8700 | qcsubsys7280.cab |
+| 30.0.3905.8700 | qcdx7280.cab |
+| 30.0.3905.8700 | qcdxext_crd7280.cab |
