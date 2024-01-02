@@ -612,3 +612,5 @@
 | 1.0.1000.0 | qcsubsys7180.cab |
 | 1.0.1000.0 | QcTrEE7180.cab |
 | 27.20.1000.0 | qcdx7180.cab |
+
+## Qualcomm - System Hardware Update - 12/18/2023 - 200.0.26.0
