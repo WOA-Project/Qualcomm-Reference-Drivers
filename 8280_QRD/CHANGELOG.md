@@ -3287,3 +3287,5 @@
 | 1.0.3902.9400 | qSarMgr.cab |
 | 30.0.3902.9400 | qcdx8280.cab |
 | 30.0.3902.9400 | qcdxext_qrd8280.cab |
+
+## Qualcomm - System Hardware Update - 12/18/2023 - 200.0.53.0
