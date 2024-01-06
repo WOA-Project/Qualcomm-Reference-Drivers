@@ -1,0 +1,198 @@
+BOM,Package,Device ID,Device Name,Provider Name,Manufacturer Name,Class Name,Extension ID,Version,Date
+200.0.5.0,HalExtQCWdogTimer8180.cab,ACPI\QCOM0404,"Qualcomm(R) System Manager Device","Qualcomm Incorporated","Qualcomm Incorporated",Computer,,1.0.0500.0000,03/07/2019
+200.0.5.0,qca11ad8180.cab,PCI\VEN_17CB&DEV_1201,"Qualcomm 11ad Wireless Network Adapter - QCA6436","Qualcomm Atheros","Qualcomm Atheros",Net,,3.0.0500.0000,03/07/2019
+200.0.5.0,qca11ad8180.cab,PCI\VEN_1AE9&DEV_0310,"Qualcomm 11ad Wireless Network Adapter - QCA6320/QCA6335","Qualcomm Atheros","Qualcomm Atheros",Net,,3.0.0500.0000,03/07/2019
+200.0.5.0,qcabd8180.cab,ACPI\QCOM0427,"Qualcomm(R) ACPI Bridge Device","Qualcomm Technologies Inc.","Qualcomm Technologies Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcacsp_cls8180.cab,SLM1\VEN_QCOM&DEV_0424&SUBSYS_CLS08180,"Qualcomm(R) Aqstic(TM)","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",Extension,{04215DF0-AD48-4A1D-8451-7A68AFDA472D},1.0.0500.0000,03/07/2019
+200.0.5.0,qcadc8180.cab,ACPI\QCOM0412,"Qualcomm(R) Hexagon(TM) 685 DSP","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcadcm8180.cab,SLM1\QCOM0424,"Qualcomm(R) Aqstic(TM)","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcadsprpc8180.cab,ACPI\QCOM0460,"Qualcomm(R) Hexagon(TM) 685 DSP","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcadsprpcd8180.cab,ACPI\QCOM048A,"Qualcomm(R) Hexagon(TM) 685 DSP","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev_ext8180.cab,ADCM\VEN_QCOM&DEV_0425&SUBSYS_CDP08180,"Qualcomm(R) Aqstic(TM)","Qualcomm","(Extension system devices)",Extension,{2B959421-CEB4-43E3-89F3-87F65B16E967},1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev_ext8180.cab,ADCM\VEN_QCOM&DEV_0425&SUBSYS_CLS08180,"Qualcomm(R) Aqstic(TM)","Qualcomm","(Extension system devices)",Extension,{2B959421-CEB4-43E3-89F3-87F65B16E967},1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev_ext8180.cab,ADCM\VEN_QCOM&DEV_0425&SUBSYS_HAN08180,"Qualcomm(R) Aqstic(TM)","Qualcomm","(Extension system devices)",Extension,{2B959421-CEB4-43E3-89F3-87F65B16E967},1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev_ext8180.cab,ADCM\VEN_QCOM&DEV_0425&SUBSYS_MTP08180,"Qualcomm(R) Aqstic(TM)","Qualcomm","(Extension system devices)",Extension,{2B959421-CEB4-43E3-89F3-87F65B16E967},1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev_ext8180.cab,ADCM\VEN_QCOM&DEV_0425&SUBSYS_QRD08180,"Qualcomm(R) Aqstic(TM)","Qualcomm","(Extension system devices)",Extension,{2B959421-CEB4-43E3-89F3-87F65B16E967},1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev_ext8180.cab,AUDD\VEN_QCOM&DEV_0437&SUBSYS_CDP08180,"Qualcomm Multi Button Headset Controller","Qualcomm","(Extension system devices)",Extension,{2B959421-CEB4-43E3-89F3-87F65B16E967},1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev_ext8180.cab,AUDD\VEN_QCOM&DEV_0437&SUBSYS_CLS08180,"Qualcomm Multi Button Headset Controller","Qualcomm","(Extension system devices)",Extension,{2B959421-CEB4-43E3-89F3-87F65B16E967},1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev_ext8180.cab,AUDD\VEN_QCOM&DEV_0437&SUBSYS_MTP08180,"Qualcomm Multi Button Headset Controller","Qualcomm","(Extension system devices)",Extension,{2B959421-CEB4-43E3-89F3-87F65B16E967},1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev_ext8180.cab,AUDD\VEN_QCOM&DEV_0437&SUBSYS_QRD08180,"Qualcomm Multi Button Headset Controller","Qualcomm","(Extension system devices)",Extension,{2B959421-CEB4-43E3-89F3-87F65B16E967},1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev8180.cab,ADCM\QCOM0425,"Qualcomm(R) Aqstic(TM)","Qualcomm","(Standard system devices)",Media,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcauddev8180.cab,AUDD\QCOM0437,"Qualcomm(R) System Manager Device","Qualcomm","(Standard system devices)",Media,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcaudminiport_Base8180.cab,AUDD\QCOM042C,"Qualcomm(R) Aqstic(TM)","Qualcomm Technologies, Inc.","QUALCOMM",MEDIA,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcaudminiportCLS_Extension8180.cab,AUDD\VEN_QCOM&DEV_042C&SUBSYS_CLS08180,"Qualcomm(R) Aqstic(TM)","Qualcomm Technologies, Inc.","QUALCOMM",Extension,{C8174915-AD6F-4DF1-A336-171E14EF71DF},1.0.0500.0000,03/07/2019
+200.0.5.0,qcbattminiclass8180.cab,ACPI\QCOM042D,"Qualcomm PMIC Battery Miniclass Device","Qualcomm Incorporated","Qualcomm Incorporated",Battery,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcbtaddvscregistry8180.cab,QCA_SHB\UART_H4,"Bluetooth Radio Driver","Qualcomm Incorporated","Qualcomm Incorporated",Bluetooth,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcbtaddvscregistry8180.cab,SystemBusQc\SMD_BT,"Bluetooth Radio Driver ","Qualcomm Incorporated","Qualcomm Incorporated",Bluetooth,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcbtfmuart_ext8180.cab,ACPI\VEN_QCOM&DEV_0471&SUBSYS_MTP00845,"Qualcomm Atheros Bluetooth UART Transport Driver NVM Extension","Qualcomm Atheros Communications Inc.","Qualcomm Atheros Communications Inc.",Extension,{8CB101C6-3778-4F2C-9295-27BE9A778250},1.0.0500.0000,03/07/2019
+200.0.5.0,qcbtfmuart_ext8180.cab,ACPI\VEN_QCOM&DEV_0471&SUBSYS_QRD00845,"Qualcomm Atheros Bluetooth UART Transport Driver NVM Extension ","Qualcomm Atheros Communications Inc.","Qualcomm Atheros Communications Inc.",Extension,{8CB101C6-3778-4F2C-9295-27BE9A778250},1.0.0500.0000,03/07/2019
+200.0.5.0,qcbtfmuart8180.cab,ACPI\QCOM0471,"Qualcomm Atheros Bluetooth UART Transport Driver","Qualcomm Atheros Communications Inc.","Qualcomm Atheros Communications Inc.",Bluetooth,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccamauxsensor_extension8180.cab,ACPI\VEN_QCOM&DEV_04A5&SUBSYS_MTP845,"Qualcomm Camera Auxiliary Sensor Driver","Qualcomm Incorporated","Qualcomm Incorporated",Extension,{7649844B-A877-45EA-82D1-209503372162},1.0.0500.0000,03/07/2019
+200.0.5.0,qccamauxsensor8180.cab,ACPI\QCOM04A5,"Qualcomm(R) Spectra(TM) 390 ISP","Qualcomm Incorporated","Qualcomm Incorporated",Camera,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccamauxsensor8180.cab,ACPI\VEN_QCOM&DEV_04A5,"Qualcomm(R) Spectra(TM) 390 ISP","Qualcomm Incorporated","Qualcomm Incorporated",Camera,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccamavscls8180.cab,VIDEO\QCOM_AVStream_8180,"Qualcomm Camera AVStream Mini Driver 390 ISP","Qualcomm","Qualcomm",CAMERA,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccamfrontsensor_extension8180.cab,ACPI\VEN_QCOM&DEV_0406&SUBSYS_MTP845,"Qualcomm Camera Front Sensor Driver","Qualcomm Incorporated","Qualcomm Incorporated",Extension,{7649844B-A877-45EA-82D1-209503372162},1.0.0500.0000,03/07/2019
+200.0.5.0,qccamfrontsensor8180.cab,ACPI\QCOM0406,"Qualcomm(R) Spectra(TM) 390 ISP","Qualcomm Incorporated","Qualcomm Incorporated",Camera,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccamfrontsensor8180.cab,ACPI\VEN_QCOM&DEV_0406,"Qualcomm(R) Spectra(TM) 390 ISP","Qualcomm Incorporated","Qualcomm Incorporated",Camera,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccamisp8180.cab,ACPI\QCOM0428,"Qualcomm(R) Spectra(TM) 390 ISP","Qualcomm Inc.","Qualcomm Inc.",Camera,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccamjpege8180.cab,ACPI\QCOM0436,"Qualcomm(R) Spectra(TM) 390 ISP","Qualcomm","Qualcomm",Camera,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccammipicsi8180.cab,ACPI\QCOM04A4,"Qualcomm(R) Spectra(TM) 390 ISP","Qualcomm Inc.","Qualcomm Inc.",Camera,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccamplatform8180.cab,ACPI\QCOM0435,"Qualcomm(R) Spectra(TM) 390 ISP","Qualcomm Inc.","Qualcomm Inc.",Camera,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccamrearsensor_extension8180.cab,ACPI\VEN_QCOM&DEV_0429&SUBSYS_MTP845,"Qualcomm Camera Rear Sensor Driver","Qualcomm Incorporated","Qualcomm Incorporated",Extension,{7649844B-A877-45EA-82D1-209503372162},1.0.0500.0000,03/07/2019
+200.0.5.0,qccamrearsensor8180.cab,ACPI\QCOM0429,"Qualcomm(R) Spectra(TM) 390 ISP","Qualcomm Incorporated","Qualcomm Incorporated",Camera,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccamrearsensor8180.cab,ACPI\VEN_QCOM&DEV_0429,"Qualcomm(R) Spectra(TM) 390 ISP","Qualcomm Incorporated","Qualcomm Incorporated",Camera,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcccidbridge8180.cab,ACPI\QCOM04A7,"Qualcomm(R) CCID Device","Qualcomm Incorporated","Qualcomm Incorporated",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qccdi8180.cab,ACPI\QCOM0432,"Qualcomm Crash Dump Injector Device","Qualcomm Incorporated","Qualcomm Incorporated",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,QCDiagBridge8180.cab,ACPI\QCOM0461,"Qualcomm(R) Data Device","Qualcomm Incorporated","Qualcomm Incorporated",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcdiagcsi8180.cab,ACPI\QCOM0413,"Qualcomm(R) System Manager Device","Qualcomm Incorporated","Qualcomm Incorporated",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcdiagrouter8180.cab,ACPI\QCOM0414,"Qualcomm(R) System Manager Device","Qualcomm Incorporated","Qualcomm Incorporated",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcdplbridge8180.cab,ACPI\QCOM0477,"Qualcomm(R) Data Device","Qualcomm Incorporated","Qualcomm Incorporated",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcdx8180.cab,ACPI\QCOM043A,"Qualcomm(R) Adreno(TM) 680 GPU","Qualcomm Incorporated","Qualcomm Incorporated",Display,,26.18.0500.0000,03/07/2019
+200.0.5.0,qcfgbcl8180.cab,ACPI\QCOM047F,"Qualcomm FGBCL Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcfgbcl8180.cab,ACPI\VEN_QCOM&DEV_047F,"Qualcomm FGBCL Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcfgbclext8180.cab,ACPI\VEN_QCOM&DEV_047F&SUBSYS_CLS08180,"Qualcomm FGBCL Device","Qualcomm Inc.","Qualcomm Inc.",Extension,{928646FA-EA1B-4798-8283-18CD3B7A1D5F},1.0.0500.0000,03/07/2019
+200.0.5.0,qcfirmware8180.cab,UEFI\RES_{CC99678B-CD7D-4FEE-BE8C-82F221E95B61},"Qualcomm Firmware v05000000","Qualcomm Incorporated","Qualcomm Incorporated",Firmware,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcglink8180.cab,ACPI\QCOM048D,"Qualcomm Shared Memory Port Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcgnss8180.cab,ACPI\QCOM0472,"Qualcomm(R) iZatTM Location","Qualcomm","Qualcomm",Sensor,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcgpi8180.cab,ACPI\QCOM0493,"Qualcomm(R) Bus Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcgsi8180.cab,ACPI\QCOM0483,"Qualcomm GSI Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qchwnled8180.cab,ACPI\QCOM046D,"Qualcomm(R) System Manager Device","Qualcomm Technologies Inc","Qualcomm Technologies Inc",HIDClass,,1.0.0500.0000,03/07/2019
+200.0.5.0,qci2c8180.cab,ACPI\QCOM0411,"Qualcomm I2C Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qciommu8180.cab,ACPI\QCOM049B,"Qualcomm IOMMU Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcipa8180.cab,ACPI\QCOM0470,"Qualcomm IPA Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcipcrouter8180.cab,ACPI\QCOM040E,"Qualcomm IPC Router Device","Qualcomm Incorporated","Qualcomm Incorporated",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qckmbam8180.cab,ACPI\QCOM040A,"Qualcomm(R) Bus Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,QCListenSoundModel8180.cab,AUDD\QCOM042C,"QCListenSoundModel","Qualcomm Technologies, Inc.","QUALCOMM",Extension,{28d79fe3-ee16-4ccc-91ee-47fdb94189f0},1.0.0500.0000,03/07/2019
+200.0.5.0,QcLteCoexMgr8180.cab,ACPI\QCOM045F,"Qualcomm(R) Data Device","Qualcomm, Inc.","Qualcomm, Inc.",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcmbb8180.cab,QCMS\QCOM0489,"Qualcomm Mobile Broadband Device","Qualcomm Inc.","Qualcomm Inc.",Net,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcmbrg8180.cab,ACPI\QCOM0407,"Qualcomm(R) Data Device","Qualcomm Incorporated","Qualcomm Incorporated",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpdsr8180.cab,ACPI\QCOM047C,"Qualcomm(R) System Manager Device","Qualcomm Incorporated","Qualcomm Incorporated",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\!!HID_TSENS31!!,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0419,"Qualcomm Power Engine Plug-in Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0419&SUBSYS_CLS08180,"Qualcomm Power Engine Plug-in Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0419&SUBSYS_CLS18180,"Qualcomm Power Engine Plug-in Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM043B,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM043C,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM043D,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM043E,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM043F,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0440,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0441,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0442,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0443,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0444,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0445,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0446,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0447,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0448,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0449,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM044A,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM044B,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM044C,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM044D,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM044E,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM044F,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0450,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0451,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0452,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0453,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0454,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0455,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0456,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0457,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0458,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0459,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM045B,"Qualcomm Battery Current Limit Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM045C,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM045D,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM045E,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0462,"Qualcomm ADC Temperature Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0463,"Qualcomm ADC Temperature Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0464,"Qualcomm ADC Temperature Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0465,"Qualcomm ADC Temperature Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0466,"Qualcomm ADC Temperature Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0467,"Qualcomm ADC Temperature Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0468,"Qualcomm ADC Temperature Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM0469,"Qualcomm ADC Temperature Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM046A,"Qualcomm ADC Temperature Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM046B,"Qualcomm ADC Temperature Monitor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM049D,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpep.wd8180.cab,ACPI\QCOM049E,"Qualcomm Temperature Sensor Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpil8180.cab,ACPI\QCOM041B,"Qualcomm(R) System Manager Device","Qualcomm Incorporated","Qualcomm Incorporated",System,,1.1.0500.0000,03/07/2019
+200.0.5.0,qcpilEXT8180.cab,ACPI\VEN_QCOM&DEV_041B&SUBSYS_CDP08180,"Qualcomm Peripheral Image Loader Device","Qualcomm Incorporated","Qualcomm Incorporated",Extension,{8AB9D1D1-199E-482C-A2C9-C11F660260E6},2.0.0500.0000,03/07/2019
+200.0.5.0,qcpilEXT8180.cab,ACPI\VEN_QCOM&DEV_041B&SUBSYS_CLS08180,"Qualcomm Peripheral Image Loader Device","Qualcomm Incorporated","Qualcomm Incorporated",Extension,{8AB9D1D1-199E-482C-A2C9-C11F660260E6},2.0.0500.0000,03/07/2019
+200.0.5.0,qcpilEXT8180.cab,ACPI\VEN_QCOM&DEV_041B&SUBSYS_MTP08180,"Qualcomm Peripheral Image Loader Device","Qualcomm Incorporated","Qualcomm Incorporated",Extension,{8AB9D1D1-199E-482C-A2C9-C11F660260E6},2.0.0500.0000,03/07/2019
+200.0.5.0,qcpilEXT8180.cab,ACPI\VEN_QCOM&DEV_041B&SUBSYS_SCNM8180,"Qualcomm Peripheral Image Loader Device","Qualcomm Incorporated","Qualcomm Incorporated",Extension,{8AB9D1D1-199E-482C-A2C9-C11F660260E6},2.0.0500.0000,03/07/2019
+200.0.5.0,qcpmic8180.cab,ACPI\QCOM042E,"Qualcomm PMIC Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcPmicApps8180.cab,ACPI\QCOM042F,"Qualcomm(R) Power Management","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcPmicApps8180.cab,ACPI\VEN_QCOM&DEV_042F,"Qualcomm(R) Power Management","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcPmicGlink8180.cab,ACPI\QCOM049A,"Qualcomm PmicGlink Device","Qualcomm Incorporated","Qualcomm Incorporated",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcpmicgpio8180.cab,ACPI\QCOM0430,"Qualcomm PMIC GPIO Client Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcppx8180.cab,ACPI\QCOM04A2,"Qualcomm PCIe Platform Extension Plugin 01","Qualcomm Inc.","(Standard system devices)",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcremoteat8180.cab,ACPI\QCOM0408,"Qualcomm(R) Data Device","Qualcomm Incorporated","Qualcomm Incorporated",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcremotefs8180.cab,ACPI\QCOM0417,"Qualcomm(R) Memory and File System Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcrevrmnet8180.cab,ACPI\QCOM04A8,"Qualcomm revrmnet Device","Qualcomm Inc.","Qualcomm Inc.",NetTrans,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcrmnetbridge8180.cab,ACPI\QCOM04A1,"Qualcomm(R) Data Device","Qualcomm Incorporated","Qualcomm Incorporated",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcRng8180.cab,ACPI\QCOM048E,"Qualcomm(R) System Manager Device","Qualcomm Inc.","Qualcomm Inc.",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcrpen8180.cab,ACPI\QCOM0433,"Qualcomm(R) System Manager Device","Qualcomm Incorporated","Qualcomm Incorporated",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcscm8180.cab,ACPI\QCOM040B,"Qualcomm(R) System Manager Device","Qualcomm Inc.","Qualcomm Inc.",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcSensors8180.cab,ACPI\QCOM046C,"Qualcomm(R) All-Ways Aware(TM) Hub","Qualcomm","Qualcomm",Sensor,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcSensorsConfigCls8180.cab,ACPI\VEN_QCOM&DEV_049F&SUBSYS_CLS08180,"Sensor Platform Configuration","Qualcomm Technologies Inc","Qualcomm Technologies Inc",Extension,{56CE52AE-2D2F-49A7-8161-F31F8197DC46},1.0.0500.0000,03/07/2019
+200.0.5.0,qcSensorsConfigCls8180.cab,ACPI\VEN_QCOM&DEV_04A0&SUBSYS_CLS08180,"Sensor Platform Configuration","Qualcomm Technologies Inc","Qualcomm Technologies Inc",Extension,{56CE52AE-2D2F-49A7-8161-F31F8197DC46},1.0.0500.0000,03/07/2019
+200.0.5.0,qcshutdownsvc8180.cab,ACPI\QCOM0491,"Qualcomm(R) System Manager Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcslimbus8180.cab,ADSP\QCOM0410,"Qualcomm Slimbus Device","Qualcomm Inc.","Qualcomm Inc.",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcsmmu8180.cab,ACPI\VEN_QCOM&DEV_0409&REV_0001,"Qualcomm System MMU Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcsmmu8180.cab,ACPI\VEN_QCOM&DEV_0409&REV_0002,"Qualcomm System MMU Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcSOCPartition8180.cab,ACPI\QCOM04AA,"QcSOCPartition Device","Qualcomm Technologies Inc.","Qualcomm Technologies Inc.",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcsp8180.cab,ACPI\QCOM0492,"Qualcomm Secure Processor Device","Qualcomm Technologies Inc.","Qualcomm Technologies Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcspi8180.cab,ACPI\QCOM040F,"Qualcomm SPI Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcspmi8180.cab,ACPI\QCOM040C,"Qualcomm(R) Bus Device","Qualcomm Inc.","Qualcomm Inc.",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys_ext_mpss8180.cab,ACPI\VEN_QCOM&DEV_041E&SUBSYS_CDP08180,"Qualcomm Advanced Modem Subsystem Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",Extension,{09ec5f06-e59c-4a22-871e-f1ac196db803},2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys_ext_mpss8180.cab,ACPI\VEN_QCOM&DEV_041E&SUBSYS_CLS08180,"Qualcomm Advanced Modem Subsystem Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",Extension,{09ec5f06-e59c-4a22-871e-f1ac196db803},2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys_ext_mpss8180.cab,ACPI\VEN_QCOM&DEV_041E&SUBSYS_MTP08180,"Qualcomm Advanced Modem Subsystem Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",Extension,{09ec5f06-e59c-4a22-871e-f1ac196db803},2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys_ext_scss8180.cab,ACPI\VEN_QCOM&DEV_0421&SUBSYS_CDP08180,"Qualcomm Sensors Subsystem Bus Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",Extension,{39b7785a-d2a5-4603-bc57-01cd76a39d4f},2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys_ext_scss8180.cab,ACPI\VEN_QCOM&DEV_0421&SUBSYS_CLS08180,"Qualcomm Sensors Subsystem Bus Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",Extension,{39b7785a-d2a5-4603-bc57-01cd76a39d4f},2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys_ext_scss8180.cab,ACPI\VEN_QCOM&DEV_0421&SUBSYS_MTP08180,"Qualcomm Sensors Subsystem Bus Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",Extension,{39b7785a-d2a5-4603-bc57-01cd76a39d4f},2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys8180.cab,ACPI\QCOM041D,"Qualcomm Audio DSP Subsystem Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys8180.cab,ACPI\QCOM041E,"Qualcomm Advanced Modem Subsystem Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys8180.cab,ACPI\QCOM041F,"Qualcomm Modem Limiting Thermal Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys8180.cab,ACPI\QCOM0420,"Qualcomm Service Manager Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys8180.cab,ACPI\QCOM0421,"Qualcomm Sensors Subsystem Bus Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys8180.cab,ACPI\QCOM0422,"Qualcomm Subsystem Dependency Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys8180.cab,ACPI\QCOM0423,"Qualcomm Compute DSP Subsystem Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys8180.cab,ACPI\QCOM0499,"Qualcomm Secure Processor Subsystem Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys8180.cab,ADSP\DEADCODE,"Qualcomm Combined Subsystem Driver Test Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,2.0.0500.0000,03/07/2019
+200.0.5.0,qcsubsys8180.cab,QCMS\DEADCODE,"Qualcomm Combined Subsystem Driver Test Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,2.0.0500.0000,03/07/2019
+200.0.5.0,qcsyscache8180.cab,ACPI\VEN_QCOM&DEV_048C&REV_0001,"Qualcomm System Cache Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcsyscache8180.cab,ACPI\VEN_QCOM&DEV_048C&REV_0002,"Qualcomm System Cache Device","Qualcomm Inc.","Qualcomm Inc.",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcTftpKmdf8180.cab,ACPI\QCOM048B,"Qualcomm(R) Data Device","Qualcomm Technologies, Incorporated","Qualcomm Technologies, Incorporated",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcTrEE8180.cab,ACPI\QCOM0476,"Qualcomm(R) System Manager Device","Qualcomm Inc.","Qualcomm Inc.",SYSTEM,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcuart8180.cab,ACPI\QCOM0418,"Qualcomm UART Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcusbcucsi8180.cab,ACPI\QCOM04A9,"Qualcomm(R) Bus Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",USBDevice,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcusbfn8180.cab,URS\QCOM0498&FUNCTION,"Qualcomm(R) Bus Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",USBDevice,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcUsbFnSsFilter8180.cab,URS\QCOM0497&FUNCTION,"Qualcomm(R) Bus Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",USBDevice,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcUsbFnSsFilter8180.cab,URS\QCOM0498&FUNCTION,"Qualcomm(R) Bus Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",USBDevice,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcwifinotifiersrvc8180.cab,ACPI\,"Qualcomm(R) WifiNotifier Service","Qualcomm","Qualcomm",System,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcwlan8180.cab,QCMS\VEN_QCOM&DEV_042B,"Qualcomm(R) Wi-Fi B/G/N/AC (2x2) Svc","Qualcomm Inc","Qualcomm Inc",Net,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcwlan8180.cab,QCMS\VEN_QCOM&DEV_042B&SUBSYS_CLS08180,"Qualcomm(R) Wi-Fi B/G/N/AC (2x2) Svc","Qualcomm Inc","Qualcomm Inc",Net,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcwlan8180.cab,QCMS\VEN_QCOM&DEV_042B&SUBSYS_HAN08180,"Qualcomm(R) Wi-Fi B/G/N/AC (2x2) Svc","Qualcomm Inc","Qualcomm Inc",Net,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcwlan8180.cab,QCMS\VEN_QCOM&DEV_042B&SUBSYS_MTP08180,"Qualcomm(R) Wi-Fi B/G/N/AC (2x2) Svc","Qualcomm Inc","Qualcomm Inc",Net,,1.0.0500.0000,03/07/2019
+200.0.5.0,qcwlan8180.cab,QCMS\VEN_QCOM&DEV_042B&SUBSYS_SCNM8180,"Qualcomm(R) Wi-Fi B/G/N/AC (2x2) Svc","Qualcomm Inc","Qualcomm Inc",Net,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcXhciFilter8180.cab,ACPI\QCOM0426,"Qualcomm(R) Bus Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",USB,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcXhciFilter8180.cab,ACPI\QCOM04A6,"Qualcomm(R) Bus Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",USB,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcXhciFilter8180.cab,URS\QCOM0497&HOST,"Qualcomm(R) Bus Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",USB,,1.0.0500.0000,03/07/2019
+200.0.5.0,QcXhciFilter8180.cab,URS\QCOM0498&HOST,"Qualcomm(R) Bus Device","Qualcomm Technologies, Inc.","Qualcomm Technologies, Inc.",USB,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\CCID,"USB Function SerialClass (CCID)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\DIAG,"USB Function SerialClass (DIAG)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\DIAG,"USB Function SerialClass (DIAG)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\DIAG,"USB Function SerialClass (DIAG)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\DIAG,"USB Function SerialClass (DIAG)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\DPL,"USB Function SerialClass (DPL)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\MODEM,"USB Function SerialClass (Modem)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\MODEM,"USB Function SerialClass (MODEM)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\MODEM,"USB Function SerialClass (MODEM)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\NMEA,"USB Function SerialClass (NMEA)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\NMEA,"USB Function SerialClass (NMEA)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\RMNET,"USB Function SerialClass (RmNet)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\RMNET,"USB Function SerialClass (RmNet)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
+200.0.5.0,ufnserialcomposite.cab,USBFN\TRACE,"USB Function SerialClass (TRACE)","Qualcomm","(Standard system devices)",Ports,,1.0.0500.0000,03/07/2019
