@@ -441,7 +441,6 @@
 | 30.0.3820.3000 | qcdx8280.cab |
 | 71.0.0.40 | SurfaceSMF.cab |
 
-
 ## Microsoft Corporation - System Hardware Update - 10/23/2023 - 200.0.8.0
 
 ### Updated
@@ -455,3 +454,16 @@
 | 30.0.3741.8500 | surfacepro_dxext_arc8280.cab |
 | 30.0.3820.3000 | qcdx8280.cab |
 | 71.0.0.40 | SurfaceSMF.cab |
+
+## Microsoft Corporation - System Hardware Update - 1/8/2024 - 200.0.9.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.173.29.0 | SurfaceIhvCpuSmfClient.cab |
+| 10.104.30.0 | SurfaceSystemTelemetryDriver.cab |
+| 2.148.18.0 | SurfacePowerTrackerCore.cab |
+| 3.204.20.0 | SurfaceHotPlug.cab |
+| 3.30508.581.0 | dax3_swc_aposvc_arm64.cab |
+| 6.213.30.0 | SurfaceServiceNullDriver.cab |
