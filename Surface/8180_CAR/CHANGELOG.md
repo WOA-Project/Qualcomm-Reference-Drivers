@@ -534,7 +534,7 @@
 | 1.22.139.0 | surfacepen0c0ffirmwareupdate.cab |
 | 27.20.2020.0 | qcdx8180.cab |
 
-## Microsoft Corporation - System Hardware Update - 11/22/2023 - 200.0.32.0
+## Microsoft Corporation - System Hardware Update - 11/22/2023 - 200.0.32.0 (Pulled)
 
 ### Updated
 
@@ -552,3 +552,25 @@
 | 1.0.2020.11 | surfaceprox_camrear.cab |
 | 1.0.2020.11 | surfaceprox_camrearext.cab |
 | 6.16.5.0 | surfacedock2fwupdate.cab |
+
+## Microsoft Corporation - System Hardware Update - 1/24/2024 - 200.0.33.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.2000.0 | qccamisp8180.cab |
+| 1.0.2000.0 | qccamjpege8180.cab |
+| 1.0.2000.0 | qccammipicsi8180.cab |
+| 1.0.2000.0 | qccamplatform8180.cab |
+| 1.0.2020.11 | surfaceprox_camaux.cab |
+| 1.0.2020.11 | surfaceprox_camauxext.cab |
+| 1.0.2020.11 | surfaceprox_camavs.cab |
+| 1.0.2020.11 | surfaceprox_camfront.cab |
+| 1.0.2020.11 | surfaceprox_camfrontext.cab |
+| 1.0.2020.11 | surfaceprox_camrear.cab |
+| 1.0.2020.11 | surfaceprox_camrearext.cab |
+| 10.104.30.0 | surfacesystemtelemetrydriver.cab |
+| 2.148.18.0 | surfacepowertrackercore.cab |
+| 3.204.20.0 | surfacehotplug.cab |
+| 6.213.30.0 | surfaceservicenulldriver.cab |
