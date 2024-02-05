@@ -803,3 +803,36 @@
 | 2.0.3905.8700 | qcsubsys7280.cab |
 | 30.0.3905.8700 | qcdx7280.cab |
 | 30.0.3905.8700 | qcdxext_crd7280.cab |
+
+## Qualcomm - System Hardware Update - 2/2/2024 - 200.0.14.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3934.4400 | qcadspdaemon7280.cab |
+| 1.0.3934.4400 | qcadsprpc7280.cab |
+| 1.0.3934.4400 | qcadsprpcd7280.cab |
+| 1.0.3934.4400 | qcbtaddvscregistry7280.cab |
+| 1.0.3934.4400 | qcbtfmuart_ext7280.cab |
+| 1.0.3934.4400 | qcbtfmuart_hsp7280.cab |
+| 1.0.3934.4400 | QCDiagBridge.cab |
+| 1.0.3934.4400 | qcipa7280.cab |
+| 1.0.3934.4400 | qcipaext7280.cab |
+| 1.0.3934.4400 | qcmbbnetadapter_ext7280.cab |
+| 1.0.3934.4400 | qcmbbnetadapter7280.cab |
+| 1.0.3934.4400 | qcpil.cab |
+| 1.0.3934.4400 | qcpilfilterext.cab |
+| 1.0.3934.4400 | QcTrEE.cab |
+| 1.0.3934.4400 | QcTreeExtOem7280.cab |
+| 1.0.3934.4400 | QcTreeExtQcom7280.cab |
+| 1.0.3934.4400 | qcwlan_ext_wpss7280.cab |
+| 1.0.3934.4400 | qcwlan_ext7280.cab |
+| 1.0.3934.4400 | qcwlan7280.cab |
+| 1.0.3934.9800 | QcSkExt7280.cab |
+| 1.0.6400.0 | qcfirmware7280_EMMC.cab |
+| 1.0.6400.0 | qcfirmware7280_NVME.cab |
+| 1.0.6400.0 | qcfirmware7280_UFS.cab |
+| 2.0.3934.4400 | qcpilEXT7280.cab |
+| 30.0.3934.4400 | qcdx7280.cab |
+| 30.0.3934.4400 | qcdxext_crd7280.cab |
