@@ -3302,3 +3302,48 @@
 ## Qualcomm - System Hardware Update - 11/8/2023 - 200.0.101.0
 
 ## Qualcomm - System Hardware Update - 11/9/2023 - 200.0.102.0
+
+## Qualcomm - System Hardware Update - 2/16/2024 - 200.0.103.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.2060.0 | qcfirmware8180_NVME.cab |
+| 1.0.2060.0 | qcfirmware8180_UFS.cab |
+| 1.0.2060.0 | qdcmlib8180.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.2060.0 | mcfg_subsys_ext8180.cab |
+| 1.0.2060.0 | qcacsp_cls8180.cab |
+| 1.0.2060.0 | qcadsprpc8180.cab |
+| 1.0.2060.0 | qcadsprpcd8180.cab |
+| 1.0.2060.0 | qcaudminiport_Base8180.cab |
+| 1.0.2060.0 | qcaudminiportCLS_Extension8180.cab |
+| 1.0.2060.0 | qccamauxsensor_extension8180.cab |
+| 1.0.2060.0 | qccamauxsensor8180.cab |
+| 1.0.2060.0 | qccamavscls8180.cab |
+| 1.0.2060.0 | qccamfrontsensor_extension8180.cab |
+| 1.0.2060.0 | qccamfrontsensor8180.cab |
+| 1.0.2060.0 | qccamisp8180.cab |
+| 1.0.2060.0 | qccamjpege8180.cab |
+| 1.0.2060.0 | qccammipicsi8180.cab |
+| 1.0.2060.0 | qccamplatform8180.cab |
+| 1.0.2060.0 | qccamrearsensor_extension8180.cab |
+| 1.0.2060.0 | qccamrearsensor8180.cab |
+| 1.0.2060.0 | QCListenSM_swc_ext8180.cab |
+| 1.0.2060.0 | QCListenSM_swc8180.cab |
+| 1.0.2060.0 | QCListenSM8180.cab |
+| 1.0.2060.0 | qcSensors8180.cab |
+| 1.0.2060.0 | qcSensorsConfigCls8180.cab |
+| 1.0.2060.0 | qcSensorsConfigClsc8180.cab |
+| 1.0.2060.0 | qcsubsys_ext_adsp8180.cab |
+| 1.0.2060.0 | qcsubsys_ext_cdsp8180.cab |
+| 1.0.2060.0 | qcsubsys_ext_mpss8180.cab |
+| 1.0.2060.0 | qcsubsys_ext_scss8180.cab |
+| 1.0.2060.0 | qcsubsys8180.cab |
+| 1.0.2060.0 | QcTrEE8180.cab |
+| 27.20.2060.0 | qcdx8180.cab |
