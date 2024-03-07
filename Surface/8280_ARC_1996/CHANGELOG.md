@@ -467,3 +467,25 @@
 | 3.204.20.0 | SurfaceHotPlug.cab |
 | 3.30508.581.0 | dax3_swc_aposvc_arm64.cab |
 | 6.213.30.0 | SurfaceServiceNullDriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 2/26/2024 - 200.0.10.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3820.3000 | qcgpio8280.cab |
+| 1.0.3851.4800 | qcpep.wd8280.cab |
+| 1.0.3851.4800 | qcsp8280.cab |
+| 1.0.3851.4800 | QcTrEE.cab |
+| 1.0.3875.7400 | qcadsprpc8280.cab |
+| 1.0.3875.7400 | qcadsprpcd8280.cab |
+| 1.0.3875.7400 | surfacepro_ext_QCTree8280.cab |
+| 1.0.3902.9400 | qcadcm8280.cab |
+| 1.0.3902.9400 | qcbtaddvscregistry8280.cab |
+| 1.0.3902.9400 | qcbtfmuart_hsp8280.cab |
+| 18.7.235.0 | Surface_UEFI.cab |
+| 19.14.139.0 | SurfaceTouchPenProcessorUpdate.cab |
+| 3.54.12.0 | SurfacePenBleLcAddrAdaptationDriver.cab |
+| 30.0.3902.9400 | qcdx8280.cab |
+| 9.166.8.0 | SurfaceSerialHubDriver.cab |
