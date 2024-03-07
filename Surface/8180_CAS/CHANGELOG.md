@@ -466,3 +466,12 @@
 | 3.99.139.0 | surfacepowermeter.cab |
 | 6.213.30.0 | surfaceservicenulldriver.cab |
 | 9.122.139.0 | surfaceserialhubdriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 2/29/2024 - 200.0.20.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.2020.0 | qcbtaddvscregistry8180.cab |
+| 1.0.2020.0 | qcbtfmuart8180.cab |
