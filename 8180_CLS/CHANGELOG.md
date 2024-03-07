@@ -3347,3 +3347,5 @@
 | 1.0.2060.0 | qcsubsys8180.cab |
 | 1.0.2060.0 | QcTrEE8180.cab |
 | 27.20.2060.0 | qcdx8180.cab |
+
+## Qualcomm - System Hardware Update - 2/18/2024 - 200.0.104.0
