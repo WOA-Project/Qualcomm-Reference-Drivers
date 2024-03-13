@@ -1433,3 +1433,56 @@
 | 2.0.3963.1700 | qcsubsys8380.cab |
 | 31.0.43.0 | qcdx8380.cab |
 | 31.0.43.0 | qcdxext_crd8380.cab |
+
+## Qualcomm - System Hardware Update - 3/12/2024 - 200.0.17.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3975.9400 | qcacsp_crd8380.cab |
+| 1.0.3975.9400 | qcadcm8380.cab |
+| 1.0.3975.9400 | qcadsprpc8380.cab |
+| 1.0.3975.9400 | qcadsprpcd8380.cab |
+| 1.0.3975.9400 | qcasd_apo8380.cab |
+| 1.0.3975.9400 | qcasd_CRD_Extension8380.cab |
+| 1.0.3975.9400 | qcasd8380.cab |
+| 1.0.3975.9400 | qcaudminiport_apo8380.cab |
+| 1.0.3975.9400 | qcaudminiport_Base8380.cab |
+| 1.0.3975.9400 | qcaudminiportCRD_Extension8380.cab |
+| 1.0.3975.9400 | qcbluetooth_nvm_ext8380.cab |
+| 1.0.3975.9400 | qcbluetooth_ss8380.cab |
+| 1.0.3975.9400 | qcbluetooth_swiftpair_ext8380.cab |
+| 1.0.3975.9400 | qcbluetooth8380.cab |
+| 1.0.3975.9400 | qcbtaddvscregistry8380.cab |
+| 1.0.3975.9400 | qcDCF.cab |
+| 1.0.3975.9400 | QCListenSM_swc_ext8380.cab |
+| 1.0.3975.9400 | QCListenSM_swc8380.cab |
+| 1.0.3975.9400 | QCListenSM8380.cab |
+| 1.0.3975.9400 | qcnspmcdm8380.cab |
+| 1.0.3975.9400 | qcpep.wd8380.cab |
+| 1.0.3975.9400 | qcpmic8380.cab |
+| 1.0.3975.9400 | qcpmicext8380.cab |
+| 1.0.3975.9400 | qcppx8380.cab |
+| 1.0.3975.9400 | qcsecapp.cab |
+| 1.0.3975.9400 | qcSensors.cab |
+| 1.0.3975.9400 | qcSensorsConfigCrd8380.cab |
+| 1.0.3975.9400 | qcsp8380.cab |
+| 1.0.3975.9400 | qcSSGServicesUMD.cab |
+| 1.0.3975.9400 | QcUsb4Filter8380.cab |
+| 1.0.3975.9400 | qcusbcucsi8380.cab |
+| 1.0.3975.9400 | qSarMgr.cab |
+| 1.0.3977.5600 | QcSkExt8380.cab |
+| 1.0.610.0 | qcfirmware8380_CRD_NVME.cab |
+| 2.0.3975.9400 | qcsubsys_ext_adsp8380.cab |
+| 2.0.3975.9400 | qcsubsys_ext_cdsp8380.cab |
+| 2.0.3975.9400 | qcsubsys_ext_spss8380.cab |
+| 2.0.3975.9400 | qcsubsys8380.cab |
+| 31.0.45.0 | qcdx8380.cab |
+| 31.0.45.0 | qcdxext_crd8380.cab |
+
+### Removed
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3769.8100 | ufnserialcompositefactory.cab |
