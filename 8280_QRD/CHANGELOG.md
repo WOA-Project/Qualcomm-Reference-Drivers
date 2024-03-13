@@ -3444,3 +3444,5 @@
 | 1.0.3962.7400 | QcSkExt8280.cab |
 | 30.0.3959.8900 | qcdx8280.cab |
 | 30.0.3959.8900 | qcdxext_qrd8280.cab |
+
+## Qualcomm - System Hardware Update - 3/12/2024 - 200.0.57.0
