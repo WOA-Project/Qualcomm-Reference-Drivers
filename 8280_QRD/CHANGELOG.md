@@ -3391,3 +3391,56 @@
 | 30.0.3933.9300 | qcdxext_qrd8280.cab |
 
 ## Qualcomm - System Hardware Update - 2/5/2024 - 200.0.55.0
+
+## Qualcomm - System Hardware Update - 3/11/2024 - 200.0.56.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3959.8900 | qcbtfmuart_hsp_ss8280.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1320.0 | qcfirmware8280_NVME.cab |
+| 1.0.1320.0 | qcfirmware8280_UFS.cab |
+| 1.0.3959.8900 | qcabd.cab |
+| 1.0.3959.8900 | qcacsp_qrd8280.cab |
+| 1.0.3959.8900 | qcadcm8280.cab |
+| 1.0.3959.8900 | qcAlwaysOnCVSensor_ext8280.cab |
+| 1.0.3959.8900 | qcAlwaysOnCVSensor.cab |
+| 1.0.3959.8900 | qcaucd_ext_qrd8280.cab |
+| 1.0.3959.8900 | qcaucd8280.cab |
+| 1.0.3959.8900 | qcbtaddvscregistry8280.cab |
+| 1.0.3959.8900 | qcbtfmuart_ext8280.cab |
+| 1.0.3959.8900 | qcbtfmuart_hsp8280.cab |
+| 1.0.3959.8900 | qccdi8280.cab |
+| 1.0.3959.8900 | qcgpi8280.cab |
+| 1.0.3959.8900 | qcpdsr.cab |
+| 1.0.3959.8900 | qcpil.cab |
+| 1.0.3959.8900 | qcpilEXT8280.cab |
+| 1.0.3959.8900 | qcpilfilterext.cab |
+| 1.0.3959.8900 | QcPmicGlink8280.cab |
+| 1.0.3959.8900 | qcrpen.cab |
+| 1.0.3959.8900 | qcshutdownsvc.cab |
+| 1.0.3959.8900 | qcsp8280.cab |
+| 1.0.3959.8900 | qcSSGServicesUMD.cab |
+| 1.0.3959.8900 | qcsubsys_ext_adsp8280.cab |
+| 1.0.3959.8900 | qcsubsys_ext_cdsp18280.cab |
+| 1.0.3959.8900 | qcsubsys_ext_cdsp8280.cab |
+| 1.0.3959.8900 | qcsubsys_ext_scss8280.cab |
+| 1.0.3959.8900 | qcsubsys_ext_spss8280.cab |
+| 1.0.3959.8900 | qcsubsys8280.cab |
+| 1.0.3959.8900 | QcTftpKmdf.cab |
+| 1.0.3959.8900 | qcwlan_ext8280.cab |
+| 1.0.3959.8900 | qcwlan8280.cab |
+| 1.0.3959.8900 | qsarconfig8280.cab |
+| 1.0.3959.8900 | qSarMgr.cab |
+| 1.0.3962.7400 | QCDiagBridge.cab |
+| 1.0.3962.7400 | qcHumanPresenceSensor.cab |
+| 1.0.3962.7400 | qcsecapp.cab |
+| 1.0.3962.7400 | QcSkExt8280.cab |
+| 30.0.3959.8900 | qcdx8280.cab |
+| 30.0.3959.8900 | qcdxext_qrd8280.cab |
