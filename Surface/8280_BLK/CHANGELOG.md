@@ -331,3 +331,24 @@
 | 8.150.139.0 | SurfaceSmfClient.cab |
 | 8.89.139.0 | SurfaceThermalPolicy.cab |
 | 9.140.139.0 | SurfaceSerialHubDriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 3/21/2024 - 200.0.9.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1153.9.20.823 | msu53cx22arm64sta.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3851.4800 | qcwlan8280.cab |
+| 1.49.5.0 | SurfaceEeprom.cab |
+| 10.104.30.0 | SurfaceSystemTelemetryDriver.cab |
+| 12.6.235.0 | Surface_UEFI.cab |
+| 2.148.18.0 | SurfacePowerTrackerCore.cab |
+| 2.26.7.0 | SurfaceThunderbolt4DockFwUpdate.cab |
+| 6.197.9.0 | DevicesTelemetryServiceDriver.cab |
+| 6.213.30.0 | SurfaceServiceNullDriver.cab |
