@@ -574,3 +574,11 @@
 | 2.148.18.0 | surfacepowertrackercore.cab |
 | 3.204.20.0 | surfacehotplug.cab |
 | 6.213.30.0 | surfaceservicenulldriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 3/28/2024 - 200.0.34.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 7.703.140.0 | surface_uefi.cab |
