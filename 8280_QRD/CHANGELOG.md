@@ -3446,3 +3446,47 @@
 | 30.0.3959.8900 | qcdxext_qrd8280.cab |
 
 ## Qualcomm - System Hardware Update - 3/12/2024 - 200.0.57.0
+
+## Qualcomm - System Hardware Update - 4/16/2024 - 200.0.58.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1340.0 | qcfirmware8280_NVME.cab |
+| 1.0.1340.0 | qcfirmware8280_UFS.cab |
+| 1.0.3987.4300 | qcAlwaysOnCVSensor_ext8280.cab |
+| 1.0.3987.4300 | qcAlwaysOnCVSensor.cab |
+| 1.0.3987.4300 | qccamauxsensor_extension8280.cab |
+| 1.0.3987.4300 | qccamauxsensor8280.cab |
+| 1.0.3987.4300 | qccamavs8280.cab |
+| 1.0.3987.4300 | qccamavsqrd_ext8280.cab |
+| 1.0.3987.4300 | qccamflash_ext8280.cab |
+| 1.0.3987.4300 | qccamflash8280.cab |
+| 1.0.3987.4300 | qccamfrontsensor_extension8280.cab |
+| 1.0.3987.4300 | qccamfrontsensor8280.cab |
+| 1.0.3987.4300 | qccamisp_ext8280.cab |
+| 1.0.3987.4300 | qccamisp8280.cab |
+| 1.0.3987.4300 | qccamjpege_ext8280.cab |
+| 1.0.3987.4300 | qccamjpege8280.cab |
+| 1.0.3987.4300 | qccammipicsi_ext8280.cab |
+| 1.0.3987.4300 | qccammipicsi8280.cab |
+| 1.0.3987.4300 | qccamplatform_ext8280.cab |
+| 1.0.3987.4300 | qccamplatform8280.cab |
+| 1.0.3987.4300 | qccamrearsensor_extension8280.cab |
+| 1.0.3987.4300 | qccamrearsensor8280.cab |
+| 1.0.3987.4300 | qccdi8280.cab |
+| 1.0.3987.4300 | QCDiagBridge.cab |
+| 1.0.3987.4300 | qcHumanPresenceSensor.cab |
+| 1.0.3987.4300 | qcpep.wd8280.cab |
+| 1.0.3987.4300 | qcpil.cab |
+| 1.0.3987.4300 | qcpilEXT8280.cab |
+| 1.0.3987.4300 | qcpilfilterext.cab |
+| 1.0.3987.4300 | qcsp8280.cab |
+| 1.0.3987.4300 | qcSSGServicesUMD.cab |
+| 1.0.3987.4300 | qcwlan_ext8280.cab |
+| 1.0.3987.4300 | qcwlan8280.cab |
+| 1.0.3987.4300 | qsarconfig8280.cab |
+| 1.0.3987.4300 | qSarMgr.cab |
+
+## Qualcomm - System Hardware Update - 4/17/2024 - 200.0.59.0
