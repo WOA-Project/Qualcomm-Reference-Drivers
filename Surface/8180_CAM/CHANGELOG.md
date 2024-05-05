@@ -755,3 +755,15 @@
 | Driver version | Package |
 |----------------|---------|
 | 3.703.140.0 | surface_uefi.cab |
+
+## Microsoft Corporation - System Hardware Update - 4/24/2024 - 200.0.51.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.2020.0 | qcbtaddvscregistry8180.cab |
+| 1.0.2020.0 | qcbtfmuart8180.cab |
+| 27.20.2060.0 | qcdx8180.cab |
+| 6.16.8.0 | surfacedock2fwupdate.cab |
+| 9.166.8.0 | surfaceserialhubdriver.cab |
