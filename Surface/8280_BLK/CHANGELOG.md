@@ -352,3 +352,21 @@
 | 2.26.7.0 | SurfaceThunderbolt4DockFwUpdate.cab |
 | 6.197.9.0 | DevicesTelemetryServiceDriver.cab |
 | 6.213.30.0 | SurfaceServiceNullDriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 5/9/2024 - 200.0.10.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3638.8100 | qcadc8280.cab |
+| 1.0.3820.3000 | qcgpio8280.cab |
+| 1.0.3851.4800 | qcpep.wd8280.cab |
+| 1.0.3902.9400 | qcbtaddvscregistry8280.cab |
+| 1.0.3902.9400 | qcbtfmuart_hsp8280.cab |
+| 1.0.3933.9300 | qcwlan_ext8280.cab |
+| 1.0.3933.9300 | qcwlan8280.cab |
+| 1.0.3959.8900 | qccdi8280.cab |
+| 30.0.3959.8900 | qcdx8280.cab |
+| 5.65.139.0 | SurfaceCFUOverHid.cab |
+| 9.166.8.0 | SurfaceSerialHubDriver.cab |
