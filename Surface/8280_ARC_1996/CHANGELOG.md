@@ -489,3 +489,24 @@
 | 3.54.12.0 | SurfacePenBleLcAddrAdaptationDriver.cab |
 | 30.0.3902.9400 | qcdx8280.cab |
 | 9.166.8.0 | SurfaceSerialHubDriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 5/2/2024 - 200.0.11.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 2.26.7.0 | SurfaceThunderbolt4DockFwUpdate.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3933.9300 | qcadsprpc8280.cab |
+| 1.0.3933.9300 | qcadsprpcd8280.cab |
+| 1.0.3933.9300 | qcsp8280.cab |
+| 1.0.3933.9300 | qcwlan_ext8280.cab |
+| 1.0.3933.9300 | qcwlan8280.cab |
+| 1.0.3959.8900 | qccdi8280.cab |
+| 30.0.3959.8900 | qcdx8280.cab |
+| 6.16.8.0 | SurfaceDock2FwUpdate.cab |
