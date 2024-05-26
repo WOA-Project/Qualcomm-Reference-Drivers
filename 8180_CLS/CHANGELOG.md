@@ -3351,3 +3351,35 @@
 ## Qualcomm - System Hardware Update - 2/18/2024 - 200.0.104.0
 
 ## Qualcomm - System Hardware Update - 2/21/2024 - 200.0.105.0
+
+## Qualcomm - System Hardware Update - 5/24/2024 - 200.0.106.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.2080.0 | mcfg_subsys_ext8180.cab |
+| 1.0.2080.0 | qccamauxsensor_extension8180.cab |
+| 1.0.2080.0 | qccamauxsensor8180.cab |
+| 1.0.2080.0 | qccamavscls8180.cab |
+| 1.0.2080.0 | qccamfrontsensor_extension8180.cab |
+| 1.0.2080.0 | qccamfrontsensor8180.cab |
+| 1.0.2080.0 | qccamisp8180.cab |
+| 1.0.2080.0 | qccamjpege8180.cab |
+| 1.0.2080.0 | qccammipicsi8180.cab |
+| 1.0.2080.0 | qccamplatform8180.cab |
+| 1.0.2080.0 | qccamrearsensor_extension8180.cab |
+| 1.0.2080.0 | qccamrearsensor8180.cab |
+| 1.0.2080.0 | qcpilEXT8180.cab |
+| 1.0.2080.0 | qcSensors8180.cab |
+| 1.0.2080.0 | qcSensorsConfig8180.cab |
+| 1.0.2080.0 | qcSensorsConfigCls8180.cab |
+| 1.0.2080.0 | qcSensorsConfigClsc8180.cab |
+| 1.0.2080.0 | qcsubsys_ext_adsp8180.cab |
+| 1.0.2080.0 | qcsubsys_ext_cdsp8180.cab |
+| 1.0.2080.0 | qcsubsys_ext_mpss8180.cab |
+| 1.0.2080.0 | qcsubsys_ext_scss8180.cab |
+| 1.0.2080.0 | qcsubsys8180.cab |
+| 1.0.2080.0 | qcwlan6800sc8180.cab |
+| 1.0.2080.0 | qcwlan8180.cab |
+| 27.20.2080.0 | qcdx8180.cab |
