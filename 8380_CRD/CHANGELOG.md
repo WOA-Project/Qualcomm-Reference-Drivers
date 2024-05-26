@@ -1699,3 +1699,47 @@
 | 1.0.3889.8300 | qchidqspi8380.cab |
 | 1.0.3889.8300 | qcmbbuio8380.cab |
 | 1.0.3949.300 | qcpep.wd_ext8380.cab |
+
+## Qualcomm - System Hardware Update - 5/21/2024 - 200.0.20.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4025.700 | qcacsp_crd8380.cab |
+| 1.0.4025.700 | qcadcm8380.cab |
+| 1.0.4025.700 | qcaudminiport_apo8380.cab |
+| 1.0.4025.700 | qcaudminiport_Base8380.cab |
+| 1.0.4025.700 | qcaudminiportCRD_Extension8380.cab |
+| 1.0.4025.700 | qcbluetooth_nvm_ext8380.cab |
+| 1.0.4025.700 | qcbluetooth_ss8380.cab |
+| 1.0.4025.700 | qcbluetooth_swiftpair_ext8380.cab |
+| 1.0.4025.700 | qcbluetooth8380.cab |
+| 1.0.4025.700 | qcbtacx_transportdriver8380.cab |
+| 1.0.4025.700 | qcbtaddvscregistry8380.cab |
+| 1.0.4025.700 | qcglink8380.cab |
+| 1.0.4025.700 | qcpep.wd8380.cab |
+| 1.0.4025.700 | qcsecapp.cab |
+| 1.0.4025.700 | qcSensors.cab |
+| 1.0.4025.700 | qcSensorsConfigCrd8380.cab |
+| 1.0.4025.700 | QcSkExt8380.cab |
+| 1.0.4025.700 | QcTreeExtQcom8380.cab |
+| 1.0.4025.700 | qcwlanhmt_ext8380.cab |
+| 1.0.4025.700 | qcwlanhmt8380.cab |
+| 1.0.4025.700 | qcwlanhsp_ext8380.cab |
+| 1.0.4025.700 | qcwlanhsp8380.cab |
+| 1.0.4025.700 | qdcmlib8380.cab |
+| 1.0.655.0 | qcfirmware8380_CRD_NVME.cab |
+| 2.0.4018.8200 | qcsubsys_ext_adsp8380.cab |
+| 2.0.4018.8200 | qcsubsys_ext_cdsp8380.cab |
+| 30.0.31.2 | qcnspmcdm8380.cab |
+| 31.0.54.0 | qcdx8380.cab |
+| 31.0.54.0 | qcdxext_crd8380.cab |
+
+### Modified
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4018.8200 | QCListenSM_swc_ext8380.cab |
+| 1.0.4018.8200 | QCListenSM_swc8380.cab |
+| 1.0.4018.8200 | QCListenSM8380.cab |
