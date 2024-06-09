@@ -3383,3 +3383,7 @@
 | 1.0.2080.0 | qcwlan6800sc8180.cab |
 | 1.0.2080.0 | qcwlan8180.cab |
 | 27.20.2080.0 | qcdx8180.cab |
+
+## Qualcomm - System Hardware Update - 5/27/2024 - 200.0.107.0
+
+## Qualcomm - System Hardware Update - 5/30/2024 - 200.0.108.0
