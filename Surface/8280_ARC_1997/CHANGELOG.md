@@ -510,3 +510,29 @@
 | 1.0.3959.8900 | qccdi8280.cab |
 | 30.0.3959.8900 | qcdx8280.cab |
 | 6.16.8.0 | SurfaceDock2FwUpdate.cab |
+
+## Microsoft Corporation - System Hardware Update - 6/5/2024 - 200.0.17.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 0.0.15.0 | SurfaceAppCompanionExtensionPackage.cab |
+| 0.0.260.0 | SurfaceTouchpadG7CfuOverHidExtnPackage.cab |
+| 0.0.6.0 | SurfaceHidClassSettingsExtensionPackage.cab |
+| 0.0.9.0 | SurfaceTouchpadSettingsExtensionPackage.cab |
+| 0.2.3.0 | SurfaceOobPairingOptInPackage.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 10.105.10.0 | SurfaceSystemTelemetryDriver.cab |
+| 18.13.251.0 | Surface_UEFI.cab |
+| 2.131.9.0 | SurfaceTypeCoverV7FwUpdate.cab |
+| 3.206.1.0 | SurfaceHotPlug.cab |
+| 3.55.3.0 | SurfacePenBleLcAddrAdaptationDriver.cab |
+| 3.97.28.0 | SurfaceHidMiniDriver.cab |
+| 6.214.10.0 | SurfaceServiceNullDriver.cab |
+| 71.62.13.0 | SurfaceIntegrationDriver.cab |
+| 9.166.37.0 | SurfaceSerialHubDriver.cab |
