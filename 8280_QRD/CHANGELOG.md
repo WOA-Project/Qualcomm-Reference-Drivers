@@ -3490,3 +3490,79 @@
 | 1.0.3987.4300 | qSarMgr.cab |
 
 ## Qualcomm - System Hardware Update - 4/17/2024 - 200.0.59.0
+
+## Qualcomm - System Hardware Update - 6/11/2024 - 200.0.60.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4035.6900 | qcSensorsConfig8280.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4035.6900 | qcadsprpc8280.cab |
+| 1.0.4035.6900 | qcadsprpcd8280.cab |
+| 1.0.4035.6900 | qcbtaddvscregistry8280.cab |
+| 1.0.4035.6900 | qcbtfmuart_ext8280.cab |
+| 1.0.4035.6900 | qcbtfmuart_hsp_ss8280.cab |
+| 1.0.4035.6900 | qcbtfmuart_hsp8280.cab |
+| 1.0.4035.6900 | qccamauxsensor_extension8280.cab |
+| 1.0.4035.6900 | qccamauxsensor8280.cab |
+| 1.0.4035.6900 | qccamavs8280.cab |
+| 1.0.4035.6900 | qccamavsqrd_ext8280.cab |
+| 1.0.4035.6900 | qccamflash_ext8280.cab |
+| 1.0.4035.6900 | qccamflash8280.cab |
+| 1.0.4035.6900 | qccamfrontsensor_extension8280.cab |
+| 1.0.4035.6900 | qccamfrontsensor8280.cab |
+| 1.0.4035.6900 | qccamisp_ext8280.cab |
+| 1.0.4035.6900 | qccamisp8280.cab |
+| 1.0.4035.6900 | qccamjpege_ext8280.cab |
+| 1.0.4035.6900 | qccamjpege8280.cab |
+| 1.0.4035.6900 | qccammipicsi_ext8280.cab |
+| 1.0.4035.6900 | qccammipicsi8280.cab |
+| 1.0.4035.6900 | qccamplatform_ext8280.cab |
+| 1.0.4035.6900 | qccamplatform8280.cab |
+| 1.0.4035.6900 | qccamrearsensor_extension8280.cab |
+| 1.0.4035.6900 | qccamrearsensor8280.cab |
+| 1.0.4035.6900 | qccdi8280.cab |
+| 1.0.4035.6900 | QCDiagBridge.cab |
+| 1.0.4035.6900 | qcglink8280.cab |
+| 1.0.4035.6900 | qcHumanPresenceSensor.cab |
+| 1.0.4035.6900 | qci2c8280.cab |
+| 1.0.4035.6900 | qciommu.cab |
+| 1.0.4035.6900 | qciommuext8280.cab |
+| 1.0.4035.6900 | qcpep.wd8280.cab |
+| 1.0.4035.6900 | qcpil.cab |
+| 1.0.4035.6900 | qcpilEXT8280.cab |
+| 1.0.4035.6900 | qcpilfilterext.cab |
+| 1.0.4035.6900 | qcscm.cab |
+| 1.0.4035.6900 | qcSensors.cab |
+| 1.0.4035.6900 | qcshutdownsvc.cab |
+| 1.0.4035.6900 | qcslimbus8280.cab |
+| 1.0.4035.6900 | qcsmmu8280.cab |
+| 1.0.4035.6900 | qcspi8280.cab |
+| 1.0.4035.6900 | qcsubsys_ext_adsp8280.cab |
+| 1.0.4035.6900 | qcsubsys_ext_cdsp18280.cab |
+| 1.0.4035.6900 | qcsubsys_ext_cdsp8280.cab |
+| 1.0.4035.6900 | qcsubsys_ext_scss8280.cab |
+| 1.0.4035.6900 | qcsubsys_ext_spss8280.cab |
+| 1.0.4035.6900 | qcsubsys8280.cab |
+| 1.0.4035.6900 | qcuart8280.cab |
+| 1.0.4035.6900 | qcusbcucsi8280.cab |
+| 1.0.4035.6900 | qcwlan_ext8280.cab |
+| 1.0.4035.6900 | qcwlan8280.cab |
+| 1.0.4035.6900 | qsarconfig8280.cab |
+| 1.0.4035.6900 | qSarMgr.cab |
+| 30.0.4035.6900 | qcdx8280.cab |
+| 30.0.4035.6900 | qcdxext_qrd8280.cab |
+
+### Removed
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3933.9300 | qcSensorsConfigQrd8280.cab |
+
+## Qualcomm - System Hardware Update - 6/12/2024 - 200.0.61.0
