@@ -22,10 +22,10 @@ Due to a lack of reference device driver publishing on Windows Update for select
 
 Currently, we selected the following devices:
 
-| Folder Name | Target Silicon | Target Device | SoC Codename |
-|-------------|----------------|---------------|--------------|
-| Asus\NovaGo | Snapdragon 835 (MSM8998) | Asus Nova Go | Cobalt |
-| HP\EnvyX2   | Snapdragon 835 (MSM8998) | HP Envy X2 | Cobalt |
-| Lenovo\YogaC630 | Snapdragon 850 (SDM850) | Lenovo Yoga C630 | Napali |
-| Samsung\GalaxyBook2Legacy | Snapdragon 850 (SDM850) | Samsung Galaxy Book 2 (Original targeting ID, pre-hypervisor enablement update) | Napali |
-| Samsung\GalaxyBook2 | Snapdragon 850 (SDM850) | Samsung Galaxy Book 2 | Napali |
+| Folder Name | Target Silicon | Target Device | SoC Codename | Fake Codename (Android Only) |
+|-------------|----------------|---------------|--------------|------------------------------|
+| Asus\NovaGo | Snapdragon 835 (MSM8998) | Asus Nova Go | Cobalt | N/A |
+| HP\EnvyX2   | Snapdragon 835 (MSM8998) | HP Envy X2 | Cobalt | N/A |
+| Lenovo\YogaC630 | Snapdragon 850 (SDM850) | Lenovo Yoga C630 | Napali | Skunk |
+| Samsung\GalaxyBook2Legacy | Snapdragon 850 (SDM850) | Samsung Galaxy Book 2 (Original targeting ID, pre-hypervisor enablement update) | Napali | Skunk |
+| Samsung\GalaxyBook2 | Snapdragon 850 (SDM850) | Samsung Galaxy Book 2 | Napali | Skunk |
