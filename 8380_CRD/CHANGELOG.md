@@ -1949,3 +1949,5 @@
 | 30.0.31.50 | qcnspmcdm8380.cab |
 | 31.0.57.0 | qcdx8380.cab |
 | 31.0.57.0 | qcdxext_crd8380.cab |
+
+## Qualcomm - System Hardware Update - 6/18/2024 - 200.0.23.0
