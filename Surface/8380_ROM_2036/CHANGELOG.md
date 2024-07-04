@@ -172,3 +172,111 @@
 | 9.166.37.0 | surfaceserialhubdriver.cab |
 | 9.322.450.41 | dax3_ext_qc.cab |
 | 9.5.3.0 | surfaceoempanelcustomization.cab |
+
+## Microsoft Corporation - System Hardware Update - 7/2/2024 - 200.0.16.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4030.1000 | qcgpio8380.cab |
+| 1.0.4032.4600 | qcabd.cab |
+| 1.0.4032.4600 | qcadc8380.cab |
+| 1.0.4032.4600 | qcadcm8380.cab |
+| 1.0.4032.4600 | qcasd_apo8380.cab |
+| 1.0.4032.4600 | qcasd8380.cab |
+| 1.0.4032.4600 | qcaudminiport_apo8380.cab |
+| 1.0.4032.4600 | qcaudminiport_base8380.cab |
+| 1.0.4032.4600 | qcbtacx_transportdriver8380.cab |
+| 1.0.4032.4600 | qccdi8380.cab |
+| 1.0.4032.4600 | qcconnectionsecurity8380.cab |
+| 1.0.4032.4600 | qcdcf.cab |
+| 1.0.4032.4600 | qcfgbcl8380.cab |
+| 1.0.4032.4600 | qcfgbclext8380.cab |
+| 1.0.4032.4600 | qcgpi8380.cab |
+| 1.0.4032.4600 | qci2c8380.cab |
+| 1.0.4032.4600 | qciommu.cab |
+| 1.0.4032.4600 | qciommuext8380.cab |
+| 1.0.4032.4600 | qcipcc8380.cab |
+| 1.0.4032.4600 | qcipcrouter8380.cab |
+| 1.0.4032.4600 | qckmbam8380.cab |
+| 1.0.4032.4600 | qcpdsr.cab |
+| 1.0.4032.4600 | qcpil.cab |
+| 1.0.4032.4600 | qcpilfilterext.cab |
+| 1.0.4032.4600 | qcpmic8380.cab |
+| 1.0.4032.4600 | qcpmicapps8380.cab |
+| 1.0.4032.4600 | qcpmicext8380.cab |
+| 1.0.4032.4600 | qcpmicgpio8380.cab |
+| 1.0.4032.4600 | qcppx8380.cab |
+| 1.0.4032.4600 | qcrpen.cab |
+| 1.0.4032.4600 | qcscm.cab |
+| 1.0.4032.4600 | qcsecapp.cab |
+| 1.0.4032.4600 | qcslimbus8380.cab |
+| 1.0.4032.4600 | qcsmmu8380.cab |
+| 1.0.4032.4600 | qcsocpartition.cab |
+| 1.0.4032.4600 | qcspi8380.cab |
+| 1.0.4032.4600 | qcspmi8380.cab |
+| 1.0.4032.4600 | qcssgservicesumd.cab |
+| 1.0.4032.4600 | qcsubsysthermalmgr.cab |
+| 1.0.4032.4600 | qcsyscache8380.cab |
+| 1.0.4032.4600 | qctftpkmdf.cab |
+| 1.0.4032.4600 | qctree.cab |
+| 1.0.4032.4600 | qctreeextqcom8380.cab |
+| 1.0.4032.4600 | qcuart8380.cab |
+| 1.0.4032.4600 | qcursext.cab |
+| 1.0.4032.4600 | qcusb4bus8380.cab |
+| 1.0.4032.4600 | qcwlansleepmgr8380.cab |
+| 1.0.4033.7200 | qceva_ext8380.cab |
+| 1.0.4033.7200 | qceva8380.cab |
+| 1.0.4034.3700 | qcaucd8380.cab |
+| 1.0.4034.6700 | qcglink8380.cab |
+| 1.0.4034.9600 | qcpep.wd8380.cab |
+| 1.0.4034.9600 | qcusb4filter8380.cab |
+| 1.0.4034.9600 | qcusbfnssfilter8380.cab |
+| 1.0.4034.9600 | qcxhcifilter8380.cab |
+| 1.0.4035.6500 | qcskext8380.cab |
+| 1.0.4035.9800 | qcbluetooth8380.cab |
+| 1.0.4035.9800 | qcbtaddvscregistry8380.cab |
+| 1.0.4036.6500 | qcwlanhmt_ext8380.cab |
+| 1.0.4036.6500 | qcwlanhmt8380.cab |
+| 1.0.4037.3200 | qcsp8380.cab |
+| 1.0.4038.600 | qccamflash_ext8380.cab |
+| 1.0.4038.600 | qccamflash8380.cab |
+| 1.0.4038.600 | qccamisp_ext8380.cab |
+| 1.0.4038.600 | qccamisp8380.cab |
+| 1.0.4038.600 | qccamjpege8380.cab |
+| 1.0.4038.600 | qccammipicsi_ext8380.cab |
+| 1.0.4038.600 | qccammipicsi8380.cab |
+| 1.0.4038.600 | qccamplatform8380.cab |
+| 1.0.4038.600 | qccamsecureisp_ext8380.cab |
+| 1.0.4038.600 | qccamsecureisp8380.cab |
+| 1.0.4039.1500 | qcdpps8380.cab |
+| 1.0.4039.1500 | qcpmicglink8380.cab |
+| 1.0.4039.1500 | qcusbcucsi8380.cab |
+| 1.0.4039.9500 | qcadsprpc8380.cab |
+| 1.0.4039.9500 | qcadsprpcd8380.cab |
+| 128.3.6.0 | surfaceretimer0.cab |
+| 128.3.6.0 | surfaceretimer1.cab |
+| 144.18.235.0 | surface_uefi.cab |
+| 161.117.3.4 | surfacetcon13incell64kb.cab |
+| 161.17.0.33 | surfacetcon15.cab |
+| 161.17.0.36 | surfacetcon13.cab |
+| 2.0.4040.5600 | qcpilext8380.cab |
+| 2.0.4040.5600 | qcsubsys_ext_cdsp8380.cab |
+| 2.0.4040.5600 | qcsubsys_ext_spss8380.cab |
+| 2.0.4040.5600 | qcsubsys8380.cab |
+| 2.0.56.0 | surfacedisplayhardwaredriver.cab |
+| 22.3.139.0 | surfacesam.cab |
+| 30.0.31.50 | qcnspmcdm8380.cab |
+| 31.0.57.0 | qcdx8380.cab |
+| 5850.2024.6.7 | surface_acsp8380.cab |
+| 5870.1.0.0 | qcsensors.cab |
+| 5870.1.0.0 | surfacepro_snscfgcrd8380.cab |
+| 5870.1.1.139 | surfacepro_ext_adsp8380.cab |
+| 6.213.53.0 | surfaceservicenulldriver.cab |
+
+### Modified
+
+| Driver version | Package |
+|----------------|---------|
+| 3.119.4.0 | surfacesarmanager.cab |
