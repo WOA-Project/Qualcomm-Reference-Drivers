@@ -836,3 +836,131 @@
 | 2.0.3934.4400 | qcpilEXT7280.cab |
 | 30.0.3934.4400 | qcdx7280.cab |
 | 30.0.3934.4400 | qcdxext_crd7280.cab |
+
+## Qualcomm - System Hardware Update - 7/8/2024 - 200.0.15.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4056.4400 | qccamavs_ext7280.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4056.4400 | HalExtQCWdogTimer7280.cab |
+| 1.0.4056.4400 | qc5gnrcoexmgr_ext7280.cab |
+| 1.0.4056.4400 | qc5gnrcoexmgr7280.cab |
+| 1.0.4056.4400 | qcabd.cab |
+| 1.0.4056.4400 | qcacsp_crd7280.cab |
+| 1.0.4056.4400 | qcadc7280.cab |
+| 1.0.4056.4400 | qcadcm7280.cab |
+| 1.0.4056.4400 | qcadspdaemon7280.cab |
+| 1.0.4056.4400 | qcadsprpc7280.cab |
+| 1.0.4056.4400 | qcadsprpcd7280.cab |
+| 1.0.4056.4400 | qcaucd_ext_crd7280.cab |
+| 1.0.4056.4400 | qcaucd7280.cab |
+| 1.0.4056.4400 | qcaudminiport_Base7280.cab |
+| 1.0.4056.4400 | qcaudminiportCRD_Extension7280.cab |
+| 1.0.4056.4400 | qcbtaddvscregistry7280.cab |
+| 1.0.4056.4400 | qcbtfmuart_ext7280.cab |
+| 1.0.4056.4400 | qcbtfmuart_hsp7280.cab |
+| 1.0.4056.4400 | qccamauxsensor_extension7280.cab |
+| 1.0.4056.4400 | qccamauxsensor7280.cab |
+| 1.0.4056.4400 | qccamavs7280.cab |
+| 1.0.4056.4400 | qccamflash7280.cab |
+| 1.0.4056.4400 | qccamfrontsensor_extension7280.cab |
+| 1.0.4056.4400 | qccamfrontsensor7280.cab |
+| 1.0.4056.4400 | qccamisp_ext7280.cab |
+| 1.0.4056.4400 | qccamisp7280.cab |
+| 1.0.4056.4400 | qccamjpege_ext7280.cab |
+| 1.0.4056.4400 | qccamjpege7280.cab |
+| 1.0.4056.4400 | qccammipicsi_ext7280.cab |
+| 1.0.4056.4400 | qccammipicsi7280.cab |
+| 1.0.4056.4400 | qccamplatform_ext7280.cab |
+| 1.0.4056.4400 | qccamplatform7280.cab |
+| 1.0.4056.4400 | qcccidbridge7280.cab |
+| 1.0.4056.4400 | qccdi7280.cab |
+| 1.0.4056.4400 | QCDiagBridge.cab |
+| 1.0.4056.4400 | qcdiagcsi7280.cab |
+| 1.0.4056.4400 | qcdiagrouter7280.cab |
+| 1.0.4056.4400 | qcdplbridge7280.cab |
+| 1.0.4056.4400 | qcfgbcl7280.cab |
+| 1.0.4056.4400 | qcfgbclext7280.cab |
+| 1.0.4056.4400 | qcglink7280.cab |
+| 1.0.4056.4400 | qcgnss7280.cab |
+| 1.0.4056.4400 | qcgpi7280.cab |
+| 1.0.4056.4400 | qcgpio7280.cab |
+| 1.0.4056.4400 | qchwnled7280.cab |
+| 1.0.4056.4400 | qci2c7280.cab |
+| 1.0.4056.4400 | qciommu.cab |
+| 1.0.4056.4400 | qciommuext7280.cab |
+| 1.0.4056.4400 | qcipa7280.cab |
+| 1.0.4056.4400 | qcipaext7280.cab |
+| 1.0.4056.4400 | qcipcc7280.cab |
+| 1.0.4056.4400 | qcipcrouter7280.cab |
+| 1.0.4056.4400 | qckmbam7280.cab |
+| 1.0.4056.4400 | QCListenSM_swc_ext7280.cab |
+| 1.0.4056.4400 | QCListenSM_swc7280.cab |
+| 1.0.4056.4400 | QCListenSM7280.cab |
+| 1.0.4056.4400 | qcmbbnetadapter_ext7280.cab |
+| 1.0.4056.4400 | qcmbbnetadapter7280.cab |
+| 1.0.4056.4400 | qcmbrg7280.cab |
+| 1.0.4056.4400 | qcpdsr.cab |
+| 1.0.4056.4400 | qcpep.wd7280.cab |
+| 1.0.4056.4400 | qcpil.cab |
+| 1.0.4056.4400 | qcpilfilterext.cab |
+| 1.0.4056.4400 | qcpmic7280.cab |
+| 1.0.4056.4400 | QcPmicApps7280.cab |
+| 1.0.4056.4400 | qcpmicext7280.cab |
+| 1.0.4056.4400 | qcpmicgpio7280.cab |
+| 1.0.4056.4400 | qcppx7280.cab |
+| 1.0.4056.4400 | qcremotefs7280.cab |
+| 1.0.4056.4400 | qcrmnetbridge7280.cab |
+| 1.0.4056.4400 | qcrpen.cab |
+| 1.0.4056.4400 | qcscm.cab |
+| 1.0.4056.4400 | qcsecapp.cab |
+| 1.0.4056.4400 | qcSensors.cab |
+| 1.0.4056.4400 | qcSensorsConfigCrd7280.cab |
+| 1.0.4056.4400 | qcshutdownsvc.cab |
+| 1.0.4056.4400 | QcSkExt7280.cab |
+| 1.0.4056.4400 | qcslimbus7280.cab |
+| 1.0.4056.4400 | qcsmmu7280.cab |
+| 1.0.4056.4400 | QcSOCPartition.cab |
+| 1.0.4056.4400 | qcspmi7280.cab |
+| 1.0.4056.4400 | qcSubsysThermalMgr.cab |
+| 1.0.4056.4400 | qcsyscache7280.cab |
+| 1.0.4056.4400 | QcTftpKmdf.cab |
+| 1.0.4056.4400 | qcthermalmdm7280.cab |
+| 1.0.4056.4400 | QcTrEE.cab |
+| 1.0.4056.4400 | QcTreeExtOem7280.cab |
+| 1.0.4056.4400 | QcTreeExtQcom7280.cab |
+| 1.0.4056.4400 | qcuart7280.cab |
+| 1.0.4056.4400 | qcusbcucsi7280.cab |
+| 1.0.4056.4400 | QcUsbFnSsFilter7280.cab |
+| 1.0.4056.4400 | qcwlan_ext_wpss7280.cab |
+| 1.0.4056.4400 | qcwlan_ext7280.cab |
+| 1.0.4056.4400 | qcwlan7280.cab |
+| 1.0.4056.4400 | QcXhciFilter7280.cab |
+| 1.0.4056.4400 | qsarconfig7280.cab |
+| 1.0.4056.4400 | qSarMgr.cab |
+| 1.0.4056.4400 | ufnserialcomposite.cab |
+| 1.0.6600.0 | qcfirmware7280_EMMC.cab |
+| 1.0.6600.0 | qcfirmware7280_NVME.cab |
+| 1.0.6600.0 | qcfirmware7280_UFS.cab |
+| 2.0.4056.4400 | mcfg_subsys_ext7280.cab |
+| 2.0.4056.4400 | qcpilEXT7280.cab |
+| 2.0.4056.4400 | qcsubsys_ext_adsp7280.cab |
+| 2.0.4056.4400 | qcsubsys_ext_cdsp7280.cab |
+| 2.0.4056.4400 | qcsubsys_ext_mpss7280.cab |
+| 2.0.4056.4400 | qcsubsys_ext_wpss7280.cab |
+| 2.0.4056.4400 | qcsubsys7280.cab |
+| 30.0.4056.4400 | qcdx7280.cab |
+| 30.0.4056.4400 | qcdxext_crd7280.cab |
+
+### Removed
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3905.8700 | qccamavsqrd_ext7280.cab |
