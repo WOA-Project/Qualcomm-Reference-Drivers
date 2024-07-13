@@ -2088,3 +2088,50 @@
 | 30.0.31.100 | qcnspmcdm8380.cab |
 | 31.0.59.0 | qcdx8380.cab |
 | 31.0.59.0 | qcdxext_crd8380.cab |
+
+## Qualcomm - System Hardware Update - 7/3/2024 - 200.0.26.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4057.4600 | qcadsprpc8380.cab |
+| 1.0.4057.4600 | qcadsprpcd8380.cab |
+| 1.0.4057.4600 | qcAlwaysOnSensing.cab |
+| 1.0.4057.4600 | qcbluetooth_nvm_ext8380.cab |
+| 1.0.4057.4600 | qcbluetooth_ss8380.cab |
+| 1.0.4057.4600 | qcbluetooth_swiftpair_ext8380.cab |
+| 1.0.4057.4600 | qcbluetooth8380.cab |
+| 1.0.4057.4600 | qcbtaddvscregistry8380.cab |
+| 1.0.4057.4600 | qccamauxsensor_extension8380.cab |
+| 1.0.4057.4600 | qccamauxsensor8380.cab |
+| 1.0.4057.4600 | qccamavs8380.cab |
+| 1.0.4057.4600 | qccamavsqrd_ext8380.cab |
+| 1.0.4057.4600 | qccamflash_ext8380.cab |
+| 1.0.4057.4600 | qccamflash8380.cab |
+| 1.0.4057.4600 | qccamfrontsensor_extension8380.cab |
+| 1.0.4057.4600 | qccamfrontsensor8380.cab |
+| 1.0.4057.4600 | qccamisp_ext8380.cab |
+| 1.0.4057.4600 | qccamisp8380.cab |
+| 1.0.4057.4600 | qccamjpege_ext8380.cab |
+| 1.0.4057.4600 | qccamjpege8380.cab |
+| 1.0.4057.4600 | qccammipicsi_ext8380.cab |
+| 1.0.4057.4600 | qccammipicsi8380.cab |
+| 1.0.4057.4600 | qccamplatform_ext8380.cab |
+| 1.0.4057.4600 | qccamplatform8380.cab |
+| 1.0.4057.4600 | qccamrearsensor_extension8380.cab |
+| 1.0.4057.4600 | qccamrearsensor8380.cab |
+| 1.0.4057.4600 | qccamsecureisp_ext8380.cab |
+| 1.0.4057.4600 | qccamsecureisp8380.cab |
+| 1.0.4057.4600 | qcpep.wd8380.cab |
+| 1.0.4057.4600 | qcsp8380.cab |
+| 1.0.4057.4600 | qcusbcucsi8380.cab |
+| 1.0.4057.4600 | qcwlanhmt_ext8380.cab |
+| 1.0.4057.4600 | qcwlanhmt8380.cab |
+| 1.0.4057.4600 | qcwlanhsp_ext8380.cab |
+| 1.0.4057.4600 | qcwlanhsp8380.cab |
+| 1.0.4057.4600 | qdcmlib8380.cab |
+| 1.0.685.0 | qcfirmware8380_CRD_NVME.cab |
+| 30.0.31.125 | qcnspmcdm8380.cab |
+| 31.0.60.0 | qcdx8380.cab |
+| 31.0.60.0 | qcdxext_crd8380.cab |
