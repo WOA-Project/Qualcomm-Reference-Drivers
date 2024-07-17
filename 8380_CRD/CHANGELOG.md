@@ -2221,3 +2221,65 @@
 | 30.0.31.175 | qcnspmcdm8380.cab |
 | 31.0.62.0 | qcdx8380.cab |
 | 31.0.62.0 | qcdxext_crd8380.cab |
+
+## Qualcomm - System Hardware Update - 7/15/2024 - 200.0.29.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4074.5800 | qcadsprpc8380.cab |
+| 1.0.4074.5800 | qcadsprpcd8380.cab |
+| 1.0.4074.5800 | qcAlwaysOnSensing.cab |
+| 1.0.4074.5800 | qcaucd_ext_crd8380.cab |
+| 1.0.4074.5800 | qcaucd8380.cab |
+| 1.0.4074.5800 | qcbluetooth_nvm_ext8380.cab |
+| 1.0.4074.5800 | qcbluetooth_ss8380.cab |
+| 1.0.4074.5800 | qcbluetooth_swiftpair_ext8380.cab |
+| 1.0.4074.5800 | qcbluetooth8380.cab |
+| 1.0.4074.5800 | qcbtaddvscregistry8380.cab |
+| 1.0.4074.5800 | qccamauxsensor_extension8380.cab |
+| 1.0.4074.5800 | qccamauxsensor8380.cab |
+| 1.0.4074.5800 | qccamavs8380.cab |
+| 1.0.4074.5800 | qccamavsqrd_ext8380.cab |
+| 1.0.4074.5800 | qccamflash_ext8380.cab |
+| 1.0.4074.5800 | qccamflash8380.cab |
+| 1.0.4074.5800 | qccamfrontsensor_extension8380.cab |
+| 1.0.4074.5800 | qccamfrontsensor8380.cab |
+| 1.0.4074.5800 | qccamisp_ext8380.cab |
+| 1.0.4074.5800 | qccamisp8380.cab |
+| 1.0.4074.5800 | qccamjpege_ext8380.cab |
+| 1.0.4074.5800 | qccamjpege8380.cab |
+| 1.0.4074.5800 | qccammipicsi_ext8380.cab |
+| 1.0.4074.5800 | qccammipicsi8380.cab |
+| 1.0.4074.5800 | qccamplatform_ext8380.cab |
+| 1.0.4074.5800 | qccamplatform8380.cab |
+| 1.0.4074.5800 | qccamrearsensor_extension8380.cab |
+| 1.0.4074.5800 | qccamrearsensor8380.cab |
+| 1.0.4074.5800 | qccamsecureisp_ext8380.cab |
+| 1.0.4074.5800 | qccamsecureisp8380.cab |
+| 1.0.4074.5800 | qcDCF.cab |
+| 1.0.4074.5800 | qcfgbcl8380.cab |
+| 1.0.4074.5800 | qcfgbclext8380.cab |
+| 1.0.4074.5800 | qcglink8380.cab |
+| 1.0.4074.5800 | qcpep.wd8380.cab |
+| 1.0.4074.5800 | qcppx8380.cab |
+| 1.0.4074.5800 | qcsecapp.cab |
+| 1.0.4074.5800 | qcSensors.cab |
+| 1.0.4074.5800 | qcSensorsConfigCrd8380.cab |
+| 1.0.4074.5800 | QcSkExt8380.cab |
+| 1.0.4074.5800 | QcSocServiceKMDF8380.cab |
+| 1.0.4074.5800 | qcsp8380.cab |
+| 1.0.4074.5800 | qcwlanhmt_ext8380.cab |
+| 1.0.4074.5800 | qcwlanhmt8380.cab |
+| 1.0.4074.5800 | qcwlanhsp_ext8380.cab |
+| 1.0.4074.5800 | qcwlanhsp8380.cab |
+| 1.0.4074.5800 | QcXhciFilter8380.cab |
+| 1.0.700.0 | qcfirmware8380_CRD_NVME.cab |
+| 2.0.4074.5800 | qcsubsys_ext_adsp8380.cab |
+| 2.0.4074.5800 | qcsubsys_ext_cdsp8380.cab |
+| 2.0.4074.5800 | qcsubsys_ext_spss8380.cab |
+| 2.0.4074.5800 | qcsubsys8380.cab |
+| 30.0.31.200 | qcnspmcdm8380.cab |
+| 31.0.63.0 | qcdx8380.cab |
+| 31.0.63.0 | qcdxext_crd8380.cab |
