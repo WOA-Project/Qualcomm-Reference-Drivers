@@ -495,3 +495,27 @@
 | 27.20.2060.0 | qcdx8180.cab |
 | 6.16.8.0 | surfacedock2fwupdate.cab |
 | 9.166.8.0 | surfaceserialhubdriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 7/10/2024 - 200.0.23.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 0.0.15.0 | surfaceappcompanionextensionpackage.cab |
+| 0.0.260.0 | surfacetouchpadg7cfuoverhidextnpackage.cab |
+| 0.0.6.0 | surfacehidclasssettingsextensionpackage.cab |
+| 0.0.9.0 | surfacetouchpadsettingsextensionpackage.cab |
+| 0.2.3.0 | surfaceoobpairingoptinpackage.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 10.105.10.0 | surfacesystemtelemetrydriver.cab |
+| 2.131.9.0 | surfacetypecoverv7fwupdate.cab |
+| 3.13.69.0 | surfacepenblelcaddradaptationdriver.cab |
+| 3.206.1.0 | surfacehotplug.cab |
+| 35.17.10.0 | surfaceintegrationdriver.cab |
+| 6.214.10.0 | surfaceservicenulldriver.cab |
+| 9.166.37.0 | surfaceserialhubdriver.cab |
