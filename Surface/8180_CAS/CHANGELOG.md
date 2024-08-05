@@ -519,3 +519,22 @@
 | 35.17.10.0 | surfaceintegrationdriver.cab |
 | 6.214.10.0 | surfaceservicenulldriver.cab |
 | 9.166.37.0 | surfaceserialhubdriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 8/3/2024 - 200.0.24.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.2080.0 | qccamisp8180.cab |
+| 1.0.2080.0 | qccamjpege8180.cab |
+| 1.0.2080.0 | qccammipicsi8180.cab |
+| 1.0.2080.0 | qccamplatform8180.cab |
+| 1.0.2080.1 | surfaceprox_camaux.cab |
+| 1.0.2080.1 | surfaceprox_camauxext.cab |
+| 1.0.2080.1 | surfaceprox_camavs.cab |
+| 1.0.2080.1 | surfaceprox_camfront.cab |
+| 1.0.2080.1 | surfaceprox_camfrontext.cab |
+| 1.0.2080.1 | surfaceprox_camrear.cab |
+| 1.0.2080.1 | surfaceprox_camrearext.cab |
+| 3.98.5.0 | surfacehidminidriver.cab |
