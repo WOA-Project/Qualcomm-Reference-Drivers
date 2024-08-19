@@ -2,4 +2,13 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+*
 /.vs
+!*.cab
+*-*-*-*-*DM.cab
+!.gitignore
+!.gitattributes
+!*/
+!tools/*
+!refresh.sh
+!refresh.cmd
