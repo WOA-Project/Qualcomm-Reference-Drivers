@@ -537,7 +537,25 @@
 | 71.62.13.0 | SurfaceIntegrationDriver.cab |
 | 9.166.37.0 | SurfaceSerialHubDriver.cab |
 
-## Microsoft Corporation - System Hardware Update - 7/30/2024 - 200.0.19.0
+## Microsoft Corporation - System Hardware Update - 7/30/2024 - 200.0.19.0 (Pulled)
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3933.9300 | QcTrEE.cab |
+| 1.0.3933.9300 | surfacepro_ext_QCTree8280.cab |
+| 30.0.4035.6900 | qcdx8280.cab |
+| 30.0.4035.6904 | surfacepro_dxext_arc8280.cab |
+| 5.100.139.0 | SurfaceSAM.cab |
+
+### Modified
+
+| Driver version | Package |
+|----------------|---------|
+| 2.131.9.0 | SurfaceTypeCoverV7FwUpdate.cab |
+
+## Microsoft Corporation - System Hardware Update - 8/19/2024 - 200.0.20.0
 
 ### Updated
 
