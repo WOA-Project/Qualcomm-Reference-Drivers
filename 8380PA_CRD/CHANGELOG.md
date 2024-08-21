@@ -485,3 +485,21 @@
 | 30.0.31.200 | qcnspmcdm8380.cab |
 | 31.0.63.0 | qcdx8380.cab |
 | 31.0.63.0 | qcdxext_crd8380.cab |
+
+## Qualcomm - System Hardware Update - 8/6/2024 - 200.0.8.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4097.8800 | qcfirmware8380.cab |
+| 1153.9.20.823 | msu53cx22arm64sta.cab |
+| 2.0.5.0 | mep_audio_component.cab |
+| 2.0.5.0 | mep_camera_component.cab |
+| 2.0.5.0 | MicrosoftEffectPack_extension.cab |
+
+### Removed
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.700.0 | qcfirmware8380_CRD_NVME.cab |
