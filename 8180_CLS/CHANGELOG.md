@@ -3493,3 +3493,7 @@
 | 1.0.2100.0 | qsarconfig8180.cab |
 | 1.0.2100.0 | qSarMgr8180.cab |
 | 1.0.2100.0 | ufnserialcomposite.cab |
+
+## Qualcomm - System Hardware Update - 8/21/2024 - 200.0.110.0
+
+## Qualcomm - System Hardware Update - 8/22/2024 - 200.0.111.0
