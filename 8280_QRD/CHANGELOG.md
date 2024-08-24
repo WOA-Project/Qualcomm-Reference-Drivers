@@ -3675,3 +3675,5 @@
 | 1.0.4065.7100 | ufnserialcomposite.cab |
 | 30.0.4065.7100 | qcdx8280.cab |
 | 30.0.4065.7100 | qcdxext_qrd8280.cab |
+
+## Qualcomm - System Hardware Update - 8/21/2024 - 200.0.63.0
