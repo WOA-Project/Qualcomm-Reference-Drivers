@@ -370,3 +370,20 @@
 | 30.0.3959.8900 | qcdx8280.cab |
 | 5.65.139.0 | SurfaceCFUOverHid.cab |
 | 9.166.8.0 | SurfaceSerialHubDriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 8/26/2024 - 200.0.11.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.3741.8500 | surfacepro_ext_adsp8280.cab |
+| 1.0.3933.9300 | qcadsprpc8280.cab |
+| 1.0.3933.9300 | qcadsprpcd8280.cab |
+| 1.0.3933.9300 | qcsp8280.cab |
+| 10.105.10.0 | SurfaceSystemTelemetryDriver.cab |
+| 1153.13.20.420 | msu53cx22arm64sta.cab |
+| 12.21.235.0 | Surface_UEFI.cab |
+| 13.101.139.0 | SurfaceSAM.cab |
+| 6.214.10.0 | SurfaceServiceNullDriver.cab |
+| 9.166.37.0 | SurfaceSerialHubDriver.cab |
