@@ -2536,3 +2536,24 @@
 | 30.0.31.300 | qcnspmcdm8380.cab |
 | 31.0.71.0 | qcdx8380.cab |
 | 31.0.71.0 | qcdxext_crd8380.cab |
+
+## Qualcomm - System Hardware Update - 9/12/2024 - 200.0.34.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4126.4800 | qcfirmware8380.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 31.0.74.0 | qcdx8380.cab |
+| 31.0.74.0 | qcdxext_crd8380.cab |
+
+### Removed
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.720.0 | qcfirmware8380_CRD_NVME.cab |
