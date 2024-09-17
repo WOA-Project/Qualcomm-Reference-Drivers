@@ -572,3 +572,14 @@
 | Driver version | Package |
 |----------------|---------|
 | 2.131.9.0 | SurfaceTypeCoverV7FwUpdate.cab |
+
+## Microsoft Corporation - System Hardware Update - 9/17/2024 - 200.0.21.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 18.21.235.0 | Surface_UEFI.cab |
+| 2.131.15.0 | SurfaceTypeCoverV7FwUpdate.cab |
+| 3.98.5.0 | SurfaceHidMiniDriver.cab |
+| 71.62.15.0 | SurfaceIntegrationDriver.cab |
