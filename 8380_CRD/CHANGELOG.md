@@ -2557,3 +2557,12 @@
 | Driver version | Package |
 |----------------|---------|
 | 1.0.720.0 | qcfirmware8380_CRD_NVME.cab |
+
+## Qualcomm - System Hardware Update - 9/19/2024 - 200.0.35.0
+
+### Removed
+
+| Driver version | Package |
+|----------------|---------|
+| 31.0.74.0 | qcdx8380.cab |
+| 31.0.74.0 | qcdxext_crd8380.cab |
