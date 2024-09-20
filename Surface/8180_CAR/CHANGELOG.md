@@ -620,7 +620,6 @@
 | 6.214.10.0 | surfaceservicenulldriver.cab |
 | 9.166.37.0 | surfaceserialhubdriver.cab |
 
-
 ## Microsoft Corporation - System Hardware Update - 7/10/2024 - 200.0.37.0
 
 ### Added
@@ -663,3 +662,12 @@
 | 1.0.2080.1 | surfaceprox_camrear.cab |
 | 1.0.2080.1 | surfaceprox_camrearext.cab |
 | 3.98.5.0 | surfacehidminidriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 9/20/2024 - 200.0.39.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.501.139.0 | surfacesam.cab |
+| 2.131.15.0 | surfacetypecoverv7fwupdate.cab |
