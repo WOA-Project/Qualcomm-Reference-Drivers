@@ -49,11 +49,15 @@ Surface/8380_DEN/200.0.20.0/microsofteffectpack_extension.cab filter=lfs diff=lf
 Surface/8380_DEN/200.0.20.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN/200.0.22.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN/200.0.22.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN/200.0.24.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN/200.0.24.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2036/200.0.11.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2036/200.0.16.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2036/200.0.21.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2036/200.0.23.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_ROM_2036/200.0.25.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2037/200.0.10.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2037/200.0.15.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2037/200.0.20.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2037/200.0.22.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_ROM_2037/200.0.24.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
