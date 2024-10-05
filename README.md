@@ -13,6 +13,7 @@ These are drivers published on Windows Update for various Qualcomm Reference Lap
 | 8180_CLS    | Snapdragon 8c/8cx gen1/8cx gen2 (SC8180X/SC8180XP) | Qualcomm/Asus "Primus" Reference Clamshell (CLS) Laptop design with SC8180X/SC8180XP | Poipu | Shrike |
 | 8280_QRD    | Snapdragon 8cx gen 3 (SC8280X) | Qualcomm Reference Design (QRD) with SC8280X | Makena | |
 | 8380_CRD    | Snapdragon X Elite/Plus | Compute Reference Design (CRD) with SC8380XP (10c or 12c) | Hamoa | |
+| 8380_RUN    | Snapdragon X Elite      | ThunderComm Snapdragon Dev Kit for Windows (RUN) with SC8380XP (12c) | Hamoa | |
 | 8380PA_CRD  | Snapdragon "8cx Next Gen" | Compute Reference Design (CRD) with SC8380XP (8c) | Purwa | |
 
 NOTE: __Some of the target device information are educated guesses from publicly available knowledge and may be wrong or slightly off__
