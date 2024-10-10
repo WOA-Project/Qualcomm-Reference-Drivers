@@ -164,6 +164,16 @@
     "Sku": "Surface_Laptop_7th_Edition_2036"
   },
   {
+    "outputFolder": "\\Surface\\8380_ROM_BIZ_2036",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Microsoft Surface Laptop, 7th Edition",
+    "Sku": "Surface_Laptop_7th_Edition_For_Business_2036"
+  },
+  {
     "outputFolder": "\\Surface\\8380_ROM_2037",
     "guid": null,
     "filteredIds": [],
@@ -174,6 +184,16 @@
     "Sku": "Surface_Laptop_7th_Edition_2037"
   },
   {
+    "outputFolder": "\\Surface\\8380_ROM_BIZ_2037",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Microsoft Surface Laptop, 7th Edition",
+    "Sku": "Surface_Laptop_7th_Edition_For_Business_2037"
+  },
+  {
     "outputFolder": "\\Surface\\8380_DEN",
     "guid": null,
     "filteredIds": [],
@@ -182,5 +202,45 @@
     "Family": "Surface",
     "Product": "Microsoft Surface Pro, 11th Edition",
     "Sku": "Surface_Pro_11th_Edition_2076"
+  },
+  {
+    "outputFolder": "\\Surface\\8380_DEN_BIZ",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Microsoft Surface Pro, 11th Edition",
+    "Sku": "Surface_Pro_11th_Edition_For_Business_2085"
+  },
+  {
+    "outputFolder": "\\Surface\\8380_DEN_5G",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Microsoft Surface Pro with 5G, 11th Edition",
+    "Sku": "Surface_Pro_with_5G_11th_Edition_2077"
+  },
+  {
+    "outputFolder": "\\Surface\\8380_DEN_5G_BIZ",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Microsoft Surface Pro with 5G, 11th Edition",
+    "Sku": "Surface_Pro_with_5G_11th_Edition_For_Business_2077"
+  },
+  {
+    "outputFolder": "\\Surface\\8380_DEN_5G_JAP",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Microsoft Surface Pro with 5G, 11th Edition",
+    "Sku": "Surface_Pro_with_5G_11th_Edition_2078"
   }
 ]
