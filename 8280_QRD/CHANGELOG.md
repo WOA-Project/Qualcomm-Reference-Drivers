@@ -3677,3 +3677,85 @@
 | 30.0.4065.7100 | qcdxext_qrd8280.cab |
 
 ## Qualcomm - System Hardware Update - 8/21/2024 - 200.0.63.0
+
+## Qualcomm - System Hardware Update - 10/14/2024 - 200.0.64.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1400.0 | qcfirmware8280_NVME.cab |
+| 1.0.1400.0 | qcfirmware8280_UFS.cab |
+| 1.0.4122.4000 | qcabd.cab |
+| 1.0.4122.4000 | qcacsp_qrd8280.cab |
+| 1.0.4122.4000 | qcadc8280.cab |
+| 1.0.4122.4000 | qcadcm8280.cab |
+| 1.0.4122.4000 | qcaucd_ext_qrd8280.cab |
+| 1.0.4122.4000 | qcaucd8280.cab |
+| 1.0.4122.4000 | qcbtaddvscregistry8280.cab |
+| 1.0.4122.4000 | qcbtfmuart_ext8280.cab |
+| 1.0.4122.4000 | qcbtfmuart_hsp_ss8280.cab |
+| 1.0.4122.4000 | qcbtfmuart_hsp8280.cab |
+| 1.0.4122.4000 | qccamauxsensor_extension8280.cab |
+| 1.0.4122.4000 | qccamauxsensor8280.cab |
+| 1.0.4122.4000 | qccamavs8280.cab |
+| 1.0.4122.4000 | qccamavsqrd_ext8280.cab |
+| 1.0.4122.4000 | qccamflash_ext8280.cab |
+| 1.0.4122.4000 | qccamflash8280.cab |
+| 1.0.4122.4000 | qccamfrontsensor_extension8280.cab |
+| 1.0.4122.4000 | qccamfrontsensor8280.cab |
+| 1.0.4122.4000 | qccamisp_ext8280.cab |
+| 1.0.4122.4000 | qccamisp8280.cab |
+| 1.0.4122.4000 | qccamjpege_ext8280.cab |
+| 1.0.4122.4000 | qccamjpege8280.cab |
+| 1.0.4122.4000 | qccammipicsi_ext8280.cab |
+| 1.0.4122.4000 | qccammipicsi8280.cab |
+| 1.0.4122.4000 | qccamplatform_ext8280.cab |
+| 1.0.4122.4000 | qccamplatform8280.cab |
+| 1.0.4122.4000 | qccamrearsensor_extension8280.cab |
+| 1.0.4122.4000 | qccamrearsensor8280.cab |
+| 1.0.4122.4000 | QCDiagBridge.cab |
+| 1.0.4122.4000 | qcdiagrouter8280.cab |
+| 1.0.4122.4000 | qcfgbcl8280.cab |
+| 1.0.4122.4000 | qcfgbclext8280.cab |
+| 1.0.4122.4000 | qci2c8280.cab |
+| 1.0.4122.4000 | qcpep.wd8280.cab |
+| 1.0.4122.4000 | qcpil.cab |
+| 1.0.4122.4000 | qcpilEXT8280.cab |
+| 1.0.4122.4000 | qcpilfilterext.cab |
+| 1.0.4122.4000 | qcpmic8280.cab |
+| 1.0.4122.4000 | QcPmicApps8280.cab |
+| 1.0.4122.4000 | qcpmicext8280.cab |
+| 1.0.4122.4000 | QcPmicGlink8280.cab |
+| 1.0.4122.4000 | qcpmicgpio8280.cab |
+| 1.0.4122.4000 | qcscm.cab |
+| 1.0.4122.4000 | qcsecapp.cab |
+| 1.0.4122.4000 | qcSensors.cab |
+| 1.0.4122.4000 | qcSensorsConfig8280.cab |
+| 1.0.4122.4000 | qcshutdownsvc.cab |
+| 1.0.4122.4000 | QcSkExt8280.cab |
+| 1.0.4122.4000 | qcslimbus8280.cab |
+| 1.0.4122.4000 | qcsmmu8280.cab |
+| 1.0.4122.4000 | qcsp8280.cab |
+| 1.0.4122.4000 | qcspi8280.cab |
+| 1.0.4122.4000 | qcsubsys_ext_adsp8280.cab |
+| 1.0.4122.4000 | qcsubsys_ext_cdsp18280.cab |
+| 1.0.4122.4000 | qcsubsys_ext_cdsp8280.cab |
+| 1.0.4122.4000 | qcsubsys_ext_scss8280.cab |
+| 1.0.4122.4000 | qcsubsys_ext_spss8280.cab |
+| 1.0.4122.4000 | qcsubsys8280.cab |
+| 1.0.4122.4000 | QcTftpKmdf.cab |
+| 1.0.4122.4000 | QcTrEE.cab |
+| 1.0.4122.4000 | QcTreeExtOem8280.cab |
+| 1.0.4122.4000 | QcTreeExtQcom8280.cab |
+| 1.0.4122.4000 | qcuart8280.cab |
+| 1.0.4122.4000 | QcUsb4Filter8280.cab |
+| 1.0.4122.4000 | qcusbcucsi8280.cab |
+| 1.0.4122.4000 | QcUsbFnSsFilter8280.cab |
+| 1.0.4122.4000 | qcwlan_ext8280.cab |
+| 1.0.4122.4000 | qcwlan8280.cab |
+| 1.0.4122.4000 | qcwwanpowerdown.cab |
+| 30.0.4122.4000 | qcdx8280.cab |
+| 30.0.4122.4000 | qcdxext_qrd8280.cab |
+
+## Qualcomm - System Hardware Update - 10/17/2024 - 200.0.65.0
