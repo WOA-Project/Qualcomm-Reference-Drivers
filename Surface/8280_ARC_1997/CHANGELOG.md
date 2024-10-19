@@ -583,3 +583,27 @@
 | 2.131.15.0 | SurfaceTypeCoverV7FwUpdate.cab |
 | 3.98.5.0 | SurfaceHidMiniDriver.cab |
 | 71.62.15.0 | SurfaceIntegrationDriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 10/11/2024 - 200.0.22.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4065.7100 | qccamflash_ext8280.cab |
+| 1.0.4065.7100 | qccamflash8280.cab |
+| 1.0.4065.7100 | qccamisp_ext8280.cab |
+| 1.0.4065.7100 | qccamisp8280.cab |
+| 1.0.4065.7100 | qccamjpege8280.cab |
+| 1.0.4065.7100 | qccammipicsi_ext8280.cab |
+| 1.0.4065.7100 | qccammipicsi8280.cab |
+| 1.0.4065.7100 | qccamplatform8280.cab |
+| 1.0.4065.7101 | surfacecamauxsensor_extension8280.cab |
+| 1.0.4065.7101 | surfacecamauxsensor8280.cab |
+| 1.0.4065.7101 | surfacecamavs_ext8280.cab |
+| 1.0.4065.7101 | surfacecamavs8280.cab |
+| 1.0.4065.7101 | surfacecamfrontsensor_extension8280.cab |
+| 1.0.4065.7101 | surfacecamfrontsensor8280.cab |
+| 1.0.4065.7101 | surfacecamplatform_ext8280.cab |
+| 1.0.4065.7101 | surfacecamrearsensor_extension8280.cab |
+| 1.0.4065.7101 | surfacecamrearsensor8280.cab |
