@@ -94,6 +94,16 @@
     "Sku": "6"
   },
   {
+    "outputFolder": "\\8480_CRD",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Qualcomm",
+    "Family": "SCP_GLYMUR",
+    "Product": "CRD",
+    "Sku": "6"
+  },
+  {
     "outputFolder": "\\Surface\\8180_CAM",
     "guid": null,
     "filteredIds": [],
@@ -242,5 +252,15 @@
     "Family": "Surface",
     "Product": "Microsoft Surface Pro with 5G, 11th Edition",
     "Sku": "Surface_Pro_with_5G_11th_Edition_2078"
+  },
+  {
+    "outputFolder": "\\Surface\\8380_DEN_5G_JAP_BIZ",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Microsoft Surface Pro with 5G, 11th Edition",
+    "Sku": "Surface_Pro_with_5G_11th_Edition_For_Business_2078"
   }
 ]

@@ -6,6 +6,7 @@
 /.vs
 !*.cab
 *-*-*-*-*DM.cab
+DM.cab
 !.gitignore
 !.gitattributes
 !*/
