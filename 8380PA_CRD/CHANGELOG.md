@@ -891,3 +891,49 @@
 | 30.0.31.351 | qcnspmcdm8380.cab |
 | 31.0.76.0 | qcdx8380.cab |
 | 31.0.76.0 | qcdxext_crd8380.cab |
+
+## Qualcomm - System Hardware Update - 10/30/2024 - 200.0.17.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 30.0.32.1000 | qcnspmcdm_ext_cdsp8380.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4146.3600 | qcbluetooth_nvm_ext8380.cab |
+| 1.0.4146.3600 | qcbluetooth_ss8380.cab |
+| 1.0.4146.3600 | qcbluetooth_swiftpair_ext8380.cab |
+| 1.0.4146.3600 | qcbluetooth8380.cab |
+| 1.0.4146.3600 | qcbtaddvscregistry8380.cab |
+| 1.0.4146.3600 | qcfgbcl8380.cab |
+| 1.0.4146.3600 | qcfgbclext8380.cab |
+| 1.0.4146.3600 | qcpep.wd8380.cab |
+| 1.0.4146.3600 | qcpil.cab |
+| 1.0.4146.3600 | qcpilfilterext.cab |
+| 1.0.4146.3600 | qcsecapp.cab |
+| 1.0.4146.3600 | QcSkExt8380.cab |
+| 1.0.4146.3600 | qcsp8380.cab |
+| 1.0.4146.3600 | QcTrEE.cab |
+| 1.0.4146.3600 | QcTreeExtOem8380.cab |
+| 1.0.4146.3600 | QcTreeExtQcom8380.cab |
+| 1.0.4146.3600 | qcwlanhmt_ext8380.cab |
+| 1.0.4146.3600 | qcwlanhmt8380.cab |
+| 1.0.4146.3600 | qcwlanhsp_ext8380.cab |
+| 1.0.4146.3600 | qcwlanhsp8380.cab |
+| 1.0.4146.3600 | qcwlanmsl_ext_wpss8380.cab |
+| 1.0.4146.3600 | qcwlanmsl_ext8380.cab |
+| 1.0.4146.3600 | qcwlanmsl8380.cab |
+| 1.0.4146.3600 | QcXhciFilter8380.cab |
+| 1.0.735.0 | qcfirmware8380_CRD_NVME.cab |
+| 2.0.4146.3600 | qcpilEXT8380.cab |
+| 2.0.4146.3600 | qcsubsys_ext_adsp8380.cab |
+| 2.0.4146.3600 | qcsubsys_ext_cdsp8380.cab |
+| 2.0.4146.3600 | qcsubsys_ext_spss8380.cab |
+| 2.0.4146.3600 | qcsubsys8380.cab |
+| 30.0.32.1000 | qcnspmcdm8380.cab |
+| 31.0.78.0 | qcdx8380.cab |
+| 31.0.78.0 | qcdxext_crd8380.cab |
