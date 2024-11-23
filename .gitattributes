@@ -107,6 +107,8 @@ Surface/8380_DEN/200.0.28.0/microsofteffectpack_extension.cab filter=lfs diff=lf
 Surface/8380_DEN/200.0.28.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN/200.0.29.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN/200.0.29.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN/200.0.31.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN/200.0.31.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Laptop, 7th Edition (13'')
 Surface/8380_ROM_2036/200.0.11.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -117,6 +119,7 @@ Surface/8380_ROM_2036/200.0.25.0/microsofteffectpack_extension.cab filter=lfs di
 Surface/8380_ROM_2036/200.0.27.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2036/200.0.28.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2036/200.0.29.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_ROM_2036/200.0.31.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Laptop, 7th Edition (15'')
 Surface/8380_ROM_2037/200.0.10.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -127,6 +130,7 @@ Surface/8380_ROM_2037/200.0.24.0/microsofteffectpack_extension.cab filter=lfs di
 Surface/8380_ROM_2037/200.0.26.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2037/200.0.27.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2037/200.0.28.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_ROM_2037/200.0.30.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Laptop, 7th Edition (13'', Commercial)
 Surface/8380_ROM_BIZ_2036/200.0.11.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -134,6 +138,7 @@ Surface/8380_ROM_BIZ_2036/200.0.16.0/microsofteffectpack_extension.cab filter=lf
 Surface/8380_ROM_BIZ_2036/200.0.25.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_BIZ_2036/200.0.28.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_BIZ_2036/200.0.29.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_ROM_BIZ_2036/200.0.31.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Laptop, 7th Edition (15'', Commercial)
 Surface/8380_ROM_BIZ_2037/200.0.11.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -141,3 +146,4 @@ Surface/8380_ROM_BIZ_2037/200.0.16.0/microsofteffectpack_extension.cab filter=lf
 Surface/8380_ROM_BIZ_2037/200.0.25.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_BIZ_2037/200.0.28.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_BIZ_2037/200.0.29.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_ROM_BIZ_2037/200.0.31.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
