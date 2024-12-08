@@ -3538,3 +3538,5 @@
 | 27.20.2140.0 | qcdx8180.cab |
 
 ## Qualcomm - System Hardware Update - 11/27/2024 - 200.0.113.0
+
+## Qualcomm - System Hardware Update - 12/4/2024 - 200.0.114.0
