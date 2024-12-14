@@ -547,3 +547,11 @@
 |----------------|---------|
 | 2.131.15.0 | surfacetypecoverv7fwupdate.cab |
 | 2.202.139.0 | surfacesam.cab |
+
+## Microsoft Corporation - System Hardware Update - 12/13/2024 - 200.0.26.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 11.247.140.0 | surface_uefi.cab |
