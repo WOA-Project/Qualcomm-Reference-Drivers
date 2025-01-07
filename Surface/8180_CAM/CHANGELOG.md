@@ -844,3 +844,11 @@
 |----------------|---------|
 | 14.800.139.0 | surfacesam.cab |
 | 2.131.15.0 | surfacetypecoverv7fwupdate.cab |
+
+## Microsoft Corporation - System Hardware Update - 1/2/2025 - 200.0.56.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 8.254.140.0 | surface_uefi.cab |

@@ -607,3 +607,11 @@
 | 1.0.4065.7101 | surfacecamplatform_ext8280.cab |
 | 1.0.4065.7101 | surfacecamrearsensor_extension8280.cab |
 | 1.0.4065.7101 | surfacecamrearsensor8280.cab |
+
+## Microsoft Corporation - System Hardware Update - 1/2/2025 - 200.0.19.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 19.52.235.0 | Surface_UEFI.cab |
