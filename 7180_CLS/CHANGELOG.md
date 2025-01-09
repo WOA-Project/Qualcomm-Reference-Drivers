@@ -648,3 +648,87 @@
 | 1.0.1020.0 | QcTrEE7180.cab |
 | 1.0.1020.0 | qcwlan7180.cab |
 | 27.20.1020.0 | qcdx7180.cab |
+
+## Qualcomm - System Hardware Update - 1/7/2025 - 200.0.30.0
+
+## Qualcomm - System Hardware Update - 1/8/2025 - 200.0.31.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1030.0 | HalExtQCWdogTimer7180.cab |
+| 1.0.1030.0 | mcfg_subsys_ext7180.cab |
+| 1.0.1030.0 | qcabd.cab |
+| 1.0.1030.0 | qcacsp_cls7180.cab |
+| 1.0.1030.0 | qcadc7180.cab |
+| 1.0.1030.0 | qcadcm7180.cab |
+| 1.0.1030.0 | qcadsprpc7180.cab |
+| 1.0.1030.0 | qcadsprpcd7180.cab |
+| 1.0.1030.0 | qcauddev_ext7180.cab |
+| 1.0.1030.0 | qcauddev7180.cab |
+| 1.0.1030.0 | qcaudminiport_Base7180.cab |
+| 1.0.1030.0 | qcaudminiportCLS_Extension7180.cab |
+| 1.0.1030.0 | qcbtaddvscregistry7180.cab |
+| 1.0.1030.0 | qcbtfmuart_ext_SwiftPairEnable7180.cab |
+| 1.0.1030.0 | qcbtfmuart_ext7180.cab |
+| 1.0.1030.0 | qcbtfmuart7180.cab |
+| 1.0.1030.0 | qcccidbridge7180.cab |
+| 1.0.1030.0 | qccdi7180.cab |
+| 1.0.1030.0 | QCDiagBridge.cab |
+| 1.0.1030.0 | qcdiagcsi7180.cab |
+| 1.0.1030.0 | qcdiagrouter7180.cab |
+| 1.0.1030.0 | qcdplbridge7180.cab |
+| 1.0.1030.0 | qcfgbcl7180.cab |
+| 1.0.1030.0 | qcfgbclext7180.cab |
+| 1.0.1030.0 | qcgnss7180.cab |
+| 1.0.1030.0 | qcgpi7180.cab |
+| 1.0.1030.0 | qcgpio7180.cab |
+| 1.0.1030.0 | qcgsi7180.cab |
+| 1.0.1030.0 | qchwnled7180.cab |
+| 1.0.1030.0 | qci2c7180.cab |
+| 1.0.1030.0 | qciommu7180.cab |
+| 1.0.1030.0 | qcipa7180.cab |
+| 1.0.1030.0 | qcipcrouter7180.cab |
+| 1.0.1030.0 | qckmbam7180.cab |
+| 1.0.1030.0 | QCListenSM_swc_ext7180.cab |
+| 1.0.1030.0 | QCListenSM_swc7180.cab |
+| 1.0.1030.0 | QCListenSM7180.cab |
+| 1.0.1030.0 | QcLteCoexMgr7180.cab |
+| 1.0.1030.0 | qcmbb7180.cab |
+| 1.0.1030.0 | qcmbrg7180.cab |
+| 1.0.1030.0 | qcpdsr.cab |
+| 1.0.1030.0 | qcpep.wd7180.cab |
+| 1.0.1030.0 | qcpil.cab |
+| 1.0.1030.0 | qcpilEXT7180.cab |
+| 1.0.1030.0 | qcpmic7180.cab |
+| 1.0.1030.0 | QcPmicApps7180.cab |
+| 1.0.1030.0 | qcpmicgpio7180.cab |
+| 1.0.1030.0 | qcremoteat7180.cab |
+| 1.0.1030.0 | qcremotefs7180.cab |
+| 1.0.1030.0 | qcrevrmnet7180.cab |
+| 1.0.1030.0 | qcrmnetbridge7180.cab |
+| 1.0.1030.0 | qcrpen.cab |
+| 1.0.1030.0 | qcscm7180.cab |
+| 1.0.1030.0 | qcshutdownsvc.cab |
+| 1.0.1030.0 | QcSkExt7180.cab |
+| 1.0.1030.0 | qcslimbus7180.cab |
+| 1.0.1030.0 | qcsmmu7180.cab |
+| 1.0.1030.0 | QcSOCPartition.cab |
+| 1.0.1030.0 | qcspi7180.cab |
+| 1.0.1030.0 | qcspmi7180.cab |
+| 1.0.1030.0 | qcsubsys_ext_adsp7180.cab |
+| 1.0.1030.0 | qcsubsys_ext_cdsp7180.cab |
+| 1.0.1030.0 | qcsubsys_ext_mpss7180.cab |
+| 1.0.1030.0 | qcsubsys7180.cab |
+| 1.0.1030.0 | qcsyscache7180.cab |
+| 1.0.1030.0 | QcTftpKmdf.cab |
+| 1.0.1030.0 | QcTrEE7180.cab |
+| 1.0.1030.0 | qcuart7180.cab |
+| 1.0.1030.0 | qcusbcucsi7180.cab |
+| 1.0.1030.0 | QcUsbFnSsFilter7180.cab |
+| 1.0.1030.0 | qcwlan7180.cab |
+| 1.0.1030.0 | QcXhciFilter7180.cab |
+| 1.0.1030.0 | qsarconfig7180.cab |
+| 1.0.1030.0 | qSarMgr.cab |
+| 1.0.1030.0 | ufnserialcomposite.cab |
