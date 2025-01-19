@@ -732,3 +732,5 @@
 | 1.0.1030.0 | qsarconfig7180.cab |
 | 1.0.1030.0 | qSarMgr.cab |
 | 1.0.1030.0 | ufnserialcomposite.cab |
+
+## Qualcomm - System Hardware Update - 1/9/2025 - 200.0.32.0
