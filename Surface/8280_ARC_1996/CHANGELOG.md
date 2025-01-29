@@ -615,3 +615,15 @@
 | Driver version | Package |
 |----------------|---------|
 | 19.52.235.0 | Surface_UEFI.cab |
+
+## Microsoft Corporation - System Hardware Update - 1/26/2025 - 200.0.20.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4122.4000 | qcslimbus8280.cab |
+| 1.0.4122.4000 | qcwlan_ext8280.cab |
+| 1.0.4122.4000 | qcwlan8280.cab |
+| 1.8.9.0 | SurfaceDigitizerWoTExtnPackage.cab |
+| 30.0.4122.4000 | qcdx8280.cab |
