@@ -42,6 +42,7 @@ Surface/8280_ARC_1997/200.0.20.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs mer
 Surface/8280_ARC_1997/200.0.21.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8280_ARC_1997/200.0.22.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8280_ARC_1997/200.0.24.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8280_ARC_1997/200.0.25.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Windows Dev Kit 2023
 Surface/8280_BLK/200.0.2.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
