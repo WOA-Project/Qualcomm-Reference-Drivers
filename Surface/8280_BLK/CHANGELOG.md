@@ -387,3 +387,11 @@
 | 13.101.139.0 | SurfaceSAM.cab |
 | 6.214.10.0 | SurfaceServiceNullDriver.cab |
 | 9.166.37.0 | SurfaceSerialHubDriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 1/21/2025 - 200.0.12.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 13.42.235.0 | Surface_UEFI.cab |
