@@ -852,3 +852,11 @@
 | Driver version | Package |
 |----------------|---------|
 | 8.254.140.0 | surface_uefi.cab |
+
+## Microsoft Corporation - System Hardware Update - 1/30/2025 - 200.0.57.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 27.20.2140.0 | qcdx8180.cab |

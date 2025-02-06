@@ -395,3 +395,42 @@
 | 6982.1.0.0 | surfacepro_snscfgcrd8380.cab |
 | 6982.1.1.139 | surfacepro_ext_adsp8380.cab |
 | 9.719.535.23 | dax3_ext_qc.cab |
+
+## Microsoft Corporation - System Hardware Update - 2/5/2025 - 200.0.15.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.7.0 | surfaceusb4dockfwupdate.cab |
+| 2.26.12.0 | surfacethunderbolt4dockfwupdate.cab |
+| 30.0.35.1000 | qcnspmcdm_ext_cdsp8380.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4160.6000 | qcdcf.cab |
+| 1.0.4160.6000 | qcdpps8380.cab |
+| 1.0.4160.6000 | qcsubsysthermalmgr.cab |
+| 1.0.4166.1200 | qcsp8380.cab |
+| 1.0.4175.2700 | qcadsprpc8380.cab |
+| 1.0.4175.2700 | qcadsprpcd8380.cab |
+| 1.0.4175.2700 | qceva_ext8380.cab |
+| 1.0.4175.2700 | qceva8380.cab |
+| 1.8.9.0 | surfacedigitizerwotextnpackage.cab |
+| 174.11.235.0 | surface_uefi.cab |
+| 2.0.13.0 | mep_audio_component.cab |
+| 2.0.13.0 | mep_camera_component.cab |
+| 2.0.13.0 | microsofteffectpack_extension.cab |
+| 2.0.4175.2700 | qcsubsys_ext_cdsp8380.cab |
+| 2.0.4175.2700 | qcsubsys8380.cab |
+| 30.0.35.1000 | qcnspmcdm8380.cab |
+| 31.0.84.0 | qcdx8380.cab |
+| 31.0.84.2 | surface_dxext_8380.cab |
+
+### Removed
+
+| Driver version | Package |
+|----------------|---------|
+| 117.4.13.0 | surfaceintegrationdriver.cab |
