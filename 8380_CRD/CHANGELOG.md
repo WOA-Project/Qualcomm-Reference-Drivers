@@ -3147,3 +3147,56 @@
 | 30.0.138.0 | qcnspmcdm8380.cab |
 | 31.0.90.0 | qcdx8380.cab |
 | 31.0.90.0 | qcdxext_crd8380.cab |
+
+## Qualcomm - System Hardware Update - 1/31/2025 - 200.0.46.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4219.5800 | qcglink8380.cab |
+| 1.0.4219.5800 | QcXhciFilter8380.cab |
+| 1.0.4222.9100 | QcSkExt8380.cab |
+| 1.0.4227.8600 | qcdpps8380.cab |
+| 1.0.4227.8600 | qcdxext_qcdpps8380.cab |
+| 1.0.4227.8600 | qdcmlib8380.cab |
+| 1.0.4228.1700 | qcAlwaysOnSensing.cab |
+| 1.0.4228.1700 | qccamauxsensor_extension8380.cab |
+| 1.0.4228.1700 | qccamauxsensor8380.cab |
+| 1.0.4228.1700 | qccamavs8380.cab |
+| 1.0.4228.1700 | qccamavsqrd_ext8380.cab |
+| 1.0.4228.1700 | qccamflash_ext8380.cab |
+| 1.0.4228.1700 | qccamflash8380.cab |
+| 1.0.4228.1700 | qccamfrontsensor_extension8380.cab |
+| 1.0.4228.1700 | qccamfrontsensor8380.cab |
+| 1.0.4228.1700 | qccamisp_ext8380.cab |
+| 1.0.4228.1700 | qccamisp8380.cab |
+| 1.0.4228.1700 | qccamjpege_ext8380.cab |
+| 1.0.4228.1700 | qccamjpege8380.cab |
+| 1.0.4228.1700 | qccammipicsi_ext8380.cab |
+| 1.0.4228.1700 | qccammipicsi8380.cab |
+| 1.0.4228.1700 | qccamplatform_ext8380.cab |
+| 1.0.4228.1700 | qccamplatform8380.cab |
+| 1.0.4228.1700 | qccamrearsensor_extension8380.cab |
+| 1.0.4228.1700 | qccamrearsensor8380.cab |
+| 1.0.4228.1700 | qccamsecureisp_ext8380.cab |
+| 1.0.4228.1700 | qccamsecureisp8380.cab |
+| 1.0.770.0 | FVCreator.cab |
+| 1.0.770.0 | qcfirmware8380_CRD_NVME.cab |
+| 1.0.770.0 | SysFwVersion.cab |
+| 2.0.4219.5800 | qcpilEXT8380.cab |
+| 2.0.4219.5800 | qcsubsys_ext_adsp8380.cab |
+| 2.0.4219.5800 | qcsubsys_ext_cdsp8380.cab |
+| 2.0.4219.5800 | qcsubsys_ext_spss8380.cab |
+| 2.0.4219.5800 | qcsubsys8380.cab |
+| 30.0.139.1000 | qcnspmcdm_ext_cdsp8380.cab |
+| 30.0.139.1000 | qcnspmcdm8380.cab |
+| 31.0.91.0 | qcdx8380.cab |
+| 31.0.91.0 | qcdxext_crd8380.cab |
+
+### Modified
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4216.6600 | qcpil.cab |
+| 1.0.4216.6600 | qcpilfilterext.cab |
