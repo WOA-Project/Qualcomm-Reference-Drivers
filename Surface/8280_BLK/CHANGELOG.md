@@ -395,3 +395,16 @@
 | Driver version | Package |
 |----------------|---------|
 | 13.42.235.0 | Surface_UEFI.cab |
+
+## Microsoft Corporation - System Hardware Update - 3/6/2025 - 200.0.14.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4122.4000 | qcslimbus8280.cab |
+| 1.0.4122.4000 | qcwlan_ext8280.cab |
+| 1.0.4122.4000 | qcwlan8280.cab |
+| 1153.16.20.830 | msu53cx22arm64sta.cab |
+| 30.0.4122.4000 | qcdx8280.cab |
+| 6.200.6.0 | devicestelemetryservicedriver.cab |
