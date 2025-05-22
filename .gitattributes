@@ -54,6 +54,7 @@ Surface/8280_BLK/200.0.9.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs
 Surface/8280_BLK/200.0.10.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8280_BLK/200.0.11.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8280_BLK/200.0.12.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8280_BLK/200.0.14.0/QcMbbFWUpdateDriver.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Pro, 11th Edition (5G, Commercial)
 Surface/8380_DEN_5G_BIZ/200.0.7.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -62,6 +63,8 @@ Surface/8380_DEN_5G_BIZ/200.0.12.0/microsofteffectpack_extension.cab filter=lfs 
 Surface/8380_DEN_5G_BIZ/200.0.12.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_5G_BIZ/200.0.14.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_5G_BIZ/200.0.14.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN_5G_BIZ/200.0.17.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN_5G_BIZ/200.0.17.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Pro, 11th Edition (5G, Japan)
 Surface/8380_DEN_5G_JAP/200.0.7.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -72,12 +75,16 @@ Surface/8380_DEN_5G_JAP/200.0.14.0/microsofteffectpack_extension.cab filter=lfs 
 Surface/8380_DEN_5G_JAP/200.0.14.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_5G_JAP/200.0.15.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_5G_JAP/200.0.15.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN_5G_JAP/200.0.17.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN_5G_JAP/200.0.17.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Pro, 11th Edition (5G, Commercial, Japan)
 Surface/8380_DEN_5G_JAP_BIZ/200.0.12.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_5G_JAP_BIZ/200.0.12.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_5G_JAP_BIZ/200.0.14.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_5G_JAP_BIZ/200.0.14.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN_5G_JAP_BIZ/200.0.17.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN_5G_JAP_BIZ/200.0.17.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Pro, 11th Edition (5G)
 Surface/8380_DEN_5G/200.0.8.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -90,6 +97,8 @@ Surface/8380_DEN_5G/200.0.15.0/microsofteffectpack_extension.cab filter=lfs diff
 Surface/8380_DEN_5G/200.0.15.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_5G/200.0.16.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_5G/200.0.16.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN_5G/200.0.18.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN_5G/200.0.18.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Pro, 11th Edition (Commercial)
 Surface/8380_DEN_BIZ/200.0.6.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -108,6 +117,8 @@ Surface/8380_DEN_BIZ/200.0.28.0/microsofteffectpack_extension.cab filter=lfs dif
 Surface/8380_DEN_BIZ/200.0.28.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_BIZ/200.0.29.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN_BIZ/200.0.29.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN_BIZ/200.0.31.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN_BIZ/200.0.31.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Pro, 11th Edition
 Surface/8380_DEN/200.0.9.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -132,6 +143,8 @@ Surface/8380_DEN/200.0.31.0/microsofteffectpack_extension.cab filter=lfs diff=lf
 Surface/8380_DEN/200.0.31.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN/200.0.32.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_DEN/200.0.32.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN/200.0.34.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_DEN/200.0.34.0/surface_mbbfwupdatedriver.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Laptop, 7th Edition (13'')
 Surface/8380_ROM_2036/200.0.11.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -145,6 +158,7 @@ Surface/8380_ROM_2036/200.0.29.0/microsofteffectpack_extension.cab filter=lfs di
 Surface/8380_ROM_2036/200.0.31.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2036/200.0.32.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2036/200.0.33.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_ROM_2036/200.0.34.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Laptop, 7th Edition (15'')
 Surface/8380_ROM_2037/200.0.10.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -156,6 +170,7 @@ Surface/8380_ROM_2037/200.0.26.0/microsofteffectpack_extension.cab filter=lfs di
 Surface/8380_ROM_2037/200.0.27.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2037/200.0.28.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_2037/200.0.30.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_ROM_2037/200.0.32.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Laptop, 7th Edition (13'', Commercial)
 Surface/8380_ROM_BIZ_2036/200.0.11.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -165,6 +180,7 @@ Surface/8380_ROM_BIZ_2036/200.0.28.0/microsofteffectpack_extension.cab filter=lf
 Surface/8380_ROM_BIZ_2036/200.0.29.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_BIZ_2036/200.0.31.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_BIZ_2036/200.0.32.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_ROM_BIZ_2036/200.0.33.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 
 # Microsoft Surface Laptop, 7th Edition (15'', Commercial)
 Surface/8380_ROM_BIZ_2037/200.0.11.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
@@ -173,3 +189,4 @@ Surface/8380_ROM_BIZ_2037/200.0.25.0/microsofteffectpack_extension.cab filter=lf
 Surface/8380_ROM_BIZ_2037/200.0.28.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_BIZ_2037/200.0.29.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
 Surface/8380_ROM_BIZ_2037/200.0.31.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
+Surface/8380_ROM_BIZ_2037/200.0.33.0/microsofteffectpack_extension.cab filter=lfs diff=lfs merge=lfs -text
