@@ -627,3 +627,18 @@
 | 1.0.4122.4000 | qcwlan8280.cab |
 | 1.8.9.0 | SurfaceDigitizerWoTExtnPackage.cab |
 | 30.0.4122.4000 | qcdx8280.cab |
+
+## Microsoft Corporation - System Hardware Update - 5/1/2025 - 200.0.26.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.11.0 | SurfaceUsb4DockFwUpdate.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 18.0.22.0 | QcMbbFWUpdateDriver.cab |
+| 30.0.4195.6500 | qcdx8280.cab |

@@ -564,3 +564,17 @@
 |----------------|---------|
 | 11.258.140.0 | surface_uefi.cab |
 | 27.20.2140.0 | qcdx8180.cab |
+
+## Microsoft Corporation - System Hardware Update - 4/29/2025 - 200.0.29.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.11.0 | surfaceusb4dockfwupdate.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 2.300.139.0 | surfacesam.cab |

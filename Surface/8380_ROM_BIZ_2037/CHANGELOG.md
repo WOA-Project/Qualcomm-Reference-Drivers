@@ -766,3 +766,94 @@
 | Driver version | Package |
 |----------------|---------|
 | 161.17.0.34 | surfacetcon15.cab |
+
+## Microsoft Corporation - System Hardware Update - 4/3/2025 - 200.0.34.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.11.0 | surfaceusb4dockfwupdate.cab |
+| 161.120.3.7 | surfacetcon13incell64kb.cab |
+| 175.77.235.0 | surface_uefi.cab |
+| 2.0.4237.8400 | qcsubsys_ext_cdsp8380.cab |
+| 2.0.4237.8400 | qcsubsys_ext_spss8380.cab |
+| 2.0.4237.8400 | qcsubsys8380.cab |
+| 25.102.139.0 | surfacesam.cab |
+| 30.0.140.1000 | qcnspmcdm_ext_cdsp8380.cab |
+| 30.0.140.1000 | qcnspmcdm8380.cab |
+| 6.215.29.0 | surfaceservicenulldriver.cab |
+| 7800.1.0.139 | surfacepro_ext_adsp8380.cab |
+| 9.167.16.0 | surfaceserialhubdriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 5/29/2025 - 200.0.38.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4157.4500 | qcadcm8380.cab |
+| 1.0.4160.6000 | qcabd.cab |
+| 1.0.4160.6000 | qcadc8380.cab |
+| 1.0.4160.6000 | qcfgbcl8380.cab |
+| 1.0.4160.6000 | qcfgbclext8380.cab |
+| 1.0.4160.6000 | qcgpi8380.cab |
+| 1.0.4160.6000 | qcgpio8380.cab |
+| 1.0.4160.6000 | qci2c8380.cab |
+| 1.0.4160.6000 | qciommu.cab |
+| 1.0.4160.6000 | qciommuext8380.cab |
+| 1.0.4160.6000 | qcipcc8380.cab |
+| 1.0.4160.6000 | qcipcrouter8380.cab |
+| 1.0.4160.6000 | qckmbam8380.cab |
+| 1.0.4160.6000 | qcpdsr.cab |
+| 1.0.4160.6000 | qcpmicapps8380.cab |
+| 1.0.4160.6000 | qcpmicgpio8380.cab |
+| 1.0.4160.6000 | qcrpen.cab |
+| 1.0.4160.6000 | qcscm.cab |
+| 1.0.4160.6000 | qcslimbus8380.cab |
+| 1.0.4160.6000 | qcsmmu8380.cab |
+| 1.0.4160.6000 | qcsocpartition.cab |
+| 1.0.4160.6000 | qcspi8380.cab |
+| 1.0.4160.6000 | qcspmi8380.cab |
+| 1.0.4160.6000 | qcssgservicesumd.cab |
+| 1.0.4160.6000 | qcuart8380.cab |
+| 1.0.4160.6000 | qcursext.cab |
+| 1.0.4160.6000 | qcusb4bus8380.cab |
+| 1.0.4160.6000 | qcusbfnssfilter8380.cab |
+| 1.0.4166.1200 | qcasd_apo8380.cab |
+| 1.0.4166.1200 | qcasd8380.cab |
+| 1.0.4166.1200 | qcaucd8380.cab |
+| 1.0.4166.1200 | qcaudminiport_apo8380.cab |
+| 1.0.4166.1200 | qcaudminiport_base8380.cab |
+| 1.0.4166.1200 | qcpmic8380.cab |
+| 1.0.4166.1200 | qcpmicext8380.cab |
+| 1.0.4175.2700 | qcpmicglink8380.cab |
+| 1.0.4196.6900 | qcadsprpc8380.cab |
+| 1.0.4196.6900 | qcadsprpcd8380.cab |
+| 1.0.4196.6900 | qcpep.wd8380.cab |
+| 1.0.4196.6900 | qcppx8380.cab |
+| 1.0.4196.6900 | qcsocservicekmdf8380.cab |
+| 1.0.4196.6900 | qcsp8380.cab |
+| 1.0.4196.6900 | qcsyscache8380.cab |
+| 1.0.4196.6900 | qcusb4filter8380.cab |
+| 1.0.4196.6900 | qcusbcucsi8380.cab |
+| 1.0.4216.6600 | qccdi8380.cab |
+| 1.0.4219.5800 | qcglink8380.cab |
+| 1.0.4227.8600 | qcdpps8380.cab |
+| 1.0.4237.8400 | qceva_ext8380.cab |
+| 1.0.4237.8400 | qceva8380.cab |
+| 1.0.4237.8400 | qcpil.cab |
+| 1.0.4237.8400 | qcpilfilterext.cab |
+| 1.0.4237.8400 | qcsecapp.cab |
+| 1.0.4237.8400 | qcskext8380.cab |
+| 1.0.4237.8400 | qctftpkmdf.cab |
+| 1.0.4237.8400 | qctree.cab |
+| 1.0.4237.8400 | qctreeextqcom8380.cab |
+| 1.0.4237.8400 | qcxhcifilter8380.cab |
+| 2.0.4237.8400 | qcpilext8380.cab |
+| 31.0.96.0 | qcdx8380.cab |
+| 31.0.96.2 | surface_dxext_8380.cab |
+| 7450.2024.11.15 | surface_acsp8380.cab |
+| 7450.2024.11.15 | surface_asdext8380.cab |
+| 7450.2024.11.15 | surface_aucdext8380.cab |
+| 7450.2024.11.15 | surface_audiominiext8380.cab |
