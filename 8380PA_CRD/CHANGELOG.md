@@ -1619,3 +1619,54 @@
 | 30.0.142.1000 | qcnspmcdm8380.cab |
 | 31.0.105.0 | qcdx8380.cab |
 | 31.0.105.0 | qcdxext_crd8380.cab |
+
+## Qualcomm - System Hardware Update - 6/9/2025 - 200.0.28.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4338.2200 | qcadsprpc8380.cab |
+| 1.0.4338.2200 | qcadsprpcd8380.cab |
+| 1.0.4338.2200 | qcAlwaysOnSensing.cab |
+| 1.0.4338.2200 | qcaucd_ext_crd8380.cab |
+| 1.0.4338.2200 | qcaucd8380.cab |
+| 1.0.4338.2200 | qccamauxsensor_extension8380.cab |
+| 1.0.4338.2200 | qccamauxsensor8380.cab |
+| 1.0.4338.2200 | qccamavs8380.cab |
+| 1.0.4338.2200 | qccamavsqrd_ext8380.cab |
+| 1.0.4338.2200 | qccamflash_ext8380.cab |
+| 1.0.4338.2200 | qccamflash8380.cab |
+| 1.0.4338.2200 | qccamfrontsensor_extension8380.cab |
+| 1.0.4338.2200 | qccamfrontsensor8380.cab |
+| 1.0.4338.2200 | qccamisp_ext8380.cab |
+| 1.0.4338.2200 | qccamisp8380.cab |
+| 1.0.4338.2200 | qccamjpege_ext8380.cab |
+| 1.0.4338.2200 | qccamjpege8380.cab |
+| 1.0.4338.2200 | qccammipicsi_ext8380.cab |
+| 1.0.4338.2200 | qccammipicsi8380.cab |
+| 1.0.4338.2200 | qccamplatform_ext8380.cab |
+| 1.0.4338.2200 | qccamplatform8380.cab |
+| 1.0.4338.2200 | qccamrearsensor_extension8380.cab |
+| 1.0.4338.2200 | qccamrearsensor8380.cab |
+| 1.0.4338.2200 | qccamsecureisp_ext8380.cab |
+| 1.0.4338.2200 | qccamsecureisp8380.cab |
+| 1.0.4338.2200 | qcppx8380.cab |
+| 1.0.4338.2200 | qcsecapp.cab |
+| 1.0.4338.2200 | qcsp8380.cab |
+| 1.0.4338.2200 | QcTrEE.cab |
+| 1.0.4338.2200 | QcTreeExtOem8380.cab |
+| 1.0.4338.2200 | QcTreeExtQcom8380.cab |
+| 1.0.4338.2200 | qcusbcucsi8380.cab |
+| 1.0.4338.2200 | qcwlanhmt_ext8380.cab |
+| 1.0.4338.2200 | qcwlanhmt8380.cab |
+| 1.0.4338.2200 | qcwlanhsp_ext8380.cab |
+| 1.0.4338.2200 | qcwlanhsp8380.cab |
+| 1.0.4338.2200 | QcXhciFilter8380.cab |
+| 1.0.810.0 | FVCreator.cab |
+| 1.0.810.0 | qcfirmware8380_CRD_NVME.cab |
+| 1.0.810.0 | SysFwVersion.cab |
+| 30.0.143.0 | qcnspmcdm_ext_cdsp8380.cab |
+| 30.0.143.0 | qcnspmcdm8380.cab |
+| 31.0.112.0 | qcdx8380.cab |
+| 31.0.112.0 | qcdxext_crd8380.cab |
