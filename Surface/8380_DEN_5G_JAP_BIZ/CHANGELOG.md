@@ -558,3 +558,42 @@
 | 7450.2024.11.15 | surface_asdext8380.cab |
 | 7450.2024.11.15 | surface_aucdext8380.cab |
 | 7450.2024.11.15 | surface_audiominiext8380.cab |
+
+## Microsoft Corporation - System Hardware Update - 6/14/2025 - 200.0.22.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 0.2.3.0 | surfaceoobpairingoptinpackage.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4258.7900 | qccamflash_ext8380.cab |
+| 1.0.4258.7900 | qccamflash8380.cab |
+| 1.0.4258.7900 | qccamisp_ext8380.cab |
+| 1.0.4258.7900 | qccamisp8380.cab |
+| 1.0.4258.7900 | qccamjpege8380.cab |
+| 1.0.4258.7900 | qccammipicsi_ext8380.cab |
+| 1.0.4258.7900 | qccammipicsi8380.cab |
+| 1.0.4258.7900 | qccamplatform8380.cab |
+| 1.0.4258.7900 | qccamsecureisp_ext8380.cab |
+| 1.0.4258.7900 | qccamsecureisp8380.cab |
+| 1.0.4258.7908 | surfacecamauxsensor_extension8380.cab |
+| 1.0.4258.7908 | surfacecamauxsensor8380.cab |
+| 1.0.4258.7908 | surfacecamavs8380.cab |
+| 1.0.4258.7908 | surfacecamavspro_ext8380.cab |
+| 1.0.4258.7908 | surfacecamfrontsensor_extension8380.cab |
+| 1.0.4258.7908 | surfacecamfrontsensor8380.cab |
+| 1.0.4258.7908 | surfacecamplatform_ext8380.cab |
+| 1.0.4258.7908 | surfacecamrearsensor_extension8380.cab |
+| 1.0.4258.7908 | surfacecamrearsensor8380.cab |
+| 1.1.35.0 | surface_mbbfwupdatedriver.cab |
+| 2.613.9.0 | surfacepaneldriver.cab |
+| 3.98.18.0 | surfacehidminidriver.cab |
+| 31.0.105.0 | qcdx8380.cab |
+| 31.0.105.3 | surface_dxext_8380.cab |
+| 6.215.37.0 | surfaceservicenulldriver.cab |
+| 6.35.52.0 | surfacemachinelearningservicenulldriver.cab |

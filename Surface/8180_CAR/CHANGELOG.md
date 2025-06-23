@@ -702,3 +702,11 @@
 | Driver version | Package |
 |----------------|---------|
 | 1.600.139.0 | surfacesam.cab |
+
+## Microsoft Corporation - System Hardware Update - 6/18/2025 - 200.0.45.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 8.256.140.0 | surface_uefi.cab |
