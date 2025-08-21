@@ -578,3 +578,14 @@
 | Driver version | Package |
 |----------------|---------|
 | 2.300.139.0 | surfacesam.cab |
+
+## Microsoft Corporation - System Hardware Update - 7/7/2025 - 200.0.30.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 2.149.19.0 | surfacepowertrackercore.cab |
+| 3.30803.830.0 | dax3_swc_hsa_arm64.cab |
+| 3.30806.863.0 | dax3_swc_aposvc_arm64.cab |
+| 9.1018.745.13 | dax3_ext_qc_dolbyatmos_dolbyaccessoem.cab |
