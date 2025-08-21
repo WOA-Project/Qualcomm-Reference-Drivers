@@ -642,3 +642,14 @@
 |----------------|---------|
 | 18.0.22.0 | QcMbbFWUpdateDriver.cab |
 | 30.0.4195.6500 | qcdx8280.cab |
+
+## Microsoft Corporation - System Hardware Update - 7/7/2025 - 200.0.22.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 2.149.19.0 | SurfacePowerTrackerCore.cab |
+| 3.30803.830.0 | dax3_swc_hsa_arm64.cab |
+| 3.30806.863.0 | dax3_swc_aposvc_arm64.cab |
+| 9.1224.1102.32 | dax3_ext_qc.cab |
