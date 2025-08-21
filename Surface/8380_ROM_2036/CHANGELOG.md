@@ -1502,3 +1502,44 @@
 | 31.0.105.0 | qcdx8380.cab |
 | 31.0.105.3 | surface_dxext_8380.cab |
 | 6.35.52.0 | surfacemachinelearningservicenulldriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 7/25/2025 - 200.0.43.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4281.8500 | qcadcm8380.cab |
+| 1.0.4281.8500 | qcasd_apo8380.cab |
+| 1.0.4281.8500 | qcasd8380.cab |
+| 1.0.4281.8500 | qcaudminiport_apo8380.cab |
+| 1.0.4281.8500 | qcaudminiport_base8380.cab |
+| 1.0.4281.8500 | qcpil.cab |
+| 1.0.4281.8500 | qcpilfilterext.cab |
+| 1.0.4281.8500 | qcpmicapps8380.cab |
+| 1.0.4293.7000 | qcskext8380.cab |
+| 1.0.4338.2200 | qcadsprpc8380.cab |
+| 1.0.4338.2200 | qcadsprpcd8380.cab |
+| 1.0.4338.2200 | qcaucd8380.cab |
+| 1.0.4338.2200 | qcsecapp.cab |
+| 1.0.4338.2200 | qcsp8380.cab |
+| 1.0.4338.2200 | qctree.cab |
+| 1.0.4338.2200 | qctreeextqcom8380.cab |
+| 1.0.4338.2200 | qcusbcucsi8380.cab |
+| 1.0.4338.2200 | qcxhcifilter8380.cab |
+| 175.126.235.0 | surface_uefi.cab |
+| 2.0.4285.100 | qcpilext8380.cab |
+| 2.0.4285.100 | qcsubsys_ext_cdsp8380.cab |
+| 2.0.4285.100 | qcsubsys_ext_spss8380.cab |
+| 2.0.4285.100 | qcsubsys8380.cab |
+| 25.203.139.0 | surfacesam.cab |
+| 3.0.8.0 | surfacepaneldriver.cab |
+| 30.0.143.0 | qcnspmcdm_ext_cdsp8380.cab |
+| 30.0.143.0 | qcnspmcdm8380.cab |
+| 31.0.112.0 | qcdx8380.cab |
+| 31.0.112.0 | surface_dxext_8380.cab |
+| 8100.1.1.139 | surfacepro_ext_adsp8380.cab |
+| 8100.2025.6.11 | surface_acsp8380.cab |
+| 8100.2025.6.11 | surface_asdext8380.cab |
+| 8100.2025.6.11 | surface_aucdext8380.cab |
+| 8100.2025.6.11 | surface_audiominiext8380.cab |
