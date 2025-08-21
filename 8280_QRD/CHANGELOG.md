@@ -3882,3 +3882,74 @@
 | Driver version | Package |
 |----------------|---------|
 | 1.0.4122.4000 | qcSensorsConfig8280.cab |
+
+## Qualcomm - System Hardware Update - 8/11/2025 - 200.0.67.0
+
+### Added
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4195.6500 | qcaudminiport_apo8280.cab |
+| 1.0.4195.6500 | qcSensorsConfig8280.cab |
+| 1153.9.20.823 | msu53cx22arm64sta.cab |
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.1440.0 | qcfirmware8280_NVME.cab |
+| 1.0.1440.0 | qcfirmware8280_UFS.cab |
+| 1.0.4369.8700 | qcadsprpc8280.cab |
+| 1.0.4369.8700 | qcadsprpcd8280.cab |
+| 1.0.4369.8700 | qcAlwaysOnCVSensor_ext8280.cab |
+| 1.0.4369.8700 | qcbtaddvscregistry8280.cab |
+| 1.0.4369.8700 | qcbtfmuart_ext8280.cab |
+| 1.0.4369.8700 | qcbtfmuart_hsp_ss8280.cab |
+| 1.0.4369.8700 | qcbtfmuart_hsp8280.cab |
+| 1.0.4369.8700 | qccamauxsensor_extension8280.cab |
+| 1.0.4369.8700 | qccamauxsensor8280.cab |
+| 1.0.4369.8700 | qccamavs8280.cab |
+| 1.0.4369.8700 | qccamavsqrd_ext8280.cab |
+| 1.0.4369.8700 | qccamflash_ext8280.cab |
+| 1.0.4369.8700 | qccamflash8280.cab |
+| 1.0.4369.8700 | qccamfrontsensor_extension8280.cab |
+| 1.0.4369.8700 | qccamfrontsensor8280.cab |
+| 1.0.4369.8700 | qccamisp_ext8280.cab |
+| 1.0.4369.8700 | qccamisp8280.cab |
+| 1.0.4369.8700 | qccamjpege_ext8280.cab |
+| 1.0.4369.8700 | qccamjpege8280.cab |
+| 1.0.4369.8700 | qccammipicsi_ext8280.cab |
+| 1.0.4369.8700 | qccammipicsi8280.cab |
+| 1.0.4369.8700 | qccamplatform_ext8280.cab |
+| 1.0.4369.8700 | qccamplatform8280.cab |
+| 1.0.4369.8700 | qccamrearsensor_extension8280.cab |
+| 1.0.4369.8700 | qccamrearsensor8280.cab |
+| 1.0.4369.8700 | qcHumanPresenceSensor.cab |
+| 1.0.4369.8700 | qcpil.cab |
+| 1.0.4369.8700 | qcpilEXT8280.cab |
+| 1.0.4369.8700 | qcpilfilterext.cab |
+| 1.0.4369.8700 | qcsecapp.cab |
+| 1.0.4369.8700 | qcSensors.cab |
+| 1.0.4369.8700 | qcshutdownsvc.cab |
+| 1.0.4369.8700 | QcSkExt8280.cab |
+| 1.0.4369.8700 | qcsp8280.cab |
+| 1.0.4369.8700 | qcsubsys_ext_adsp8280.cab |
+| 1.0.4369.8700 | qcsubsys_ext_cdsp18280.cab |
+| 1.0.4369.8700 | qcsubsys_ext_cdsp8280.cab |
+| 1.0.4369.8700 | qcsubsys_ext_scss8280.cab |
+| 1.0.4369.8700 | qcsubsys_ext_spss8280.cab |
+| 1.0.4369.8700 | qcsubsys8280.cab |
+| 1.0.4369.8700 | QcTftpKmdf.cab |
+| 1.0.4369.8700 | QcTreeExtOem8280.cab |
+| 1.0.4369.8700 | QcTreeExtQcom8280.cab |
+| 1.0.4369.8700 | qcwlan_ext8280.cab |
+| 1.0.4369.8700 | qcwlan8280.cab |
+| 30.0.4375.5500 | qcdx8280.cab |
+| 30.0.4375.5500 | qcdxext_qrd8280.cab |
+
+### Removed
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4195.6500 | qcAlwaysOnCVSensor.cab |
+| 1.0.4195.6500 | qcSensorsConfigQrd8280.cab |
