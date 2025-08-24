@@ -1543,3 +1543,11 @@
 | 8100.2025.6.11 | surface_asdext8380.cab |
 | 8100.2025.6.11 | surface_aucdext8380.cab |
 | 8100.2025.6.11 | surface_audiominiext8380.cab |
+
+## Microsoft Corporation - System Hardware Update - 8/21/2025 - 200.0.44.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 108.12.2.0 | surfaceintegrationdriver.cab |
