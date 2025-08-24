@@ -9,6 +9,10 @@
 > - We do not provide warranty of anykind. Likewise, some of these drivers may be pushed in production on Windows Update, OR NOT!
 > - Some of these drivers are "Flighted" on Windows Update in a specific Driver Flight Group. Flighting, in the Windows Update world, is a term to indicate pre-release preview updates. We do not make any difference in this repository between flighted updates and production updates.
 
+> [!NOTE]
+> We are not open to add any extra OEM device. This repository is exclusively for holding drivers for official Qualcomm Reference Devices first, Surface second. Some OEM devices are only included because older reference platforms are not published on Windows Update. (Snapdragon 835, Snapdragon 850)
+> We likewise, will not provide support of any kind to you. This is not the point of this repository.
+
 These are drivers published on Windows Update for various Qualcomm Reference Laptops.
 
 ## What are these folders?
