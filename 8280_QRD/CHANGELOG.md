@@ -3953,3 +3953,5 @@
 |----------------|---------|
 | 1.0.4195.6500 | qcAlwaysOnCVSensor.cab |
 | 1.0.4195.6500 | qcSensorsConfigQrd8280.cab |
+
+## Qualcomm - System Hardware Update - 8/25/2025 - 200.0.68.0
