@@ -272,5 +272,45 @@
     "Family": "Surface",
     "Product": "Microsoft Surface Pro with 5G, 11th Edition",
     "Sku": "Surface_Pro_with_5G_11th_Edition_For_Business_2078"
+  },
+  {
+    "outputFolder": "\\Surface\\8380_VEA",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Surface Pro 12in 1st Ed with Snapdragon",
+    "Sku": "Surface_Pro_12in_1st_Ed_with_Snapdragon_2110"
+  },
+  {
+    "outputFolder": "\\Surface\\8380_VEA_BIZ",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Surface Pro for Business 12in 1st Ed with Snapdragon",
+    "Sku": "Surface_Pro_for_Business_12in_1st_Ed_with_Snapdragon_2109"
+  },
+  {
+    "outputFolder": "\\Surface\\8380_LAN",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Surface Laptop 13in 1st Ed with Snapdragon",
+    "Sku": "Surface_Laptop_13in_1st_Ed_with_Snapdragon_2095"
+  },
+  {
+    "outputFolder": "\\Surface\\8380_LAN_BIZ",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Microsoft Corporation",
+    "Family": "Surface",
+    "Product": "Surface Laptop for Business 13in 1st Ed with Snapdragon",
+    "Sku": "Surface_Laptop_for_Business_13in_1st_Ed_with_Snapdragon_2095"
   }
 ]
