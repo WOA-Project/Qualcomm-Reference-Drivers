@@ -980,3 +980,35 @@
 | Driver version | Package |
 |----------------|---------|
 | 108.12.2.0 | surfaceintegrationdriver.cab |
+
+## Microsoft Corporation - System Hardware Update - 9/3/2025 - 200.0.44.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 175.138.235.0 | surface_uefi.cab |
+
+## Microsoft Corporation - System Hardware Update - 9/22/2025 - 200.0.45.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 2.0.4374.1300 | qcsubsys_ext_cdsp8380.cab |
+| 2.0.4374.1300 | qcsubsys8380.cab |
+| 30.0.145.1000 | qcnspmcdm_ext_cdsp8380.cab |
+| 30.0.145.1000 | qcnspmcdm8380.cab |
+
+## Microsoft Corporation System Hardware Update (200.0.46.0) - 200.0.46.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4357.100 | qcbtacx_transportdriver8380.cab |
+| 1.0.4374.1300 | qcwlanhmt_ext8380.cab |
+| 1.0.4374.1300 | qcwlanhmt8380.cab |
+| 1.0.4374.1301 | qcbluetooth8380.cab |
+| 1.0.4422.300 | qcbtaddvscregistry8380.cab |
+| 1.14.490.0 | miscwlanext.cab |
