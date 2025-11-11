@@ -104,6 +104,16 @@
     "Sku": "6"
   },
   {
+    "outputFolder": "\\8480MA_CRD",
+    "guid": null,
+    "filteredIds": [],
+    "excludedIds": [],
+    "Manufacturer": "Qualcomm",
+    "Family": "SCP_MAHUA",
+    "Product": "CRD",
+    "Sku": "6"
+  },
+  {
     "outputFolder": "\\Surface\\8180_CAM",
     "guid": null,
     "filteredIds": [],
