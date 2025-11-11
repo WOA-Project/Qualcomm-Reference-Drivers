@@ -589,3 +589,15 @@
 | 3.30803.830.0 | dax3_swc_hsa_arm64.cab |
 | 3.30806.863.0 | dax3_swc_aposvc_arm64.cab |
 | 9.1018.745.13 | dax3_ext_qc_dolbyatmos_dolbyaccessoem.cab |
+
+## Microsoft Corporation - System Hardware Update - 10/7/2025 - 200.0.31.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.2160.0 | qcwlan8180.cab |
+| 1.115.30.0 | SurfaceTypeCoverV7FprUdeDriver.cab |
+| 2.131.28.0 | SurfaceTypeCoverV7FwUpdate.cab |
+| 27.20.2160.0 | qcdx8180.cab |
+| 4.15.12412.20033 | WbfUsbDriver.cab |
