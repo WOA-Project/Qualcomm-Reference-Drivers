@@ -3540,3 +3540,115 @@
 ## Qualcomm - System Hardware Update - 11/27/2024 - 200.0.113.0
 
 ## Qualcomm - System Hardware Update - 12/4/2024 - 200.0.114.0
+
+## Qualcomm - System Hardware Update - 9/2/2025 - 200.0.115.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.2160.0 | mcfg_subsys_ext8180.cab |
+| 1.0.2160.0 | qcabd.cab |
+| 1.0.2160.0 | qcacsp_cls8180.cab |
+| 1.0.2160.0 | qcadc8180.cab |
+| 1.0.2160.0 | qcadcm8180.cab |
+| 1.0.2160.0 | qcadsprpc8180.cab |
+| 1.0.2160.0 | qcadsprpcd8180.cab |
+| 1.0.2160.0 | qcauddev_ext8180.cab |
+| 1.0.2160.0 | qcauddev8180.cab |
+| 1.0.2160.0 | qcaudminiport_Base8180.cab |
+| 1.0.2160.0 | qcaudminiportCLS_Extension8180.cab |
+| 1.0.2160.0 | qcbattminiclass8180.cab |
+| 1.0.2160.0 | qcbtaddvscregistry_hst8180.cab |
+| 1.0.2160.0 | qcbtaddvscregistry8180.cab |
+| 1.0.2160.0 | qcbtfmuart_ext8180.cab |
+| 1.0.2160.0 | qcbtfmuart_hst_ext_SwiftPairEnable8180.cab |
+| 1.0.2160.0 | qcbtfmuart_hst_ext8180.cab |
+| 1.0.2160.0 | qcbtfmuart_hst8180.cab |
+| 1.0.2160.0 | qcbtfmuart8180.cab |
+| 1.0.2160.0 | qccamauxsensor_extension8180.cab |
+| 1.0.2160.0 | qccamauxsensor8180.cab |
+| 1.0.2160.0 | qccamavscls8180.cab |
+| 1.0.2160.0 | qccamfrontsensor_extension8180.cab |
+| 1.0.2160.0 | qccamfrontsensor8180.cab |
+| 1.0.2160.0 | qccamisp8180.cab |
+| 1.0.2160.0 | qccamjpege8180.cab |
+| 1.0.2160.0 | qccammipicsi8180.cab |
+| 1.0.2160.0 | qccamplatform8180.cab |
+| 1.0.2160.0 | qccamrearsensor_extension8180.cab |
+| 1.0.2160.0 | qccamrearsensor8180.cab |
+| 1.0.2160.0 | qcccidbridge8180.cab |
+| 1.0.2160.0 | qccdi8180.cab |
+| 1.0.2160.0 | QCDiagBridge.cab |
+| 1.0.2160.0 | qcdiagcsi8180.cab |
+| 1.0.2160.0 | qcdiagrouter8180.cab |
+| 1.0.2160.0 | qcdplbridge8180.cab |
+| 1.0.2160.0 | qcfgbcl8180.cab |
+| 1.0.2160.0 | qcfgbclext8180.cab |
+| 1.0.2160.0 | qcfirmware8180_NVME.cab |
+| 1.0.2160.0 | qcfirmware8180_UFS.cab |
+| 1.0.2160.0 | qcglink8180.cab |
+| 1.0.2160.0 | qcgnss8180.cab |
+| 1.0.2160.0 | qcgpi8180.cab |
+| 1.0.2160.0 | qcgpio8180.cab |
+| 1.0.2160.0 | qcgsi8180.cab |
+| 1.0.2160.0 | qchwnled8180.cab |
+| 1.0.2160.0 | qci2c8180.cab |
+| 1.0.2160.0 | qciommu8180.cab |
+| 1.0.2160.0 | qcipa8180.cab |
+| 1.0.2160.0 | qcipcrouter8180.cab |
+| 1.0.2160.0 | qckmbam8180.cab |
+| 1.0.2160.0 | QCListenSM_swc_ext8180.cab |
+| 1.0.2160.0 | QCListenSM_swc8180.cab |
+| 1.0.2160.0 | QCListenSM8180.cab |
+| 1.0.2160.0 | QcLteCoexMgr8180.cab |
+| 1.0.2160.0 | qcmbb8180.cab |
+| 1.0.2160.0 | qcmbrg8180.cab |
+| 1.0.2160.0 | qcpdsr.cab |
+| 1.0.2160.0 | qcpep.wd8180.cab |
+| 1.0.2160.0 | qcpil8180.cab |
+| 1.0.2160.0 | qcpilEXT8180.cab |
+| 1.0.2160.0 | qcpmic8180.cab |
+| 1.0.2160.0 | QcPmicApps8180.cab |
+| 1.0.2160.0 | QcPmicGlink8180.cab |
+| 1.0.2160.0 | qcpmicgpio8180.cab |
+| 1.0.2160.0 | qcppx8180.cab |
+| 1.0.2160.0 | qcremoteat8180.cab |
+| 1.0.2160.0 | qcremotefs8180.cab |
+| 1.0.2160.0 | qcrevrmnet8180.cab |
+| 1.0.2160.0 | qcrmnetbridge8180.cab |
+| 1.0.2160.0 | qcrpen8180.cab |
+| 1.0.2160.0 | qcscm8180.cab |
+| 1.0.2160.0 | qcSensors8180.cab |
+| 1.0.2160.0 | qcSensorsConfigCls8180.cab |
+| 1.0.2160.0 | qcSensorsConfigClsc8180.cab |
+| 1.0.2160.0 | qcshutdownsvc.cab |
+| 1.0.2160.0 | qcslimbus8180.cab |
+| 1.0.2160.0 | qcsmmu8180.cab |
+| 1.0.2160.0 | QcSOCPartition.cab |
+| 1.0.2160.0 | qcspi8180.cab |
+| 1.0.2160.0 | qcspmi8180.cab |
+| 1.0.2160.0 | qcsubsys_ext_adsp8180.cab |
+| 1.0.2160.0 | qcsubsys_ext_cdsp8180.cab |
+| 1.0.2160.0 | qcsubsys_ext_mpss8180.cab |
+| 1.0.2160.0 | qcsubsys_ext_scss8180.cab |
+| 1.0.2160.0 | qcsubsys8180.cab |
+| 1.0.2160.0 | qcsyscache8180.cab |
+| 1.0.2160.0 | QcTftpKmdf.cab |
+| 1.0.2160.0 | QcTrEE8180.cab |
+| 1.0.2160.0 | qcuart8180.cab |
+| 1.0.2160.0 | qcusbcucsi8180.cab |
+| 1.0.2160.0 | qcusbfn8180.cab |
+| 1.0.2160.0 | QcUsbFnSsFilter8180.cab |
+| 1.0.2160.0 | qcwlan6800sc8180.cab |
+| 1.0.2160.0 | qcwlan8180.cab |
+| 1.0.2160.0 | QcXhciFilter8180.cab |
+| 1.0.2160.0 | qdcmlib8180.cab |
+| 1.0.2160.0 | qsarconfig8180.cab |
+| 1.0.2160.0 | qSarMgr8180.cab |
+| 1.0.2160.0 | ufnserialcomposite.cab |
+| 27.20.2160.0 | qcdx8180.cab |
+
+## Qualcomm - System Hardware Update - 9/3/2025 - 200.0.116.0
+
+## Qualcomm - System Hardware Update - 9/8/2025 - 200.0.117.0
