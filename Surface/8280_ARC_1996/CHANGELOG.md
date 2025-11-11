@@ -428,19 +428,6 @@
 | 5.65.139.0 | SurfaceCFUOverHid.cab |
 | 6.13.137.0 | SurfaceDock2FwUpdate.cab |
 
-## Microsoft Corporation - System Hardware Update - 10/16/2023 - 200.0.7.0 (Pulled)
-
-### Updated
-
-| Driver version | Package |
-|----------------|---------|
-| 1.0.3851.4800 | qcwlan8280.cab |
-| 17.4.235.0 | Surface_UEFI.cab |
-| 3.118.11.0 | SurfaceSarManager.cab |
-| 30.0.3741.8500 | surfacepro_dxext_arc8280.cab |
-| 30.0.3820.3000 | qcdx8280.cab |
-| 71.0.0.40 | SurfaceSMF.cab |
-
 ## Microsoft Corporation - System Hardware Update - 10/23/2023 - 200.0.8.0
 
 ### Updated
@@ -536,24 +523,6 @@
 | 6.214.10.0 | SurfaceServiceNullDriver.cab |
 | 71.62.13.0 | SurfaceIntegrationDriver.cab |
 | 9.166.37.0 | SurfaceSerialHubDriver.cab |
-
-## Microsoft Corporation - System Hardware Update - 7/30/2024 - 200.0.14.0 (Pulled)
-
-### Updated
-
-| Driver version | Package |
-|----------------|---------|
-| 1.0.3933.9300 | QcTrEE.cab |
-| 1.0.3933.9300 | surfacepro_ext_QCTree8280.cab |
-| 30.0.4035.6900 | qcdx8280.cab |
-| 30.0.4035.6904 | surfacepro_dxext_arc8280.cab |
-| 5.100.139.0 | SurfaceSAM.cab |
-
-### Modified
-
-| Driver version | Package |
-|----------------|---------|
-| 2.131.9.0 | SurfaceTypeCoverV7FwUpdate.cab |
 
 ## Microsoft Corporation - System Hardware Update - 8/19/2024 - 200.0.15.0
 
@@ -653,3 +622,18 @@
 | 3.30803.830.0 | dax3_swc_hsa_arm64.cab |
 | 3.30806.863.0 | dax3_swc_aposvc_arm64.cab |
 | 9.1224.1102.32 | dax3_ext_qc.cab |
+
+## Microsoft Corporation - System Hardware Update - 10/8/2025 - 200.0.23.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 1.0.4369.8700 | qcadsprpc8280.cab |
+| 1.0.4369.8700 | qcadsprpcd8280.cab |
+| 1.0.4369.8700 | qcbtaddvscregistry8280.cab |
+| 1.0.4369.8700 | qcbtfmuart_hsp8280.cab |
+| 1.0.4369.8700 | QcTftpKmdf.cab |
+| 1.115.30.0 | SurfaceTypeCoverV7FprUdeDriver.cab |
+| 2.131.28.0 | SurfaceTypeCoverV7FwUpdate.cab |
+| 4.15.12412.20033 | WbfUsbDriver.cab |
